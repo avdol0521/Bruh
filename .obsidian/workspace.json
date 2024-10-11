@@ -11,12 +11,10 @@
             "id": "2b3cbf47b32c0933",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "HSC/hsc tutor list.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "trigonometry - M.md",
+                "staged": false
               }
             }
           }
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSC/hsc tutor list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSC/hsc tutor list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HSC/hsc tutor list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +184,20 @@
   },
   "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
-    "HSC/HSC Subs.md",
+    "11. bijganitik onupat o shomanupat.md",
+    "bijgonit - M.md",
+    "13.Shomantor dhara.md",
+    "4. shuchok.md",
+    "3. bijganitik rashi.md",
+    "2. set & functions.md",
+    "Math.md",
+    "17. porishonkhan.md",
+    "trigonometry - M.md",
+    "Jemiti - M.md",
+    "Class 10.md",
     "HSC/hsc tutor list.md",
+    "HSC/Diagonal(korno) matrix.md",
+    "HSC/HSC Subs.md",
     "Templates/Study Template.md",
     "CSRF.md",
     "Burp.md",
@@ -204,18 +210,6 @@
     "POST Based SQLi.md",
     "Error Based SQLi.md",
     "SQLi smol tricks.md",
-    "Bucket List 0521.md",
-    "do not fucking open this if you're not me.md",
-    "CSRF tokens.md",
-    "HSC/1. Matrices and Determinants.md",
-    "HSC/Higher Maths 1.md",
-    "HSC/square matrix.md",
-    "HSC/Diagonal(korno) matrix.md",
-    "HSC/triangular matrix.md",
-    "wordpress plugins.md",
-    "software.md",
-    "resources.md",
-    "AWS course.md",
     "Pasted image 20230911200425.png",
     "Pasted image 20230916185552.png",
     "Pasted image 20230916185254.png",

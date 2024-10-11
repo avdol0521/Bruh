@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "11. bijganitik onupat o shomanupat",
+      "path": "11. bijganitik onupat o shomanupat.md"
+    },
+    {
+      "basename": "bijgonit - M",
+      "path": "bijgonit - M.md"
+    },
+    {
+      "basename": "13.Shomantor dhara",
+      "path": "13.Shomantor dhara.md"
+    },
+    {
+      "basename": "4. shuchok",
+      "path": "4. shuchok.md"
+    },
+    {
+      "basename": "3. bijganitik rashi",
+      "path": "3. bijganitik rashi.md"
+    },
+    {
+      "basename": "2. set & functions",
+      "path": "2. set & functions.md"
+    },
+    {
+      "basename": "Math",
+      "path": "Math.md"
+    },
+    {
+      "basename": "17. porishonkhan",
+      "path": "17. porishonkhan.md"
+    },
+    {
+      "basename": "trigonometry - M",
+      "path": "trigonometry - M.md"
+    },
+    {
+      "basename": "Jemiti - M",
+      "path": "Jemiti - M.md"
+    },
+    {
+      "basename": "Class 10",
+      "path": "Class 10.md"
+    },
+    {
       "basename": "hsc tutor list",
       "path": "HSC/hsc tutor list.md"
+    },
+    {
+      "basename": "Diagonal(korno) matrix",
+      "path": "HSC/Diagonal(korno) matrix.md"
     },
     {
       "basename": "HSC Subs",
@@ -81,10 +129,6 @@
       "path": "HSC/square matrix.md"
     },
     {
-      "basename": "Diagonal(korno) matrix",
-      "path": "HSC/Diagonal(korno) matrix.md"
-    },
-    {
       "basename": "triangular matrix",
       "path": "HSC/triangular matrix.md"
     },
@@ -155,50 +199,6 @@
     {
       "basename": "XSS topic links",
       "path": "XSS topic links.md"
-    },
-    {
-      "basename": "payload links",
-      "path": "payload links.md"
-    },
-    {
-      "basename": "file extention payloads",
-      "path": "file extention payloads.md"
-    },
-    {
-      "basename": "admin bypass payload",
-      "path": "admin bypass payload.md"
-    },
-    {
-      "basename": "LFI dorks",
-      "path": "LFI dorks.md"
-    },
-    {
-      "basename": "LFI",
-      "path": "LFI.md"
-    },
-    {
-      "basename": "web shell uploading tutos",
-      "path": "web shell uploading tutos.md"
-    },
-    {
-      "basename": "Stuff I wanna learn",
-      "path": "Stuff I wanna learn.md"
-    },
-    {
-      "basename": "Webdev",
-      "path": "Webdev.md"
-    },
-    {
-      "basename": "Git and github",
-      "path": "Git and github.md"
-    },
-    {
-      "basename": "Virtual Box",
-      "path": "Virtual Box.md"
-    },
-    {
-      "basename": "vmware",
-      "path": "vmware.md"
     }
   ],
   "omittedPaths": []

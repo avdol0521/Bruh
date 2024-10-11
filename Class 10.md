@@ -9,6 +9,6 @@ tags:
 - [[Math]]
 - [[Higher Maths]]
 - [[Biology]]
-- [[Bgs]]
+- [[Bgs]] 
 - [[B1]]
 - [[B2]]
