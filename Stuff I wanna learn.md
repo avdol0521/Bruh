@@ -1,0 +1,6 @@
+- [[Webdev]]
+- [[Hacking]] 
+- [[Driving]]
+- [[Learning to properly fly a kite]]
+- [[swimming]] 
+- coding in general

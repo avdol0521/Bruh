@@ -1,0 +1,7 @@
+- WAN IP Address : ==192.168.177.10==
+- Subnet Mask : ==255.255.255.192==
+- Default Gateway : ==192.168.177.1==
+- Primary DNS: ==1.1.1.1==
+- Secondary DNS: ==1.0.0.1==
+- (╯°□°)--︻╦╤─ - - -
+- mks722485

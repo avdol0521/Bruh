@@ -1,0 +1,4 @@
+- [[1. set & functions - HM]]
+- [[2. bijganitik rashi - HM]]
+- [[7.Oshim dhara]] 
+- [[10. dipodiORpascel]] 

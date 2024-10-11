@@ -1,0 +1,7 @@
+- [[SQLi]] 
+- [[noRedirect]]
+- [[LFI]] 
+- [[web shell uploading]]
+- [[Burp]] 
+- [[XSS]] 
+- [[CSRF]] 

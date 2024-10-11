@@ -1,0 +1,1 @@
+basically any kind of organic compound that are  acids or their derivatives and are insoluble in water but soluble in organic solvents. They include many natural oils, waxes, and steroids.

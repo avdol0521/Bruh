@@ -1,0 +1,1 @@
+- that longing wish that i had a father i could actually look upto and idolize. i need to learn to just accept it and stop breaking down whenever i see 

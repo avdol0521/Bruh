@@ -1,0 +1,1 @@
+- je nirdishto [[Tapmatra]] te kothin podartho golte shuru kore take tar [[Golonanko]] bole

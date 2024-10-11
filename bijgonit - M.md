@@ -1,0 +1,5 @@
+- [[2. set & functions]]
+- [[3. bijganitik rashi]]
+- [[4. shuchok]]
+- [[13.Shomantor dhara]] 
+- [[11. bijganitik onupat o shomanupat]] 

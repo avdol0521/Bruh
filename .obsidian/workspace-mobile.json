@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "c131411433a5036d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0255f3385fed00ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "116a29a0cfdc09c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Vector.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebc8383c86f96450",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "51cf1eb7ad727b41",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "8b9db4a6b22f2a5b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e0815522ea2a3f5c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d8fba03383360a8d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f6424dfff78ffd89",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3c6bc25edbef4455",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "12. Vector.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "64dbecde9b652cf1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "12. Vector.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "911ab91c495df2e2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "12. Vector.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "116a29a0cfdc09c4",
+  "lastOpenFiles": [
+    "Physics.md",
+    "Oshim dhara.md",
+    "2. goti.md",
+    "7. torongo o shobdo.md",
+    "8. Alor protifolon.md",
+    "9. Alor protishoron.md",
+    "11. cholo biddut.md",
+    "Class 10.md",
+    "Biology.md",
+    "12. bongshogoti.md",
+    "11. jib er projonon.md",
+    "10. shomonnoy.md",
+    "8. rechon.md",
+    "4. jiboni shokti.md",
+    "2. cell and tissue.md",
+    "8. roshayon o shokti.md",
+    "7. rashayonik bikria.md",
+    "6. Moles and calculations.md",
+    "3. podarther gothon.md",
+    "3. bijganitik rashi.md",
+    "4. shuchok.md",
+    "8. britto.md",
+    "7. beboharik jemiti.md",
+    "2. set & functions.md",
+    "3. jemiti - HM.md",
+    "10. durotto and ucchota.md",
+    "10. dipodi "
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "local",
+  "spellcheck": false,
+  "readableLineLength": true,
+  "showLineNumber": false
+}

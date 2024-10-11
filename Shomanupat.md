@@ -1,0 +1,1 @@
+4 ta rashi a, b, c and d dewa ache. ekhane 2 ta rashir [[Onupat or Ratio]] = baki 2 ta rashir [[Onupat or Ratio]] hole eitakei bole [[Shomanupat]]. For example in this case:   a : b  =  c : d

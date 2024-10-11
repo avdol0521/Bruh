@@ -1,0 +1,2 @@
+- image to text : https://www.imagetotext.io/
+- 

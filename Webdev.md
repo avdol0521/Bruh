@@ -1,0 +1,10 @@
+theres diff parts to [[Webdev]] I gotta learn first
+- [[HTML]]
+- [[CSS]]
+- [[JS]]
+- [[React]]
+- [[PHP]]
+- [[Docker]]
+- [[Git and github]] 
+- [[SQL]]
+- [[nodeJS]] 

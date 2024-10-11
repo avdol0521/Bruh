@@ -1,0 +1,1 @@
+- tap oposharon kore bayobiyo podarther torole porinoto howar prokriya ke [[Ghonivobon]] bole

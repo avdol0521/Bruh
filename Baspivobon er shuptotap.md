@@ -1,0 +1,1 @@
+- torol ke baspivuto korar shomoy puro torol podarthoke gasious podarthe porinoto korte je poriman [[Tap]] proyojon hoy take [[Baspivobon er shuptotap]] bole

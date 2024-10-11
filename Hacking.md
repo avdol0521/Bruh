@@ -1,0 +1,2 @@
+- [[AWS course]] 
+- goofy ass subfile i made wayyyyy back: [[pen test]] 

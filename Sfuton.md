@@ -1,0 +1,1 @@
+- [[Tap]] proyog e torol podarther joliyo baspe rupantor howar prokriya ke [[Sfuton]] bole (e.g. 100deg c te tap proyoge baspe porinoto hoy)

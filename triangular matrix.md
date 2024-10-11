@@ -1,0 +1,2 @@
+- urdho triangular matrix (aij = 0 where i > j)
+- nimno triangular matrix (opposite)

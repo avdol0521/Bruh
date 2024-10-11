@@ -1,0 +1,2 @@
+- tap holo podarther moddhokar onu shomuher gotishokti
+- tap holo ek prokar shokti ja thanda ba goromer onuvuti jagay

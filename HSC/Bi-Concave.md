@@ -1,0 +1,1 @@
+basically means its concave on both sides like a concave lense

@@ -1,0 +1,3 @@
+- instead of concat do con%3fcat
+- Uni?on select
+- side note: always check version coz 5.0 er niche hoile data dump impossible so time waste

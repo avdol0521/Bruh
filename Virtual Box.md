@@ -1,0 +1,1 @@
+its a [[vmware]] software that lets you emulate different operating systems for example im emulating [[Kali linux]] which is a distro of [[linux]]  on my machine with [[Virtual Box]] 

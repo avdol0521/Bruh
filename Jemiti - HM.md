@@ -1,0 +1,3 @@
+- [[11. sthananko jemiti]] - must 1 set
+- [[3. jemiti - HM]]
+- [[13. ghono jemiti - HM]]

@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#keyNode",
+      "color": {
+        "a": 1,
+        "rgb": 10506976
+      }
+    },
+    {
+      "query": "tag:#hsc",
+      "color": {
+        "a": 1,
+        "rgb": 6065110
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.9,
+  "nodeSizeMultiplier": 1.19739583333333,
+  "lineSizeMultiplier": 1.171875,
+  "collapse-forces": false,
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 14.1666666666667,
+  "linkStrength": 0.739583333333333,
+  "linkDistance": 30,
+  "scale": 0.03984886775215726,
+  "close": true
+}

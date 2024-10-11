@@ -1,0 +1,1 @@
+- XSS contexts: https://portswigger.net/web-security/cross-site-scripting/contexts

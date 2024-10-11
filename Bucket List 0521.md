@@ -1,0 +1,32 @@
+- [x] own a cycle
+- [x] 100km ride
+- [x] my own table
+- [x] my own personal room
+- [x] fotka
+- [x] beach 
+- [x] solo train journey
+- [x] solo bus journey
+- [x] solo launch journey
+- [x] buy terraria
+- [ ] fix these things: [[do not fucking open this if you're not me]] 
+- [ ] first actual paycheck and treat myself with it
+- [ ] aurora
+- [ ] touching real snow
+- [ ] build a snowman
+- [ ] climb a big ass mountain and scream my lungs out 
+- [ ] own a sword
+- [ ] a polaroid camera
+- [ ] a handycam vision CCD-TRV16 Video 8 XR
+- [ ] remote controlled helicoptah
+- [ ] my own pc
+- [ ] laser
+- [ ] 100 pushups straight
+- [ ] skydiving
+- [ ] camping
+- [ ] skubadiving
+- [ ] that place in the valley of the giants
+- [ ] sitting under a cherry blossom tree, watching the petals fall in the wind
+- [ ] get physically kinda ripped one day. doesnt really have to be an absolute gymbro status, just slightly bulky is enuf
+- [ ] celebrate my own birthday for once
+- [ ] a better phone would be nice ig but isnt really needed for now
+- [ ] revenge for what he did
