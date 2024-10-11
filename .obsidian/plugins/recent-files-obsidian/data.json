@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "hsc tutor list",
+      "path": "HSC/hsc tutor list.md"
+    },
+    {
+      "basename": "horror movies",
+      "path": "horror movies.md"
+    },
+    {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Games.md"
+    },
+    {
+      "basename": "Games i wanna play one day",
+      "path": "Games i wanna play one day.md"
+    },
+    {
+      "basename": "DOM Based XSS",
+      "path": "DOM Based XSS.md"
+    },
+    {
+      "basename": "admin panel dorks",
+      "path": "admin panel dorks.md"
+    },
+    {
+      "basename": "Higher Maths 1",
+      "path": "HSC/Higher Maths 1.md"
+    },
+    {
       "basename": "11. bijganitik onupat o shomanupat",
       "path": "11. bijganitik onupat o shomanupat.md"
     },
@@ -45,10 +81,6 @@
       "path": "Class 10.md"
     },
     {
-      "basename": "hsc tutor list",
-      "path": "HSC/hsc tutor list.md"
-    },
-    {
       "basename": "Diagonal(korno) matrix",
       "path": "HSC/Diagonal(korno) matrix.md"
     },
@@ -71,10 +103,6 @@
     {
       "basename": "RCE",
       "path": "RCE.md"
-    },
-    {
-      "basename": "Games i wanna play one day",
-      "path": "Games i wanna play one day.md"
     },
     {
       "basename": "Vuln Sites",
@@ -121,10 +149,6 @@
       "path": "HSC/1. Matrices and Determinants.md"
     },
     {
-      "basename": "Higher Maths 1",
-      "path": "HSC/Higher Maths 1.md"
-    },
-    {
       "basename": "square matrix",
       "path": "HSC/square matrix.md"
     },
@@ -165,10 +189,6 @@
       "path": "Pasted image 20230916185552.png"
     },
     {
-      "basename": "DOM Based XSS",
-      "path": "DOM Based XSS.md"
-    },
-    {
       "basename": "XSS",
       "path": "XSS.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Store Based XSS",
       "path": "Store Based XSS.md"
-    },
-    {
-      "basename": "6. bostur upor taper provab",
-      "path": "6. bostur upor taper provab.md"
-    },
-    {
-      "basename": "XSS payloads",
-      "path": "XSS payloads.md"
-    },
-    {
-      "basename": "Unfinished games",
-      "path": "Unfinished games.md"
-    },
-    {
-      "basename": "dorks&payloads",
-      "path": "dorks&payloads.md"
-    },
-    {
-      "basename": "XSS topic links",
-      "path": "XSS topic links.md"
     }
   ],
   "omittedPaths": []

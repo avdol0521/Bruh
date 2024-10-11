@@ -13,7 +13,7 @@
             "state": {
               "type": "diff-view",
               "state": {
-                "file": "trigonometry - M.md",
+                "file": "HSC/hsc tutor list.md",
                 "staged": false
               }
             }
@@ -72,7 +72,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,6 +185,15 @@
   },
   "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
+    "HSC/hsc tutor list.md",
+    "horror movies.md",
+    "watchlist.md",
+    "Me.md",
+    "Games.md",
+    "Games i wanna play one day.md",
+    "DOM Based XSS.md",
+    "admin panel dorks.md",
+    "HSC/Higher Maths 1.md",
     "11. bijganitik onupat o shomanupat.md",
     "bijgonit - M.md",
     "13.Shomantor dhara.md",
@@ -195,21 +205,12 @@
     "trigonometry - M.md",
     "Jemiti - M.md",
     "Class 10.md",
-    "HSC/hsc tutor list.md",
     "HSC/Diagonal(korno) matrix.md",
     "HSC/HSC Subs.md",
     "Templates/Study Template.md",
     "CSRF.md",
     "Burp.md",
     "RCE.md",
-    "Games i wanna play one day.md",
-    "Vuln Sites.md",
-    "aws topics.md",
-    "SQLi.md",
-    "GET Based SQLi.md",
-    "POST Based SQLi.md",
-    "Error Based SQLi.md",
-    "SQLi smol tricks.md",
     "Pasted image 20230911200425.png",
     "Pasted image 20230916185552.png",
     "Pasted image 20230916185254.png",

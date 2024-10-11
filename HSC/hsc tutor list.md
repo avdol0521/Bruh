@@ -1,0 +1,42 @@
+- math: 
+	- Math & Science Nerds (math) (rakib vai??) (6)
+	- abhi datta tushar (6)
+	- kabbo vai (1)
+	- bondi pathshala (1)
+	- fox math lab (1)
+- chem:
+	- learn with himel (full academic covered apparently) (2)
+	- shawon reza (2)
+	- najmus sakib (1)
+	- 10ms (apar vai) (1)
+	- saikat chemistry (2)
+	- emon bhai (1)
+	- sakib bhai (1)
+- phys:
+	- apurbo's physics care (5)
+	- promit bhai (not this either) (mehedi suggestion) (1)
+	- ovishek bhai (mehedi suggestion as well) (1)
+	- yeasin bhai (idk the channel name) (1)
+	- niaz morshed bhai (idk the channel name for this either) (1)
+	- physics maniac (1)
+	- chinmoy physics solution (3)
+	- lobdhi physics (1) 
+	- 10ms (apar vai) (1)
+- bio: 
+	- battles of biology (3)
+	- abrar hamim (1)
+	- [Biology haters](https://www.facebook.com/BiologyHatersOfficial)  (1)
+	- dmc station (2)
+	- রাজীব হোসাইন সরকার (1)
+	- Sadiqur Rahman sadab (1)
+	- boni amin opu (1)
+- ict: 
+	- easy ict school (jodiyo lagena but meh)
+	- abhi dytta tushar (1)
+	- 10ms (1)
+- english:
+	- pavel vai 
+- bangla:
+	- musafir rahad sir (1) 
+- extra:
+	- onnorokom pathshala
