@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9e3d3b505882ff2f",
+        "id": "c728abfc0d9edecd",
         "type": "tabs",
         "children": [
           {
-            "id": "bf92c59fa4744847",
+            "id": "2b3cbf47b32c0933",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "HSC/hsc tutor list.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HSC/hsc tutor list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HSC/hsc tutor list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "HSC/hsc tutor list.md"
+              }
             }
           },
           {
@@ -182,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf92c59fa4744847",
+  "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
-    "hsc tutor list.md",
     "HSC/HSC Subs.md",
+    "HSC/hsc tutor list.md",
     "Templates/Study Template.md",
     "CSRF.md",
     "Burp.md",
@@ -201,11 +207,11 @@
     "Bucket List 0521.md",
     "do not fucking open this if you're not me.md",
     "CSRF tokens.md",
-    "1. Matrices and Determinants.md",
-    "Higher Maths 1.md",
-    "square matrix.md",
-    "Diagonal(korno) matrix.md",
-    "triangular matrix.md",
+    "HSC/1. Matrices and Determinants.md",
+    "HSC/Higher Maths 1.md",
+    "HSC/square matrix.md",
+    "HSC/Diagonal(korno) matrix.md",
+    "HSC/triangular matrix.md",
     "wordpress plugins.md",
     "software.md",
     "resources.md",
