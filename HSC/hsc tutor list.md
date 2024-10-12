@@ -14,6 +14,7 @@
 	- sakib bhai (1)
 - phys:
 	- apurbo's physics care (5)
+	- ashik vai (1)
 	- promit bhai (not this either) (mehedi suggestion) (1)
 	- ovishek bhai (mehedi suggestion as well) (1)
 	- yeasin bhai (idk the channel name) (1)
