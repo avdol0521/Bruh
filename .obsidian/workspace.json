@@ -11,13 +11,8 @@
             "id": "2b3cbf47b32c0933",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HSC/hsc tutor list.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSC/hsc tutor list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSC/hsc tutor list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HSC/hsc tutor list.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,6 +181,9 @@
   },
   "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-10-12 12.39.40.excalidraw.md",
+    "HSC/Higher Maths 1.md",
+    "Excalidraw",
     "HSC/hsc tutor list.md",
     "horror movies.md",
     "watchlist.md",
@@ -199,7 +192,6 @@
     "Games i wanna play one day.md",
     "DOM Based XSS.md",
     "admin panel dorks.md",
-    "HSC/Higher Maths 1.md",
     "11. bijganitik onupat o shomanupat.md",
     "bijgonit - M.md",
     "13.Shomantor dhara.md",
@@ -216,7 +208,6 @@
     "Templates/Study Template.md",
     "CSRF.md",
     "Burp.md",
-    "RCE.md",
     "Pasted image 20230911200425.png",
     "Pasted image 20230916185552.png",
     "Pasted image 20230916185254.png",

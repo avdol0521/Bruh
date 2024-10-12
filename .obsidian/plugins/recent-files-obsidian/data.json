@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Higher Maths 1",
+      "path": "HSC/Higher Maths 1.md"
+    },
+    {
       "basename": "hsc tutor list",
       "path": "HSC/hsc tutor list.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "admin panel dorks",
       "path": "admin panel dorks.md"
-    },
-    {
-      "basename": "Higher Maths 1",
-      "path": "HSC/Higher Maths 1.md"
     },
     {
       "basename": "11. bijganitik onupat o shomanupat",
@@ -195,10 +195,6 @@
     {
       "basename": "Reflected XSS",
       "path": "Reflected XSS.md"
-    },
-    {
-      "basename": "Store Based XSS",
-      "path": "Store Based XSS.md"
     }
   ],
   "omittedPaths": []
