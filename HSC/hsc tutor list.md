@@ -35,7 +35,7 @@
 	- abhi dytta tushar (1)
 	- 10ms (1)
 - english:
-	- pavel vai 
+	- pavel vai (1)
 - bangla:
 	- musafir rahad sir (1) 
 - extra:
