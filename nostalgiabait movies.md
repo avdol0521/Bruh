@@ -1,0 +1,4 @@
+- journey to the west
+- kung fu hustle
+- shaolin soccer
+- monster hunter

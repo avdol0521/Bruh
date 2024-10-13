@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSC/hsc tutor list.md",
+                "file": "nostalgiabait movies.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSC/hsc tutor list.md",
+                "file": "nostalgiabait movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSC/hsc tutor list.md",
+                "file": "nostalgiabait movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HSC/hsc tutor list.md"
+                "file": "nostalgiabait movies.md"
               }
             }
           },
@@ -190,12 +191,13 @@
   },
   "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
+    "watchlist.md",
+    "nostalgiabait movies.md",
+    "HSC/hsc tutor list.md",
     "Excalidraw/Drawing 2024-10-12 12.39.40.excalidraw.md",
     "HSC/Higher Maths 1.md",
     "Excalidraw",
-    "HSC/hsc tutor list.md",
     "horror movies.md",
-    "watchlist.md",
     "Me.md",
     "Games.md",
     "Games i wanna play one day.md",
@@ -216,7 +218,6 @@
     "HSC/HSC Subs.md",
     "Templates/Study Template.md",
     "CSRF.md",
-    "Burp.md",
     "Pasted image 20230911200425.png",
     "Pasted image 20230916185552.png",
     "Pasted image 20230916185254.png",
