@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "readlist",
+      "path": "readlist.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
       "basename": "nostalgiabait movies",
       "path": "nostalgiabait movies.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "horror movies",
       "path": "horror movies.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
     },
     {
       "basename": "Games",
@@ -195,10 +199,6 @@
     {
       "basename": "XSS",
       "path": "XSS.md"
-    },
-    {
-      "basename": "Reflected XSS",
-      "path": "Reflected XSS.md"
     }
   ],
   "omittedPaths": []

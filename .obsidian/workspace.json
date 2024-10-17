@@ -13,14 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nostalgiabait movies.md",
+                "file": "readlist.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "readlist"
+            }
+          },
+          {
+            "id": "e2bfe30d80883d8e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -49,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "me",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -71,15 +92,17 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -95,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nostalgiabait movies.md",
+                "file": "readlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readlist"
             }
           },
           {
@@ -112,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nostalgiabait movies.md",
+                "file": "readlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readlist"
             }
           },
           {
@@ -126,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -135,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nostalgiabait movies.md"
-              }
+                "file": "readlist.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readlist"
             }
           },
           {
@@ -148,7 +179,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           },
           {
@@ -156,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -164,7 +199,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -189,16 +226,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3cbf47b32c0933",
+  "active": "e2bfe30d80883d8e",
   "lastOpenFiles": [
-    "watchlist.md",
+    "Me.md",
+    "readlist.md",
     "nostalgiabait movies.md",
+    "watchlist.md",
     "HSC/hsc tutor list.md",
     "Excalidraw/Drawing 2024-10-12 12.39.40.excalidraw.md",
     "HSC/Higher Maths 1.md",
     "Excalidraw",
     "horror movies.md",
-    "Me.md",
     "Games.md",
     "Games i wanna play one day.md",
     "DOM Based XSS.md",
@@ -217,7 +255,6 @@
     "HSC/Diagonal(korno) matrix.md",
     "HSC/HSC Subs.md",
     "Templates/Study Template.md",
-    "CSRF.md",
     "Pasted image 20230911200425.png",
     "Pasted image 20230916185552.png",
     "Pasted image 20230916185254.png",
