@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "shokti stor - electron shell shongkranto shikarjo",
+      "path": "shokti stor - electron shell shongkranto shikarjo.md"
+    },
+    {
+      "basename": "Study Template",
+      "path": "Templates/Study Template.md"
+    },
+    {
       "basename": "Bohr's atomic model - quantum model - 1913",
       "path": "Bohr's atomic model - quantum model - 1913.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Planck's quantum theory - 1900",
       "path": "Planck's quantum theory - 1900.md"
-    },
-    {
-      "basename": "Study Template",
-      "path": "Templates/Study Template.md"
     },
     {
       "basename": "Max Planck",
@@ -195,10 +199,6 @@
     {
       "basename": "aws PDFs",
       "path": "aws/aws PDFs.md"
-    },
-    {
-      "basename": "aws software",
-      "path": "aws/aws software.md"
     }
   ],
   "omittedPaths": []

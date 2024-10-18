@@ -6,7 +6,7 @@ tags:
 
 ## Some details:
 - 
-## Side notes:
+## Other notes:
 - 
 ## Links:
 - 

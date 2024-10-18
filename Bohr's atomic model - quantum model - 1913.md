@@ -4,7 +4,7 @@ tags:
 ---
 # main shikarjos:
 1. [[kounik vorbeg - angular momentum shongkranto shikarjo]] 
-2. 2 
+2. [[shokti stor - electron shell shongkranto shikarjo]]
 3. 3
 ## Some details:
 - quantum model coz ei model [[Planck's quantum theory - 1900]] er shomonnoye toiri kora hoyeche
