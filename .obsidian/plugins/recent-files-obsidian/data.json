@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Games.md"
+    },
+    {
+      "basename": "Games i wanna play one day",
+      "path": "Games i wanna play one day.md"
+    },
+    {
       "basename": "2024-10-18",
       "path": "daily notes/2024-10-18.md"
     },
@@ -19,10 +35,6 @@
     {
       "basename": "pushups tracker",
       "path": "trackers/pushups tracker.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
     },
     {
       "basename": "Stuff I wanna learn",
@@ -71,10 +83,6 @@
     {
       "basename": "Math",
       "path": "SSC/Math.md"
-    },
-    {
-      "basename": "watchlist",
-      "path": "watchlist.md"
     },
     {
       "basename": "horror movies",
@@ -135,14 +143,6 @@
     {
       "basename": "Higher Maths 1",
       "path": "HSC/Higher Maths 1.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Games.md"
-    },
-    {
-      "basename": "Games i wanna play one day",
-      "path": "Games i wanna play one day.md"
     },
     {
       "basename": "DOM Based XSS",
