@@ -3,6 +3,6 @@ tags:
   - keyNode
 ---
 
-- [[resources]] 
+- [[aws resources]] 
 - [[aws topics]] 
 - 

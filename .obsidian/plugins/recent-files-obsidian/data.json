@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-18",
+      "path": "daily notes/2024-10-18.md"
+    },
+    {
+      "basename": "Study Template",
+      "path": "Templates/Study Template.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
       "basename": "readlist",
       "path": "readlist.md"
+    },
+    {
+      "basename": "aws resources",
+      "path": "aws/aws resources.md"
+    },
+    {
+      "basename": "aws PDFs",
+      "path": "aws/aws PDFs.md"
+    },
+    {
+      "basename": "aws software",
+      "path": "aws/aws software.md"
+    },
+    {
+      "basename": "B2",
+      "path": "SSC/B2.md"
     },
     {
       "basename": "Me",
@@ -38,11 +66,11 @@
     },
     {
       "basename": "DOM Based XSS",
-      "path": "DOM Based XSS.md"
+      "path": "aws/DOM Based XSS.md"
     },
     {
       "basename": "admin panel dorks",
-      "path": "admin panel dorks.md"
+      "path": "aws/admin panel dorks.md"
     },
     {
       "basename": "11. bijganitik onupat o shomanupat",
@@ -97,48 +125,44 @@
       "path": "HSC/HSC Subs.md"
     },
     {
-      "basename": "Study Template",
-      "path": "Templates/Study Template.md"
-    },
-    {
       "basename": "CSRF",
-      "path": "CSRF.md"
+      "path": "aws/CSRF.md"
     },
     {
       "basename": "Burp",
-      "path": "Burp.md"
+      "path": "aws/Burp.md"
     },
     {
       "basename": "RCE",
-      "path": "RCE.md"
+      "path": "aws/RCE.md"
     },
     {
       "basename": "Vuln Sites",
-      "path": "Vuln Sites.md"
+      "path": "aws/Vuln Sites.md"
     },
     {
       "basename": "aws topics",
-      "path": "aws topics.md"
+      "path": "aws/aws topics.md"
     },
     {
       "basename": "SQLi",
-      "path": "SQLi.md"
+      "path": "aws/SQLi.md"
     },
     {
       "basename": "GET Based SQLi",
-      "path": "GET Based SQLi.md"
+      "path": "aws/GET Based SQLi.md"
     },
     {
       "basename": "POST Based SQLi",
-      "path": "POST Based SQLi.md"
+      "path": "aws/POST Based SQLi.md"
     },
     {
       "basename": "Error Based SQLi",
-      "path": "Error Based SQLi.md"
+      "path": "aws/Error Based SQLi.md"
     },
     {
       "basename": "SQLi smol tricks",
-      "path": "SQLi smol tricks.md"
+      "path": "aws/SQLi smol tricks.md"
     },
     {
       "basename": "Bucket List 0521",
@@ -150,7 +174,7 @@
     },
     {
       "basename": "CSRF tokens",
-      "path": "CSRF tokens.md"
+      "path": "aws/CSRF tokens.md"
     },
     {
       "basename": "1. Matrices and Determinants",
@@ -166,39 +190,15 @@
     },
     {
       "basename": "wordpress plugins",
-      "path": "wordpress plugins.md"
-    },
-    {
-      "basename": "software",
-      "path": "software.md"
-    },
-    {
-      "basename": "resources",
-      "path": "resources.md"
+      "path": "aws/wordpress plugins.md"
     },
     {
       "basename": "AWS course",
-      "path": "AWS course.md"
+      "path": "aws/AWS course.md"
     },
     {
       "basename": "burp suite",
-      "path": "burp suite.md"
-    },
-    {
-      "basename": "5. rashayonik bondhon",
-      "path": "5. rashayonik bondhon.md"
-    },
-    {
-      "basename": "Pasted image 20230911200425",
-      "path": "Pasted image 20230911200425.png"
-    },
-    {
-      "basename": "Pasted image 20230916185552",
-      "path": "Pasted image 20230916185552.png"
-    },
-    {
-      "basename": "XSS",
-      "path": "XSS.md"
+      "path": "aws/burp suite.md"
     }
   ],
   "omittedPaths": []
