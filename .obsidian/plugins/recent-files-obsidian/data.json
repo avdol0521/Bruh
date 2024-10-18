@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Alpha particle",
+      "path": "Alpha particle.md"
+    },
+    {
+      "basename": "Rutherford's atomic model - 1911",
+      "path": "Rutherford's atomic model - 1911.md"
+    },
+    {
       "basename": "Atomic models",
       "path": "Atomic models.md"
     },
     {
       "basename": "Thomson's atomic model - plum pudding model - 1898",
       "path": "Thomson's atomic model - plum pudding model - 1898.md"
+    },
+    {
+      "basename": "J.J. Thomson",
+      "path": "J.J. Thomson.md"
     },
     {
       "basename": "Chemistry 1",
@@ -187,18 +199,6 @@
     {
       "basename": "bijgonit - M",
       "path": "SSC/bijgonit - M.md"
-    },
-    {
-      "basename": "13.Shomantor dhara",
-      "path": "SSC/13.Shomantor dhara.md"
-    },
-    {
-      "basename": "4. shuchok",
-      "path": "SSC/4. shuchok.md"
-    },
-    {
-      "basename": "3. bijganitik rashi",
-      "path": "SSC/3. bijganitik rashi.md"
     }
   ],
   "omittedPaths": []

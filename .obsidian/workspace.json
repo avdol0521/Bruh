@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic models.md",
+                "file": "Alpha particle.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomic models"
+              "title": "Alpha particle"
             }
           }
         ]
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -97,7 +98,7 @@
       {
         "id": "59e77c9e682652e7",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 45.88859416445623,
         "children": [
           {
             "id": "8aa2808ee3ec16ef",
@@ -105,7 +106,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Atomic models.md",
+                "file": "Alpha particle.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -127,13 +128,13 @@
                   "centerStrength": 0.838541666666667,
                   "repelStrength": 14.2708333333333,
                   "linkStrength": 0.390625,
-                  "linkDistance": 91,
+                  "linkDistance": 130,
                   "scale": 0.4025208064415254,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Atomic models"
+              "title": "Graph of Alpha particle"
             }
           },
           {
@@ -152,7 +153,7 @@
       {
         "id": "651433de18c1cdcc",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 54.11140583554377,
         "children": [
           {
             "id": "956a55d72d3c7bf8",
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic models.md",
+                "file": "Alpha particle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +171,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Atomic models"
+              "title": "Backlinks for Alpha particle"
             }
           },
           {
@@ -179,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic models.md",
+                "file": "Alpha particle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Atomic models"
+              "title": "Outgoing links from Alpha particle"
             }
           },
           {
@@ -202,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +220,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3cbf47b32c0933",
+  "active": "8f587450ead1abbe",
   "lastOpenFiles": [
-    "Thomson's atomic model - plum pudding model - 1898.md",
+    "Rutherford's atomic model - 1911.md",
     "Atomic models.md",
+    "Thomson's atomic model - plum pudding model - 1898.md",
+    "J.J. Thomson.md",
+    "Alpha particle.md",
     "Chemistry 1.md",
     "chem - chap 1 - Gungoto Roshayon.md",
     "SSC/Chemistry.md",
@@ -244,9 +248,6 @@
     "Stuff I wanna learn.md",
     "Bucket List 0521.md",
     "Hacking.md",
-    "aws/AWS course.md",
-    "aws/aws resources.md",
-    "aws/aws topics.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
