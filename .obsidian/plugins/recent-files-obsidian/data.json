@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Bohr's atomic model - quantum model - 1913",
+      "path": "Bohr's atomic model - quantum model - 1913.md"
+    },
+    {
+      "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
+      "path": "kounik vorbeg - angular momentum shongkranto shikarjo.md"
+    },
+    {
+      "basename": "kounik vorbeg - Angular momentum equation",
+      "path": "kounik vorbeg - Angular momentum equation.md"
+    },
+    {
+      "basename": "Atomic models",
+      "path": "Atomic models.md"
+    },
+    {
+      "basename": "Rutherford's atomic model - 1911",
+      "path": "Rutherford's atomic model - 1911.md"
+    },
+    {
+      "basename": "center force equation",
+      "path": "center force equation.md"
+    },
+    {
       "basename": "Planck's quantum theory - 1900",
       "path": "Planck's quantum theory - 1900.md"
     },
@@ -15,22 +39,6 @@
     {
       "basename": "Quanta",
       "path": "Quanta.md"
-    },
-    {
-      "basename": "Bohr's atomic model - quantum model - 1913",
-      "path": "Bohr's atomic model - quantum model - 1913.md"
-    },
-    {
-      "basename": "Atomic models",
-      "path": "Atomic models.md"
-    },
-    {
-      "basename": "Rutherford's atomic model - 1911",
-      "path": "Rutherford's atomic model - 1911.md"
-    },
-    {
-      "basename": "center force equation",
-      "path": "center force equation.md"
     },
     {
       "basename": "Alpha particle",
@@ -191,14 +199,6 @@
     {
       "basename": "aws software",
       "path": "aws/aws software.md"
-    },
-    {
-      "basename": "B2",
-      "path": "SSC/B2.md"
-    },
-    {
-      "basename": "nostalgiabait movies",
-      "path": "nostalgiabait movies.md"
     }
   ],
   "omittedPaths": []
