@@ -1,0 +1,1 @@
+$F_c$ = $F_{ext}$ = $\frac{mv^2}{r}$ = m$w^2$r    | v = $w$r

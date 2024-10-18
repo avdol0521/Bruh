@@ -2,12 +2,11 @@
 tags:
   - hsc
 ---
-# Shonga:
-
+# Main:
 
 ## Some details:
 - 
-## Unrelated Notes:
+## Side notes:
 - 
 ## Links:
 - 

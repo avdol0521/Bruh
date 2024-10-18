@@ -1,0 +1,1 @@
+- **Quanta are the smallest unit of energy**: The smallest amount of energy that can be emitted or absorbed is called a quantum. 

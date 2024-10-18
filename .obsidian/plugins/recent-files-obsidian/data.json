@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Alpha particle",
-      "path": "Alpha particle.md"
+      "basename": "Planck's quantum theory - 1900",
+      "path": "Planck's quantum theory - 1900.md"
+    },
+    {
+      "basename": "Study Template",
+      "path": "Templates/Study Template.md"
+    },
+    {
+      "basename": "Max Planck",
+      "path": "Max Planck.md"
+    },
+    {
+      "basename": "Quanta",
+      "path": "Quanta.md"
+    },
+    {
+      "basename": "Bohr's atomic model - quantum model - 1913",
+      "path": "Bohr's atomic model - quantum model - 1913.md"
+    },
+    {
+      "basename": "Atomic models",
+      "path": "Atomic models.md"
     },
     {
       "basename": "Rutherford's atomic model - 1911",
       "path": "Rutherford's atomic model - 1911.md"
     },
     {
-      "basename": "Atomic models",
-      "path": "Atomic models.md"
+      "basename": "center force equation",
+      "path": "center force equation.md"
+    },
+    {
+      "basename": "Alpha particle",
+      "path": "Alpha particle.md"
     },
     {
       "basename": "Thomson's atomic model - plum pudding model - 1898",
@@ -125,10 +149,6 @@
       "path": "peeps who owe me money.md"
     },
     {
-      "basename": "Study Template",
-      "path": "Templates/Study Template.md"
-    },
-    {
       "basename": "Math",
       "path": "SSC/Math.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "nostalgiabait movies",
       "path": "nostalgiabait movies.md"
-    },
-    {
-      "basename": "Higher Maths 1",
-      "path": "HSC/Higher Maths 1.md"
-    },
-    {
-      "basename": "DOM Based XSS",
-      "path": "aws/DOM Based XSS.md"
-    },
-    {
-      "basename": "admin panel dorks",
-      "path": "aws/admin panel dorks.md"
-    },
-    {
-      "basename": "11. bijganitik onupat o shomanupat",
-      "path": "SSC/11. bijganitik onupat o shomanupat.md"
-    },
-    {
-      "basename": "bijgonit - M",
-      "path": "SSC/bijgonit - M.md"
     }
   ],
   "omittedPaths": []
