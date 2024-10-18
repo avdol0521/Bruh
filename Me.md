@@ -11,3 +11,4 @@ tags:
 - [[watchlist]] 
 - [[readlist]] 
 - [[daily notes]] 
+- [[trackers]] 
