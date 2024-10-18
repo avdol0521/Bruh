@@ -1,4 +1,4 @@
 - [[curls tracker]]
 - [[pushups tracker]]
 - [[squats tracker]]
-- [[study tracker]]
+- [[study tracker]] 
