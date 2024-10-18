@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "shokti stor - electron shell shongkranto shikarjo",
-      "path": "shokti stor - electron shell shongkranto shikarjo.md"
+      "basename": "2024-10-19",
+      "path": "daily notes/2024-10-19.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
     },
     {
       "basename": "Study Template",
       "path": "Templates/Study Template.md"
+    },
+    {
+      "basename": "2024-10-18",
+      "path": "daily notes/2024-10-18.md"
+    },
+    {
+      "basename": "shokti stor - electron shell shongkranto shikarjo",
+      "path": "shokti stor - electron shell shongkranto shikarjo.md"
     },
     {
       "basename": "Bohr's atomic model - quantum model - 1913",
@@ -79,14 +91,6 @@
     {
       "basename": "hsc tutor list",
       "path": "HSC/hsc tutor list.md"
-    },
-    {
-      "basename": "2024-10-18",
-      "path": "daily notes/2024-10-18.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
     },
     {
       "basename": "workout overall tracker",
@@ -195,10 +199,6 @@
     {
       "basename": "readlist",
       "path": "readlist.md"
-    },
-    {
-      "basename": "aws PDFs",
-      "path": "aws/aws PDFs.md"
     }
   ],
   "omittedPaths": []

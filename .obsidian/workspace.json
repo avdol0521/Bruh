@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "shokti stor - electron shell shongkranto shikarjo.md",
-                "mode": "source",
+                "file": "daily notes/2024-10-19.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "shokti stor - electron shell shongkranto shikarjo"
+              "title": "2024-10-19"
             }
           }
         ]
@@ -145,6 +145,45 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bb17fad5e33a0673",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "741d27b3824a49dc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f6d4de067e402d7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily notes/2024-10-19.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-10-19"
+            }
           }
         ],
         "currentTab": 1
@@ -179,12 +218,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "shokti stor - electron shell shongkranto shikarjo.md",
+                "file": "daily notes/2024-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from shokti stor - electron shell shongkranto shikarjo"
+              "title": "Outgoing links from 2024-10-19"
             }
           },
           {
@@ -221,7 +260,10 @@
   },
   "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
+    "Templates/Daily note template.md",
     "Templates/Study Template.md",
+    "daily notes/2024-10-19.md",
+    "daily notes/2024-10-18.md",
     "shokti stor - electron shell shongkranto shikarjo.md",
     "Bohr's atomic model - quantum model - 1913.md",
     "kounik vorbeg - angular momentum shongkranto shikarjo.md",
@@ -241,12 +283,9 @@
     "SSC/Class 10.md",
     "HSC/HSC Subs.md",
     "HSC/hsc tutor list.md",
-    "daily notes/2024-10-18.md",
-    "Templates/Daily note template.md",
     "trackers/workout overall tracker.md",
     "trackers/curls tracker.md",
     "trackers/pushups tracker.md",
-    "trackers/squats tracker.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
