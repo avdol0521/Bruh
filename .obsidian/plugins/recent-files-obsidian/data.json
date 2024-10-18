@@ -5,20 +5,88 @@
       "path": "daily notes/2024-10-18.md"
     },
     {
-      "basename": "Study Template",
-      "path": "Templates/Study Template.md"
+      "basename": "squats tracker",
+      "path": "trackers/squats tracker.md"
+    },
+    {
+      "basename": "curls tracker",
+      "path": "trackers/curls tracker.md"
+    },
+    {
+      "basename": "pushups tracker",
+      "path": "trackers/pushups tracker.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
     },
     {
       "basename": "Daily note template",
       "path": "Templates/Daily note template.md"
     },
     {
-      "basename": "readlist",
-      "path": "readlist.md"
+      "basename": "peeps who owe me money",
+      "path": "peeps who owe me money.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "Study Template",
+      "path": "Templates/Study Template.md"
+    },
+    {
+      "basename": "Math",
+      "path": "SSC/Math.md"
+    },
+    {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "horror movies",
+      "path": "horror movies.md"
+    },
+    {
+      "basename": "Higher Maths",
+      "path": "SSC/Higher Maths.md"
     },
     {
       "basename": "aws resources",
       "path": "aws/aws resources.md"
+    },
+    {
+      "basename": "aws tutos",
+      "path": "aws/aws tutos.md"
+    },
+    {
+      "basename": "web shell uploading tutos",
+      "path": "aws/web shell uploading tutos.md"
+    },
+    {
+      "basename": "daily notes",
+      "path": "daily notes.md"
+    },
+    {
+      "basename": "Chemistry",
+      "path": "SSC/Chemistry.md"
+    },
+    {
+      "basename": "Cation",
+      "path": "SSC/Cation.md"
+    },
+    {
+      "basename": "Anion",
+      "path": "SSC/Anion.md"
+    },
+    {
+      "basename": "Z do not fucking open this if you're not me",
+      "path": "Z do not fucking open this if you're not me.md"
+    },
+    {
+      "basename": "readlist",
+      "path": "readlist.md"
     },
     {
       "basename": "aws PDFs",
@@ -33,16 +101,8 @@
       "path": "SSC/B2.md"
     },
     {
-      "basename": "Me",
-      "path": "Me.md"
-    },
-    {
       "basename": "nostalgiabait movies",
       "path": "nostalgiabait movies.md"
-    },
-    {
-      "basename": "watchlist",
-      "path": "watchlist.md"
     },
     {
       "basename": "hsc tutor list",
@@ -51,10 +111,6 @@
     {
       "basename": "Higher Maths 1",
       "path": "HSC/Higher Maths 1.md"
-    },
-    {
-      "basename": "horror movies",
-      "path": "horror movies.md"
     },
     {
       "basename": "Games",
@@ -74,35 +130,31 @@
     },
     {
       "basename": "11. bijganitik onupat o shomanupat",
-      "path": "11. bijganitik onupat o shomanupat.md"
+      "path": "SSC/11. bijganitik onupat o shomanupat.md"
     },
     {
       "basename": "bijgonit - M",
-      "path": "bijgonit - M.md"
+      "path": "SSC/bijgonit - M.md"
     },
     {
       "basename": "13.Shomantor dhara",
-      "path": "13.Shomantor dhara.md"
+      "path": "SSC/13.Shomantor dhara.md"
     },
     {
       "basename": "4. shuchok",
-      "path": "4. shuchok.md"
+      "path": "SSC/4. shuchok.md"
     },
     {
       "basename": "3. bijganitik rashi",
-      "path": "3. bijganitik rashi.md"
+      "path": "SSC/3. bijganitik rashi.md"
     },
     {
       "basename": "2. set & functions",
-      "path": "2. set & functions.md"
-    },
-    {
-      "basename": "Math",
-      "path": "Math.md"
+      "path": "SSC/2. set & functions.md"
     },
     {
       "basename": "17. porishonkhan",
-      "path": "17. porishonkhan.md"
+      "path": "SSC/17. porishonkhan.md"
     },
     {
       "basename": "trigonometry - M",
@@ -110,11 +162,11 @@
     },
     {
       "basename": "Jemiti - M",
-      "path": "Jemiti - M.md"
+      "path": "SSC/Jemiti - M.md"
     },
     {
       "basename": "Class 10",
-      "path": "Class 10.md"
+      "path": "SSC/Class 10.md"
     },
     {
       "basename": "Diagonal(korno) matrix",
@@ -143,62 +195,6 @@
     {
       "basename": "aws topics",
       "path": "aws/aws topics.md"
-    },
-    {
-      "basename": "SQLi",
-      "path": "aws/SQLi.md"
-    },
-    {
-      "basename": "GET Based SQLi",
-      "path": "aws/GET Based SQLi.md"
-    },
-    {
-      "basename": "POST Based SQLi",
-      "path": "aws/POST Based SQLi.md"
-    },
-    {
-      "basename": "Error Based SQLi",
-      "path": "aws/Error Based SQLi.md"
-    },
-    {
-      "basename": "SQLi smol tricks",
-      "path": "aws/SQLi smol tricks.md"
-    },
-    {
-      "basename": "Bucket List 0521",
-      "path": "Bucket List 0521.md"
-    },
-    {
-      "basename": "do not fucking open this if you're not me",
-      "path": "do not fucking open this if you're not me.md"
-    },
-    {
-      "basename": "CSRF tokens",
-      "path": "aws/CSRF tokens.md"
-    },
-    {
-      "basename": "1. Matrices and Determinants",
-      "path": "HSC/1. Matrices and Determinants.md"
-    },
-    {
-      "basename": "square matrix",
-      "path": "HSC/square matrix.md"
-    },
-    {
-      "basename": "triangular matrix",
-      "path": "HSC/triangular matrix.md"
-    },
-    {
-      "basename": "wordpress plugins",
-      "path": "aws/wordpress plugins.md"
-    },
-    {
-      "basename": "AWS course",
-      "path": "aws/AWS course.md"
-    },
-    {
-      "basename": "burp suite",
-      "path": "aws/burp suite.md"
     }
   ],
   "omittedPaths": []

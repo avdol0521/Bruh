@@ -6,5 +6,6 @@
   "spellcheck": false,
   "readableLineLength": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "attachments",
+  "defaultViewMode": "preview"
 }

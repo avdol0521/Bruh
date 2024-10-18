@@ -13,6 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "trackers/curls tracker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "curls tracker"
+            }
+          },
+          {
+            "id": "b1745956216b76f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "daily notes/2024-10-18.md",
                 "mode": "source",
                 "backlinks": false,
@@ -21,33 +36,9 @@
               "icon": "lucide-file",
               "title": "2024-10-18"
             }
-          },
-          {
-            "id": "286b6fe029e183a6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "f1e502ac50a8e265",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "aws/aws resources.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aws resources"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "me",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -120,8 +111,64 @@
     "type": "split",
     "children": [
       {
+        "id": "59e77c9e682652e7",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "8aa2808ee3ec16ef",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "daily notes/2024-10-18.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.840104166666667,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.838541666666667,
+                  "repelStrength": 14.2708333333333,
+                  "linkStrength": 0.390625,
+                  "linkDistance": 91,
+                  "scale": 0.664168481488024,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2024-10-18"
+            }
+          },
+          {
+            "id": "8f587450ead1abbe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "651433de18c1cdcc",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "956a55d72d3c7bf8",
@@ -157,55 +204,6 @@
             }
           },
           {
-            "id": "6daa580d6f6f343d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "b7a3cda1f94aef5b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "daily notes/2024-10-18.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2024-10-18"
-            }
-          },
-          {
-            "id": "6df71139eb86ec0b",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "6449e0a805861cf9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "e1ede26d5e29eb0e",
             "type": "leaf",
             "state": {
@@ -216,11 +214,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,14 +235,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3cbf47b32c0933",
+  "active": "b1745956216b76f8",
   "lastOpenFiles": [
-    "Templates/Study Template.md",
-    "Templates/Daily note template.md",
+    "trackers/squats tracker.md",
+    "trackers/curls tracker.md",
     "daily notes/2024-10-18.md",
+    "trackers/pushups tracker.md",
+    "trackers/study tracker.md",
+    "Templates/Daily note template.md",
+    "peeps who owe me money.md",
+    "Me.md",
+    "Templates/Study Template.md",
+    "trackers",
+    "attachments/Pasted image 20231123034351.png",
+    "attachments/Pasted image 20231123033556.png",
+    "attachments/Pasted image 20231123030808.png",
+    "attachments/Pasted image 20231123025723.png",
+    "attachments/Pasted image 20231123024919.png",
+    "attachments/Pasted image 20231123024903.png",
+    "attachments/Pasted image 20231123022949.png",
+    "attachments/Pasted image 20231123022555.png",
+    "attachments/Pasted image 20231123013324.png",
+    "attachments/Pasted image 20231123000210.png",
+    "SSC/Math.md",
+    "watchlist.md",
+    "horror movies.md",
+    "SSC/Higher Maths.md",
+    "aws/aws resources.md",
+    "aws/aws tutos.md",
+    "aws/web shell uploading tutos.md",
+    "daily notes.md",
+    "SSC/Chemistry.md",
+    "SSC/Cation.md",
+    "SSC/Anion.md",
+    "Z do not fucking open this if you're not me.md",
     "daily notes",
     "readlist.md",
-    "aws/aws resources.md",
     "attachments",
     "aws/aws PDFs.md",
     "aws/aws software.md",
@@ -253,37 +279,9 @@
     "Templates",
     "S",
     "aws",
-    "Me.md",
     "nostalgiabait movies.md",
-    "watchlist.md",
-    "HSC/hsc tutor list.md",
-    "Excalidraw/Drawing 2024-10-12 12.39.40.excalidraw.md",
-    "HSC/Higher Maths 1.md",
     "Excalidraw",
-    "horror movies.md",
-    "Games.md",
-    "Games i wanna play one day.md",
-    "aws/DOM Based XSS.md",
-    "aws/admin panel dorks.md",
-    "11. bijganitik onupat o shomanupat.md",
-    "bijgonit - M.md",
-    "13.Shomantor dhara.md",
-    "4. shuchok.md",
-    "3. bijganitik rashi.md",
-    "2. set & functions.md",
-    "Math.md",
-    "Pasted image 20230911200425.png",
-    "Pasted image 20230916185552.png",
-    "Pasted image 20230916185254.png",
-    "Pasted image 20240827011800.png",
     "HSC",
-    "Pasted image 20231004215659.png",
-    "Rokto tonchon",
-    "SSC",
-    "Pasted image 20230830172544.png",
-    "aws/Pasted image 20240717163305.png",
-    "Pasted image 20231102155715.png",
-    "Pasted image 20230911190021.png",
-    "Pasted image 20231123040559.png"
+    "Rokto tonchon"
   ]
 }

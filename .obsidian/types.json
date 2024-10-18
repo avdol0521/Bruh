@@ -24,6 +24,13 @@
     "excalidraw-embeddable-theme": "text",
     "excalidraw-open-md": "checkbox",
     "date": "date",
-    "test": "multitext"
+    "test": "multitext",
+    "curls": "checkbox",
+    "pushups": "checkbox",
+    "squats": "checkbox",
+    "study": "checkbox",
+    "curl amount": "number",
+    "pushup amount": "number",
+    "squat amount": "number"
   }
 }

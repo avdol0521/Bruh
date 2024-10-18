@@ -1,5 +1,5 @@
 ## 1> Electron adan prodan er maddhome je bondhon gothito hoy take [[Ionic Bondhon]] bole
-## 2> [[CatIon]] and [[AnIon]] poroshporer shathe jukto hoye je bondhon gothito hoy take [[Ionic Bondhon]] bole
+## 2> [[Cation]] and [[Anion]] poroshporer shathe jukto hoye je bondhon gothito hoy take [[Ionic Bondhon]] bole
 ## 3> [[Dhatu]] and [[Odhatu]] er moddhe je bondhon gothito hoy take [[Ionic Bondhon]] bole
 # Ayonik bondhon prove korte 3 number shobcheye useful
 

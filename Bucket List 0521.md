@@ -8,7 +8,7 @@
 - [x] solo bus journey
 - [x] solo launch journey
 - [x] buy terraria
-- [ ] fix these things: [[do not fucking open this if you're not me]] 
+- [ ] fix these things: [[Z do not fucking open this if you're not me]] 
 - [ ] first actual paycheck and treat myself with it
 - [ ] aurora
 - [ ] touching real snow

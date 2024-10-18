@@ -1,6 +1,6 @@
 - [[dorks&payloads]] 
 - [[aws software]]
-- [[tutos]] 
+- [[aws tutos]] 
 - [[aws PDFs]] 
 - [[vuln country tierlist]] 
 - [[Vuln Sites]] 

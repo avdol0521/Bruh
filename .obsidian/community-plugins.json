@@ -4,5 +4,7 @@
   "obsidian-matrix",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "dataview",
+  "obsidian-tracker"
 ]

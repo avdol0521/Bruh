@@ -1,4 +1,3 @@
 - [[Shumit]] - 300tk
 - [[Siam]] - 30tk
 - [[Khobir]] - 600tk
-- [[Moon]] - 200tk

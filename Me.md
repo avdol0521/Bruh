@@ -10,3 +10,4 @@ tags:
 - [[Tools]] 
 - [[watchlist]] 
 - [[readlist]] 
+- [[daily notes]] 
