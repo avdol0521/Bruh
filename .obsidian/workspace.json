@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/curls tracker.md",
-                "mode": "source",
+                "file": "trackers/workout overall tracker.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "curls tracker"
+              "title": "workout overall tracker"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "trackers/curls tracker.md",
+                "file": "trackers/workout overall tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of curls tracker"
+              "title": "Graph of workout overall tracker"
             }
           },
           {
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trackers/curls tracker.md",
+                "file": "trackers/workout overall tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for curls tracker"
+              "title": "Backlinks for workout overall tracker"
             }
           },
           {
@@ -194,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trackers/curls tracker.md",
+                "file": "trackers/workout overall tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from curls tracker"
+              "title": "Outgoing links from workout overall tracker"
             }
           },
           {
@@ -234,8 +234,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
+    "trackers/curls tracker.md",
     "trackers/pushups tracker.md",
     "trackers/squats tracker.md",
     "trackers/study tracker.md",
@@ -246,7 +247,6 @@
     "Me.md",
     "Games.md",
     "Games i wanna play one day.md",
-    "trackers/curls tracker.md",
     "Stuff I wanna learn.md",
     "Bucket List 0521.md",
     "Hacking.md",

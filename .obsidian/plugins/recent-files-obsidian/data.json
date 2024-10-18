@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "workout overall tracker",
+      "path": "trackers/workout overall tracker.md"
+    },
+    {
       "basename": "curls tracker",
       "path": "trackers/curls tracker.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "study tracker",
       "path": "trackers/study tracker.md"
-    },
-    {
-      "basename": "workout overall tracker",
-      "path": "trackers/workout overall tracker.md"
     },
     {
       "basename": "trackers",
