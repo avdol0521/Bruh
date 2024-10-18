@@ -37,7 +37,8 @@
               "title": "2024-10-18"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "trackers/workout overall tracker.md",
+                "file": "daily notes/2024-10-18.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +149,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of workout overall tracker"
+              "title": "Graph of 2024-10-18"
             }
           },
           {
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trackers/workout overall tracker.md",
+                "file": "daily notes/2024-10-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +186,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for workout overall tracker"
+              "title": "Backlinks for 2024-10-18"
             }
           },
           {
@@ -194,12 +195,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trackers/workout overall tracker.md",
+                "file": "daily notes/2024-10-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from workout overall tracker"
+              "title": "Outgoing links from 2024-10-18"
             }
           },
           {
@@ -234,15 +235,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3cbf47b32c0933",
+  "active": "b1745956216b76f8",
   "lastOpenFiles": [
+    "trackers/workout overall tracker.md",
+    "daily notes/2024-10-18.md",
     "trackers/curls tracker.md",
     "trackers/pushups tracker.md",
     "trackers/squats tracker.md",
     "trackers/study tracker.md",
-    "trackers/workout overall tracker.md",
     "trackers.md",
-    "daily notes/2024-10-18.md",
     "watchlist.md",
     "Me.md",
     "Games.md",
