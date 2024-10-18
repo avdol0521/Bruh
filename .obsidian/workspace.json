@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "trackers/workout overall tracker.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -37,8 +37,7 @@
               "title": "2024-10-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/workout overall tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-10-18"
+              "title": "Graph of workout overall tracker"
             }
           },
           {
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/workout overall tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-18"
+              "title": "Backlinks for workout overall tracker"
             }
           },
           {
@@ -195,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/workout overall tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-18"
+              "title": "Outgoing links from workout overall tracker"
             }
           },
           {
@@ -235,10 +234,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1745956216b76f8",
+  "active": "2b3cbf47b32c0933",
   "lastOpenFiles": [
-    "trackers/workout overall tracker.md",
     "daily notes/2024-10-18.md",
+    "trackers/workout overall tracker.md",
     "trackers/curls tracker.md",
     "trackers/pushups tracker.md",
     "trackers/squats tracker.md",
