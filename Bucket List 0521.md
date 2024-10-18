@@ -8,6 +8,7 @@
 - [x] solo bus journey
 - [x] solo launch journey
 - [x] buy terraria
+- [x] fly a kite
 - [ ] fix these things: [[Z do not fucking open this if you're not me]] 
 - [ ] first actual paycheck and treat myself with it
 - [ ] aurora
@@ -17,6 +18,8 @@
 - [ ] own a sword
 - [ ] a polaroid camera
 - [ ] a handycam vision CCD-TRV16 Video 8 XR
+- [ ] learn to swim 
+- [ ] learn to drive
 - [ ] remote controlled helicoptah
 - [ ] my own pc
 - [ ] laser

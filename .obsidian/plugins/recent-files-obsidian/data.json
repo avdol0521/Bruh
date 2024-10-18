@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "trackers",
-      "path": "trackers.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
-    },
-    {
       "basename": "2024-10-18",
       "path": "daily notes/2024-10-18.md"
+    },
+    {
+      "basename": "trackers",
+      "path": "trackers.md"
     },
     {
       "basename": "curls tracker",
@@ -23,6 +19,38 @@
     {
       "basename": "pushups tracker",
       "path": "trackers/pushups tracker.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "Stuff I wanna learn",
+      "path": "Stuff I wanna learn.md"
+    },
+    {
+      "basename": "Bucket List 0521",
+      "path": "Bucket List 0521.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
+      "basename": "AWS course",
+      "path": "aws/AWS course.md"
+    },
+    {
+      "basename": "aws resources",
+      "path": "aws/aws resources.md"
+    },
+    {
+      "basename": "aws topics",
+      "path": "aws/aws topics.md"
+    },
+    {
+      "basename": "daily notes",
+      "path": "daily notes.md"
     },
     {
       "basename": "study tracker",
@@ -57,20 +85,12 @@
       "path": "SSC/Higher Maths.md"
     },
     {
-      "basename": "aws resources",
-      "path": "aws/aws resources.md"
-    },
-    {
       "basename": "aws tutos",
       "path": "aws/aws tutos.md"
     },
     {
       "basename": "web shell uploading tutos",
       "path": "aws/web shell uploading tutos.md"
-    },
-    {
-      "basename": "daily notes",
-      "path": "daily notes.md"
     },
     {
       "basename": "Chemistry",
@@ -179,26 +199,6 @@
     {
       "basename": "HSC Subs",
       "path": "HSC/HSC Subs.md"
-    },
-    {
-      "basename": "CSRF",
-      "path": "aws/CSRF.md"
-    },
-    {
-      "basename": "Burp",
-      "path": "aws/Burp.md"
-    },
-    {
-      "basename": "RCE",
-      "path": "aws/RCE.md"
-    },
-    {
-      "basename": "Vuln Sites",
-      "path": "aws/Vuln Sites.md"
-    },
-    {
-      "basename": "aws topics",
-      "path": "aws/aws topics.md"
     }
   ],
   "omittedPaths": []
