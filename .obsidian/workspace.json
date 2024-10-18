@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers.md",
-                "mode": "preview",
+                "file": "trackers/curls tracker.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trackers"
+              "title": "curls tracker"
             }
           },
           {
@@ -37,8 +37,7 @@
               "title": "2024-10-18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/curls tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,7 +148,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-10-18"
+              "title": "Graph of curls tracker"
             }
           },
           {
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/curls tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-10-18"
+              "title": "Backlinks for curls tracker"
             }
           },
           {
@@ -195,12 +194,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-10-18.md",
+                "file": "trackers/curls tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-18"
+              "title": "Outgoing links from curls tracker"
             }
           },
           {
@@ -235,17 +234,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1745956216b76f8",
+  "active": "8f587450ead1abbe",
   "lastOpenFiles": [
+    "trackers/pushups tracker.md",
+    "trackers/squats tracker.md",
+    "trackers/study tracker.md",
+    "trackers/workout overall tracker.md",
+    "trackers.md",
+    "daily notes/2024-10-18.md",
     "watchlist.md",
     "Me.md",
     "Games.md",
     "Games i wanna play one day.md",
-    "daily notes/2024-10-18.md",
-    "trackers.md",
     "trackers/curls tracker.md",
-    "trackers/squats tracker.md",
-    "trackers/pushups tracker.md",
     "Stuff I wanna learn.md",
     "Bucket List 0521.md",
     "Hacking.md",
@@ -253,7 +254,6 @@
     "aws/aws resources.md",
     "aws/aws topics.md",
     "daily notes.md",
-    "trackers/study tracker.md",
     "Templates/Daily note template.md",
     "peeps who owe me money.md",
     "Templates/Study Template.md",
@@ -273,7 +273,6 @@
     "SSC/Higher Maths.md",
     "aws/aws tutos.md",
     "aws/web shell uploading tutos.md",
-    "SSC/Chemistry.md",
     "daily notes",
     "attachments",
     "SSC",

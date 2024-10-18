@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "curls tracker",
+      "path": "trackers/curls tracker.md"
+    },
+    {
+      "basename": "pushups tracker",
+      "path": "trackers/pushups tracker.md"
+    },
+    {
+      "basename": "squats tracker",
+      "path": "trackers/squats tracker.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
+    },
+    {
+      "basename": "workout overall tracker",
+      "path": "trackers/workout overall tracker.md"
+    },
+    {
+      "basename": "trackers",
+      "path": "trackers.md"
+    },
+    {
       "basename": "2024-10-18",
       "path": "daily notes/2024-10-18.md"
     },
@@ -19,22 +43,6 @@
     {
       "basename": "Games i wanna play one day",
       "path": "Games i wanna play one day.md"
-    },
-    {
-      "basename": "trackers",
-      "path": "trackers.md"
-    },
-    {
-      "basename": "curls tracker",
-      "path": "trackers/curls tracker.md"
-    },
-    {
-      "basename": "squats tracker",
-      "path": "trackers/squats tracker.md"
-    },
-    {
-      "basename": "pushups tracker",
-      "path": "trackers/pushups tracker.md"
     },
     {
       "basename": "Stuff I wanna learn",
@@ -63,10 +71,6 @@
     {
       "basename": "daily notes",
       "path": "daily notes.md"
-    },
-    {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
     },
     {
       "basename": "Daily note template",
@@ -195,10 +199,6 @@
     {
       "basename": "Diagonal(korno) matrix",
       "path": "HSC/Diagonal(korno) matrix.md"
-    },
-    {
-      "basename": "HSC Subs",
-      "path": "HSC/HSC Subs.md"
     }
   ],
   "omittedPaths": []
