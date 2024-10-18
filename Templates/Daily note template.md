@@ -5,9 +5,9 @@ curls: false
 pushups: false
 squats: false
 study: false
-curl amount: 0
-pushup amount: 0
-squat amount: 0
+pushups amount: 0
+curls amount: 0
+squats amount: 0
 ---
 # tasks:
 - [ ] at least 2 reps of 25 curls 
