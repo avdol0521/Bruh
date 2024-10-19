@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git and github.md",
+                "file": "Bucket List 0521.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git and github"
+              "title": "Bucket List 0521"
             }
           }
         ],
@@ -225,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git and github.md"
+                "file": "Bucket List 0521.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Git and github"
+              "title": "Outline of Bucket List 0521"
             }
           }
         ],
@@ -264,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git and github.md",
+                "file": "Bucket List 0521.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git and github"
+              "title": "Outgoing links from Bucket List 0521"
             }
           },
           {
@@ -306,6 +306,7 @@
   },
   "active": "2b3db2b499c5bd0a",
   "lastOpenFiles": [
+    "Git and github.md",
     "trackers/workout overall tracker.md",
     "HSC/shokti stor - electron shell shongkranto shikarjo.md",
     "daily notes/2024-10-19.md",
@@ -331,7 +332,6 @@
     "SSC/Chemistry.md",
     "SSC/Class 10.md",
     "HSC/HSC Subs.md",
-    "HSC/hsc tutor list.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",

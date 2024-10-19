@@ -9,8 +9,8 @@
 - [x] solo launch journey
 - [x] buy terraria
 - [x] fly a kite
-- [ ] fix these things: [[Z do not fucking open this if you're not me]] 
 - [ ] first actual paycheck and treat myself with it
+- [ ] solo plane journey
 - [ ] aurora
 - [ ] touching real snow
 - [ ] build a snowman
@@ -33,3 +33,4 @@
 - [ ] celebrate my own birthday for once
 - [ ] a better phone would be nice ig but isnt really needed for now
 - [ ] revenge for what he did
+- [ ] fix these things: [[Z do not fucking open this if you're not me]] 
