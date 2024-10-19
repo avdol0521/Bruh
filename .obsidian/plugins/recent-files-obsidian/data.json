@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Git and github",
+      "path": "Git and github.md"
+    },
+    {
+      "basename": "workout overall tracker",
+      "path": "trackers/workout overall tracker.md"
+    },
+    {
+      "basename": "shokti stor - electron shell shongkranto shikarjo",
+      "path": "HSC/shokti stor - electron shell shongkranto shikarjo.md"
+    },
+    {
       "basename": "2024-10-19",
       "path": "daily notes/2024-10-19.md"
+    },
+    {
+      "basename": "daily notes",
+      "path": "daily notes/daily notes.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
     },
     {
       "basename": "Daily note template",
@@ -17,64 +37,60 @@
       "path": "daily notes/2024-10-18.md"
     },
     {
-      "basename": "shokti stor - electron shell shongkranto shikarjo",
-      "path": "shokti stor - electron shell shongkranto shikarjo.md"
-    },
-    {
       "basename": "Bohr's atomic model - quantum model - 1913",
-      "path": "Bohr's atomic model - quantum model - 1913.md"
+      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
     },
     {
       "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
-      "path": "kounik vorbeg - angular momentum shongkranto shikarjo.md"
+      "path": "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md"
     },
     {
       "basename": "kounik vorbeg - Angular momentum equation",
-      "path": "kounik vorbeg - Angular momentum equation.md"
+      "path": "HSC/kounik vorbeg - Angular momentum equation.md"
     },
     {
       "basename": "Atomic models",
-      "path": "Atomic models.md"
+      "path": "HSC/Atomic models.md"
     },
     {
       "basename": "Rutherford's atomic model - 1911",
-      "path": "Rutherford's atomic model - 1911.md"
+      "path": "HSC/Rutherford's atomic model - 1911.md"
     },
     {
       "basename": "center force equation",
-      "path": "center force equation.md"
+      "path": "HSC/center force equation.md"
     },
     {
       "basename": "Planck's quantum theory - 1900",
-      "path": "Planck's quantum theory - 1900.md"
+      "path": "HSC/Planck's quantum theory - 1900.md"
     },
     {
       "basename": "Max Planck",
-      "path": "Max Planck.md"
+      "path": "HSC/Max Planck.md"
     },
     {
       "basename": "Quanta",
-      "path": "Quanta.md"
+      "path": "HSC/Quanta.md"
     },
     {
       "basename": "Alpha particle",
-      "path": "Alpha particle.md"
+      "path": "HSC/Alpha particle.md"
     },
     {
       "basename": "Thomson's atomic model - plum pudding model - 1898",
-      "path": "Thomson's atomic model - plum pudding model - 1898.md"
+      "path": "HSC/Thomson's atomic model - plum pudding model - 1898.md"
     },
     {
       "basename": "J.J. Thomson",
-      "path": "J.J. Thomson.md"
+      "path": "HSC/J.J. Thomson.md"
     },
     {
       "basename": "Chemistry 1",
-      "path": "Chemistry 1.md"
+      "path": "HSC/Chemistry 1.md"
     },
     {
       "basename": "chem - chap 1 - Gungoto Roshayon",
-      "path": "chem - chap 1 - Gungoto Roshayon.md"
+      "path": "HSC/chem - chap 1 - Gungoto Roshayon.md"
     },
     {
       "basename": "Chemistry",
@@ -93,10 +109,6 @@
       "path": "HSC/hsc tutor list.md"
     },
     {
-      "basename": "workout overall tracker",
-      "path": "trackers/workout overall tracker.md"
-    },
-    {
       "basename": "curls tracker",
       "path": "trackers/curls tracker.md"
     },
@@ -107,10 +119,6 @@
     {
       "basename": "squats tracker",
       "path": "trackers/squats tracker.md"
-    },
-    {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
     },
     {
       "basename": "trackers",
@@ -157,10 +165,6 @@
       "path": "aws/aws topics.md"
     },
     {
-      "basename": "daily notes",
-      "path": "daily notes.md"
-    },
-    {
       "basename": "peeps who owe me money",
       "path": "peeps who owe me money.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Z do not fucking open this if you're not me",
       "path": "Z do not fucking open this if you're not me.md"
-    },
-    {
-      "basename": "readlist",
-      "path": "readlist.md"
     }
   ],
   "omittedPaths": []

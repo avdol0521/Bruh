@@ -21,8 +21,54 @@
               "icon": "lucide-file",
               "title": "2024-10-19"
             }
+          },
+          {
+            "id": "aaa44b452de993db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HSC/shokti stor - electron shell shongkranto shikarjo.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shokti stor - electron shell shongkranto shikarjo"
+            }
+          },
+          {
+            "id": "c8102c5d6056d24b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trackers/workout overall tracker.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "workout overall tracker"
+            }
+          },
+          {
+            "id": "2b3db2b499c5bd0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git and github.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git and github"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,10 +225,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily notes/2024-10-19.md"
+                "file": "Git and github.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-10-19"
+              "title": "Outline of Git and github"
             }
           }
         ],
@@ -218,12 +264,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-10-19.md",
+                "file": "Git and github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-19"
+              "title": "Outgoing links from Git and github"
             }
           },
           {
@@ -258,34 +304,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b3cbf47b32c0933",
+  "active": "2b3db2b499c5bd0a",
   "lastOpenFiles": [
+    "trackers/workout overall tracker.md",
+    "HSC/shokti stor - electron shell shongkranto shikarjo.md",
+    "daily notes/2024-10-19.md",
+    "daily notes/daily notes.md",
+    "trackers/study tracker.md",
     "Templates/Daily note template.md",
     "Templates/Study Template.md",
-    "daily notes/2024-10-19.md",
     "daily notes/2024-10-18.md",
-    "shokti stor - electron shell shongkranto shikarjo.md",
-    "Bohr's atomic model - quantum model - 1913.md",
-    "kounik vorbeg - angular momentum shongkranto shikarjo.md",
-    "kounik vorbeg - Angular momentum equation.md",
-    "Atomic models.md",
-    "Rutherford's atomic model - 1911.md",
-    "center force equation.md",
-    "Planck's quantum theory - 1900.md",
-    "Max Planck.md",
-    "Quanta.md",
-    "Alpha particle.md",
-    "Thomson's atomic model - plum pudding model - 1898.md",
-    "J.J. Thomson.md",
-    "Chemistry 1.md",
-    "chem - chap 1 - Gungoto Roshayon.md",
+    "HSC/Bohr's atomic model - quantum model - 1913.md",
+    "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md",
+    "HSC/kounik vorbeg - Angular momentum equation.md",
+    "HSC/Atomic models.md",
+    "HSC/Rutherford's atomic model - 1911.md",
+    "HSC/center force equation.md",
+    "HSC/Planck's quantum theory - 1900.md",
+    "HSC/Max Planck.md",
+    "HSC/Quanta.md",
+    "HSC/Alpha particle.md",
+    "HSC/Thomson's atomic model - plum pudding model - 1898.md",
+    "HSC/J.J. Thomson.md",
+    "HSC/Chemistry 1.md",
+    "HSC/chem - chap 1 - Gungoto Roshayon.md",
     "SSC/Chemistry.md",
     "SSC/Class 10.md",
     "HSC/HSC Subs.md",
     "HSC/hsc tutor list.md",
-    "trackers/workout overall tracker.md",
-    "trackers/curls tracker.md",
-    "trackers/pushups tracker.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
