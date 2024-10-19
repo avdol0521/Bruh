@@ -137,6 +137,16 @@
         "dimension": 45.88859416445623,
         "children": [
           {
+            "id": "8f587450ead1abbe",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "8aa2808ee3ec16ef",
             "type": "leaf",
             "state": {
@@ -171,16 +181,6 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph of overall workout tracker"
-            }
-          },
-          {
-            "id": "8f587450ead1abbe",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -222,8 +222,7 @@
               "title": "Outline of overall workout tracker"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "651433de18c1cdcc",
@@ -236,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "shokti stor - electron shell shongkranto shikarjo.md",
+                "file": "trackers/overall workout tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +245,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shokti stor - electron shell shongkranto shikarjo"
+              "title": "Backlinks for overall workout tracker"
             }
           },
           {
@@ -274,11 +273,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
