@@ -9,4 +9,3 @@ line:
 	title: workouts over time
 	showLegend: true
 ```
-
