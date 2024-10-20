@@ -3,3 +3,5 @@
 - [ ] csm 
 - [ ] berserk
 - [ ] die dark
+- [ ] bibliomania
+- [ ] jojo 
