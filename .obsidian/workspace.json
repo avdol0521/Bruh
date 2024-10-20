@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-10-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "title": "2024-10-20"
             }
           },
           {
@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers.md",
-                "mode": "preview",
+                "file": "readlist.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trackers"
+              "title": "readlist"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -130,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "readlist.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of overall workout tracker"
+              "title": "Graph of readlist"
             }
           },
           {
@@ -273,15 +275,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e4291a37d5a9f173",
+  "active": "8f587450ead1abbe",
   "lastOpenFiles": [
-    "trackers.md",
     "Me.md",
+    "trackers.md",
+    "daily notes/2024-10-20.md",
+    "trackers/overall workout tracker.md",
     "watchlist.md",
     "anime movies ig.md",
     "readlist.md",
-    "daily notes/2024-10-20.md",
-    "trackers/overall workout tracker.md",
     "HSC/Bohr's atomic model - quantum model - 1913.md",
     "daily notes/2024-10-19.md",
     "HSC/Rutherford's atomic model - 1911.md",
