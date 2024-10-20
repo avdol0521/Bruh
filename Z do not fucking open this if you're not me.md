@@ -1,1 +1,2 @@
 - that longing wish that i had a father i could actually look upto and idolize. i need to learn to just accept it and stop breaking down whenever i see 
+- 20-10-2024 - it seems like i've developed an issue. i got really fucking pissed and did shit without thinking when 
