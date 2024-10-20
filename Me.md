@@ -12,3 +12,5 @@ tags:
 - [[readlist]] 
 - [[daily notes]] 
 - [[trackers]] 
+- [[lessons]] 
+- 

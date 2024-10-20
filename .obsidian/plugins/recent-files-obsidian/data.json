@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-20",
+      "path": "daily notes/2024-10-20.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "squats tracker",
+      "path": "trackers/squats tracker.md"
+    },
+    {
+      "basename": "curls tracker",
+      "path": "trackers/curls tracker.md"
+    },
+    {
+      "basename": "pushups tracker",
+      "path": "trackers/pushups tracker.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
     },
     {
       "basename": "2024-10-19",
       "path": "daily notes/2024-10-19.md"
     },
     {
-      "basename": "shokti stor - electron shell shongkranto shikarjo",
-      "path": "HSC/shokti stor - electron shell shongkranto shikarjo.md"
-    },
-    {
       "basename": "Bucket List 0521",
       "path": "Bucket List 0521.md"
     },
     {
-      "basename": "Git and github",
-      "path": "Git and github.md"
+      "basename": "shokti stor - electron shell shongkranto shikarjo",
+      "path": "HSC/shokti stor - electron shell shongkranto shikarjo.md"
+    },
+    {
+      "basename": "lessons",
+      "path": "lessons.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
     },
     {
       "basename": "daily notes",
       "path": "daily notes/daily notes.md"
     },
     {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
+      "basename": "Git and github",
+      "path": "Git and github.md"
     },
     {
       "basename": "Daily note template",
@@ -113,28 +137,12 @@
       "path": "HSC/hsc tutor list.md"
     },
     {
-      "basename": "curls tracker",
-      "path": "trackers/curls tracker.md"
-    },
-    {
-      "basename": "pushups tracker",
-      "path": "trackers/pushups tracker.md"
-    },
-    {
-      "basename": "squats tracker",
-      "path": "trackers/squats tracker.md"
-    },
-    {
       "basename": "trackers",
       "path": "trackers.md"
     },
     {
       "basename": "watchlist",
       "path": "watchlist.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
     },
     {
       "basename": "Games",
@@ -191,14 +199,6 @@
     {
       "basename": "Cation",
       "path": "SSC/Cation.md"
-    },
-    {
-      "basename": "Anion",
-      "path": "SSC/Anion.md"
-    },
-    {
-      "basename": "Z do not fucking open this if you're not me",
-      "path": "Z do not fucking open this if you're not me.md"
     }
   ],
   "omittedPaths": []

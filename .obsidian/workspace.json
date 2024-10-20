@@ -13,44 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-19.md",
+                "file": "daily notes/2024-10-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-19"
+              "title": "2024-10-20"
             }
           },
           {
-            "id": "aaa44b452de993db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HSC/shokti stor - electron shell shongkranto shikarjo.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "shokti stor - electron shell shongkranto shikarjo"
-            }
-          }
-        ]
-      },
-      {
-        "id": "182eb1c719fd6ab1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c8102c5d6056d24b",
+            "id": "e4291a37d5a9f173",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "trackers/overall workout tracker.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -152,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-10-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -180,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of overall workout tracker"
+              "title": "Graph of 2024-10-20"
             }
           },
           {
@@ -216,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trackers/overall workout tracker.md"
+                "file": "daily notes/2024-10-19.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of overall workout tracker"
+              "title": "Outline of 2024-10-19"
             }
           }
         ]
@@ -235,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-10-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +224,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for overall workout tracker"
+              "title": "Backlinks for 2024-10-19"
             }
           },
           {
@@ -254,12 +233,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-10-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from overall workout tracker"
+              "title": "Outgoing links from 2024-10-19"
             }
           },
           {
@@ -296,13 +275,19 @@
   },
   "active": "8f587450ead1abbe",
   "lastOpenFiles": [
-    "daily notes/2024-10-19.md",
     "trackers/overall workout tracker.md",
-    "HSC/shokti stor - electron shell shongkranto shikarjo.md",
-    "Bucket List 0521.md",
-    "Git and github.md",
-    "daily notes/daily notes.md",
+    "trackers/squats tracker.md",
+    "trackers/curls tracker.md",
+    "trackers/pushups tracker.md",
     "trackers/study tracker.md",
+    "daily notes/2024-10-20.md",
+    "daily notes/2024-10-19.md",
+    "Bucket List 0521.md",
+    "HSC/shokti stor - electron shell shongkranto shikarjo.md",
+    "lessons.md",
+    "Me.md",
+    "daily notes/daily notes.md",
+    "Git and github.md",
     "Templates/Daily note template.md",
     "Templates/Study Template.md",
     "daily notes/2024-10-18.md",
@@ -316,12 +301,6 @@
     "HSC/Max Planck.md",
     "HSC/Quanta.md",
     "HSC/Alpha particle.md",
-    "HSC/Thomson's atomic model - plum pudding model - 1898.md",
-    "HSC/J.J. Thomson.md",
-    "HSC/Chemistry 1.md",
-    "HSC/chem - chap 1 - Gungoto Roshayon.md",
-    "SSC/Chemistry.md",
-    "SSC/Class 10.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
