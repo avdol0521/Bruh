@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "hsc tutor list",
+      "path": "HSC/hsc tutor list.md"
+    },
+    {
+      "basename": "HSC Subs",
+      "path": "HSC/HSC Subs.md"
+    },
+    {
+      "basename": "electron velocity equation",
+      "path": "electron velocity equation.md"
+    },
+    {
+      "basename": "center force equation",
+      "path": "HSC/center force equation.md"
+    },
+    {
+      "basename": "Bohr's atomic model - quantum model - 1913",
+      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
+    },
+    {
+      "basename": "Atomic models",
+      "path": "HSC/Atomic models.md"
+    },
+    {
+      "basename": "chem - chap 1 - Gungoto Roshayon",
+      "path": "HSC/chem - chap 1 - Gungoto Roshayon.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
@@ -33,20 +61,12 @@
       "path": "anime movies ig.md"
     },
     {
-      "basename": "Bohr's atomic model - quantum model - 1913",
-      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
-    },
-    {
       "basename": "2024-10-19",
       "path": "daily notes/2024-10-19.md"
     },
     {
       "basename": "Rutherford's atomic model - 1911",
       "path": "HSC/Rutherford's atomic model - 1911.md"
-    },
-    {
-      "basename": "Atomic models",
-      "path": "HSC/Atomic models.md"
     },
     {
       "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
@@ -109,10 +129,6 @@
       "path": "HSC/kounik vorbeg - Angular momentum equation.md"
     },
     {
-      "basename": "center force equation",
-      "path": "HSC/center force equation.md"
-    },
-    {
       "basename": "Planck's quantum theory - 1900",
       "path": "HSC/Planck's quantum theory - 1900.md"
     },
@@ -141,24 +157,12 @@
       "path": "HSC/Chemistry 1.md"
     },
     {
-      "basename": "chem - chap 1 - Gungoto Roshayon",
-      "path": "HSC/chem - chap 1 - Gungoto Roshayon.md"
-    },
-    {
       "basename": "Chemistry",
       "path": "SSC/Chemistry.md"
     },
     {
       "basename": "Class 10",
       "path": "SSC/Class 10.md"
-    },
-    {
-      "basename": "HSC Subs",
-      "path": "HSC/HSC Subs.md"
-    },
-    {
-      "basename": "hsc tutor list",
-      "path": "HSC/hsc tutor list.md"
     },
     {
       "basename": "Games",
@@ -195,10 +199,6 @@
     {
       "basename": "Math",
       "path": "SSC/Math.md"
-    },
-    {
-      "basename": "horror movies",
-      "path": "horror movies.md"
     }
   ],
   "omittedPaths": []

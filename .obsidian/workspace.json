@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "HSC/hsc tutor list.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "title": "hsc tutor list"
             }
           }
         ],
@@ -104,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -132,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "HSC/hsc tutor list.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of overall workout tracker"
+              "title": "Graph of hsc tutor list"
             }
           },
           {
@@ -277,18 +276,22 @@
   },
   "active": "c3720765bde75f6d",
   "lastOpenFiles": [
-    "daily notes/2024-10-20.md",
+    "HSC/HSC Subs.md",
+    "electron velocity equation.md",
+    "HSC/center force equation.md",
+    "HSC/Bohr's atomic model - quantum model - 1913.md",
+    "HSC/Atomic models.md",
+    "HSC/chem - chap 1 - Gungoto Roshayon.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-10-20.md",
     "Z do not fucking open this if you're not me.md",
     "readlist.md",
     "Me.md",
     "trackers.md",
     "watchlist.md",
     "anime movies ig.md",
-    "HSC/Bohr's atomic model - quantum model - 1913.md",
     "daily notes/2024-10-19.md",
     "HSC/Rutherford's atomic model - 1911.md",
-    "HSC/Atomic models.md",
     "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md",
     "HSC/shokti stor - electron shell shongkranto shikarjo.md",
     "attachments/Pasted image 20231024150855.png",
@@ -300,10 +303,6 @@
     "lessons.md",
     "daily notes/daily notes.md",
     "Git and github.md",
-    "Templates/Daily note template.md",
-    "Templates/Study Template.md",
-    "daily notes/2024-10-18.md",
-    "HSC/kounik vorbeg - Angular momentum equation.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
