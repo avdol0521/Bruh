@@ -6,5 +6,8 @@
   "calendar",
   "obsidian-git",
   "dataview",
-  "obsidian-tracker"
+  "obsidian-tracker",
+  "obsidian-scroll-offset",
+  "settings-search",
+  "obsidian-trash-explorer"
 ]

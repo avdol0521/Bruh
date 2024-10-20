@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Rutherford's atomic model - 1911",
+      "path": "HSC/Rutherford's atomic model - 1911.md"
+    },
+    {
+      "basename": "Atomic models",
+      "path": "HSC/Atomic models.md"
+    },
+    {
+      "basename": "Bohr's atomic model - quantum model - 1913",
+      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
+    },
+    {
+      "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
+      "path": "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md"
+    },
+    {
+      "basename": "shokti stor - electron shell shongkranto shikarjo",
+      "path": "HSC/shokti stor - electron shell shongkranto shikarjo.md"
+    },
+    {
       "basename": "2024-10-20",
       "path": "daily notes/2024-10-20.md"
+    },
+    {
+      "basename": "Pasted image 20231024150855",
+      "path": "attachments/Pasted image 20231024150855.png"
     },
     {
       "basename": "overall workout tracker",
@@ -33,10 +57,6 @@
       "path": "Bucket List 0521.md"
     },
     {
-      "basename": "shokti stor - electron shell shongkranto shikarjo",
-      "path": "HSC/shokti stor - electron shell shongkranto shikarjo.md"
-    },
-    {
       "basename": "lessons",
       "path": "lessons.md"
     },
@@ -65,24 +85,8 @@
       "path": "daily notes/2024-10-18.md"
     },
     {
-      "basename": "Bohr's atomic model - quantum model - 1913",
-      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
-    },
-    {
-      "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
-      "path": "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md"
-    },
-    {
       "basename": "kounik vorbeg - Angular momentum equation",
       "path": "HSC/kounik vorbeg - Angular momentum equation.md"
-    },
-    {
-      "basename": "Atomic models",
-      "path": "HSC/Atomic models.md"
-    },
-    {
-      "basename": "Rutherford's atomic model - 1911",
-      "path": "HSC/Rutherford's atomic model - 1911.md"
     },
     {
       "basename": "center force equation",
@@ -195,10 +199,6 @@
     {
       "basename": "web shell uploading tutos",
       "path": "aws/web shell uploading tutos.md"
-    },
-    {
-      "basename": "Cation",
-      "path": "SSC/Cation.md"
     }
   ],
   "omittedPaths": []
