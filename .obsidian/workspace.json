@@ -4,38 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c728abfc0d9edecd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2b3cbf47b32c0933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2024-10-20.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-20"
-            }
-          },
-          {
-            "id": "e2ec6dde3b50a371",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
-        "id": "992c61f8be6614ca",
+        "id": "8b497604ea2ab3c4",
         "type": "tabs",
         "children": [
           {
@@ -51,6 +20,21 @@
               },
               "icon": "lucide-file",
               "title": "overall workout tracker"
+            }
+          },
+          {
+            "id": "e2ec6dde3b50a371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trackers.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trackers"
             }
           }
         ]
@@ -291,12 +275,17 @@
   },
   "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
+    "trackers.md",
+    "Me.md",
+    "watchlist.md",
+    "anime movies ig.md",
+    "readlist.md",
     "daily notes/2024-10-20.md",
     "trackers/overall workout tracker.md",
+    "HSC/Bohr's atomic model - quantum model - 1913.md",
     "daily notes/2024-10-19.md",
     "HSC/Rutherford's atomic model - 1911.md",
     "HSC/Atomic models.md",
-    "HSC/Bohr's atomic model - quantum model - 1913.md",
     "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md",
     "HSC/shokti stor - electron shell shongkranto shikarjo.md",
     "attachments/Pasted image 20231024150855.png",
@@ -306,7 +295,6 @@
     "trackers/study tracker.md",
     "Bucket List 0521.md",
     "lessons.md",
-    "Me.md",
     "daily notes/daily notes.md",
     "Git and github.md",
     "Templates/Daily note template.md",
@@ -314,9 +302,6 @@
     "daily notes/2024-10-18.md",
     "HSC/kounik vorbeg - Angular momentum equation.md",
     "HSC/center force equation.md",
-    "HSC/Planck's quantum theory - 1900.md",
-    "HSC/Max Planck.md",
-    "HSC/Quanta.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",

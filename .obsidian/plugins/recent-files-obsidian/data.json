@@ -5,8 +5,32 @@
       "path": "trackers/overall workout tracker.md"
     },
     {
+      "basename": "trackers",
+      "path": "trackers.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "anime movies ig",
+      "path": "anime movies ig.md"
+    },
+    {
+      "basename": "readlist",
+      "path": "readlist.md"
+    },
+    {
       "basename": "2024-10-20",
       "path": "daily notes/2024-10-20.md"
+    },
+    {
+      "basename": "Bohr's atomic model - quantum model - 1913",
+      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
     },
     {
       "basename": "2024-10-19",
@@ -19,10 +43,6 @@
     {
       "basename": "Atomic models",
       "path": "HSC/Atomic models.md"
-    },
-    {
-      "basename": "Bohr's atomic model - quantum model - 1913",
-      "path": "HSC/Bohr's atomic model - quantum model - 1913.md"
     },
     {
       "basename": "kounik vorbeg - angular momentum shongkranto shikarjo",
@@ -59,10 +79,6 @@
     {
       "basename": "lessons",
       "path": "lessons.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
     },
     {
       "basename": "daily notes",
@@ -141,14 +157,6 @@
       "path": "HSC/hsc tutor list.md"
     },
     {
-      "basename": "trackers",
-      "path": "trackers.md"
-    },
-    {
-      "basename": "watchlist",
-      "path": "watchlist.md"
-    },
-    {
       "basename": "Games",
       "path": "Games.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Higher Maths",
       "path": "SSC/Higher Maths.md"
-    },
-    {
-      "basename": "aws tutos",
-      "path": "aws/aws tutos.md"
-    },
-    {
-      "basename": "web shell uploading tutos",
-      "path": "aws/web shell uploading tutos.md"
     }
   ],
   "omittedPaths": []
