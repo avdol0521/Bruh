@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readlist.md",
+                "file": "daily notes/2024-10-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "readlist"
+              "title": "2024-10-20"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "readlist.md",
+                "file": "daily notes/2024-10-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of readlist"
+              "title": "Graph of 2024-10-20"
             }
           },
           {
@@ -275,15 +275,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "e2ec6dde3b50a371",
   "lastOpenFiles": [
+    "readlist.md",
     "Me.md",
     "trackers.md",
     "daily notes/2024-10-20.md",
     "trackers/overall workout tracker.md",
     "watchlist.md",
     "anime movies ig.md",
-    "readlist.md",
     "HSC/Bohr's atomic model - quantum model - 1913.md",
     "daily notes/2024-10-19.md",
     "HSC/Rutherford's atomic model - 1911.md",
