@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-22",
+      "path": "daily notes/2024-10-22.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
+      "basename": "overall workout tracker",
+      "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
+    },
+    {
+      "basename": "daily notes",
+      "path": "daily notes/daily notes.md"
+    },
+    {
+      "basename": "2024-10-19",
+      "path": "daily notes/2024-10-19.md"
+    },
+    {
+      "basename": "2024-10-21",
+      "path": "daily notes/2024-10-21.md"
+    },
+    {
+      "basename": "2024-10-20",
+      "path": "daily notes/2024-10-20.md"
+    },
+    {
       "basename": "hsc tutor list",
       "path": "HSC/hsc tutor list.md"
     },
@@ -29,14 +61,6 @@
       "path": "HSC/chem - chap 1 - Gungoto Roshayon.md"
     },
     {
-      "basename": "overall workout tracker",
-      "path": "trackers/overall workout tracker.md"
-    },
-    {
-      "basename": "2024-10-20",
-      "path": "daily notes/2024-10-20.md"
-    },
-    {
       "basename": "Z do not fucking open this if you're not me",
       "path": "Z do not fucking open this if you're not me.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "anime movies ig",
       "path": "anime movies ig.md"
-    },
-    {
-      "basename": "2024-10-19",
-      "path": "daily notes/2024-10-19.md"
     },
     {
       "basename": "Rutherford's atomic model - 1911",
@@ -93,10 +113,6 @@
       "path": "trackers/pushups tracker.md"
     },
     {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
-    },
-    {
       "basename": "Bucket List 0521",
       "path": "Bucket List 0521.md"
     },
@@ -105,16 +121,8 @@
       "path": "lessons.md"
     },
     {
-      "basename": "daily notes",
-      "path": "daily notes/daily notes.md"
-    },
-    {
       "basename": "Git and github",
       "path": "Git and github.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
     },
     {
       "basename": "Study Template",
@@ -191,14 +199,6 @@
     {
       "basename": "aws topics",
       "path": "aws/aws topics.md"
-    },
-    {
-      "basename": "peeps who owe me money",
-      "path": "peeps who owe me money.md"
-    },
-    {
-      "basename": "Math",
-      "path": "SSC/Math.md"
     }
   ],
   "omittedPaths": []

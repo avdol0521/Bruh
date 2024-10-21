@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-20.md",
-                "mode": "source",
+                "file": "trackers/overall workout tracker.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-20"
+              "title": "overall workout tracker"
             }
           },
           {
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSC/hsc tutor list.md",
+                "file": "daily notes/2024-10-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hsc tutor list"
+              "title": "2024-10-22"
             }
           }
         ],
@@ -100,7 +100,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -131,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HSC/hsc tutor list.md",
+                "file": "daily notes/2024-10-22.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,12 +155,12 @@
                   "repelStrength": 14.2708333333333,
                   "linkStrength": 0.390625,
                   "linkDistance": 130,
-                  "scale": 0.6418168074333429,
+                  "scale": 0.8039694742394463,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hsc tutor list"
+              "title": "Graph of 2024-10-22"
             }
           },
           {
@@ -274,35 +275,35 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c3720765bde75f6d",
+  "active": "8f587450ead1abbe",
   "lastOpenFiles": [
+    "Templates/Daily note template.md",
+    "daily notes/2024-10-22.md",
+    "trackers/overall workout tracker.md",
+    "trackers/study tracker.md",
+    "daily notes/daily notes.md",
+    "daily notes/2024-10-19.md",
+    "daily notes/2024-10-21.md",
+    "daily notes/2024-10-20.md",
+    "HSC/hsc tutor list.md",
     "HSC/HSC Subs.md",
     "electron velocity equation.md",
     "HSC/center force equation.md",
     "HSC/Bohr's atomic model - quantum model - 1913.md",
     "HSC/Atomic models.md",
     "HSC/chem - chap 1 - Gungoto Roshayon.md",
-    "trackers/overall workout tracker.md",
-    "daily notes/2024-10-20.md",
     "Z do not fucking open this if you're not me.md",
     "readlist.md",
     "Me.md",
     "trackers.md",
     "watchlist.md",
     "anime movies ig.md",
-    "daily notes/2024-10-19.md",
     "HSC/Rutherford's atomic model - 1911.md",
     "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md",
     "HSC/shokti stor - electron shell shongkranto shikarjo.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers/squats tracker.md",
     "trackers/curls tracker.md",
-    "trackers/pushups tracker.md",
-    "trackers/study tracker.md",
-    "Bucket List 0521.md",
-    "lessons.md",
-    "daily notes/daily notes.md",
-    "Git and github.md",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
