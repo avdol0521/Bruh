@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "trackers/overall workout tracker.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -275,11 +275,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "c3720765bde75f6d",
   "lastOpenFiles": [
-    "Templates/Daily note template.md",
-    "daily notes/2024-10-22.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-10-22.md",
+    "Templates/Daily note template.md",
     "trackers/study tracker.md",
     "daily notes/daily notes.md",
     "daily notes/2024-10-19.md",
