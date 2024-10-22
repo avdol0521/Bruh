@@ -37,8 +37,7 @@
               "title": "2024-10-22"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +274,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "c3720765bde75f6d",
+  "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
-    "trackers/overall workout tracker.md",
     "daily notes/2024-10-22.md",
+    "trackers/overall workout tracker.md",
     "Templates/Daily note template.md",
     "trackers/study tracker.md",
     "daily notes/daily notes.md",
