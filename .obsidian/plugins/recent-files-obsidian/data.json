@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-23",
+      "path": "daily notes/2024-10-23.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "aws resources",
       "path": "aws/aws resources.md"
-    },
-    {
-      "basename": "aws topics",
-      "path": "aws/aws topics.md"
     }
   ],
   "omittedPaths": []
