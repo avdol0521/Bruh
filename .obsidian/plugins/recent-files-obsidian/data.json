@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-25",
+      "path": "daily notes/2024-10-25.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Stuff I wanna learn",
       "path": "Stuff I wanna learn.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Hacking.md"
     }
   ],
   "omittedPaths": []

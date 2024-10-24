@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-10-25.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "title": "2024-10-25"
             }
           },
           {
@@ -99,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,8 +275,9 @@
   },
   "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
-    "daily notes/2024-10-24.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-10-25.md",
+    "daily notes/2024-10-24.md",
     "random ahh movies.md",
     "daily notes/2024-10-23.md",
     "watchlist.md",
@@ -301,7 +301,6 @@
     "readlist.md",
     "trackers.md",
     "anime movies ig.md",
-    "HSC/Rutherford's atomic model - 1911.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
