@@ -25,6 +25,7 @@
 - [ ] laser
 - [ ] 100 pushups straight
 - [ ] skydiving
+      optional side quest: throw rock xD
 - [ ] camping
 - [ ] skubadiving
 - [ ] that place in the valley of the giants

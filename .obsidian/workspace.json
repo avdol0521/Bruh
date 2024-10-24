@@ -28,23 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-10-24.md",
+                "file": "Bucket List 0521.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-24"
-            }
-          },
-          {
-            "id": "963f40e260ab5adf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Bucket List 0521"
             }
           }
         ],
@@ -142,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily notes/2024-10-24.md",
+                "file": "Bucket List 0521.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-10-24"
+              "title": "Graph of Bucket List 0521"
             }
           },
           {
@@ -285,10 +275,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "b95ca5abc524dfc6",
   "lastOpenFiles": [
-    "trackers/overall workout tracker.md",
     "daily notes/2024-10-24.md",
+    "trackers/overall workout tracker.md",
     "daily notes/2024-10-19.md",
     "daily notes/2024-10-21.md",
     "trackers/study tracker.md",
