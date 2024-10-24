@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bucket List 0521.md",
+                "file": "daily notes/2024-10-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bucket List 0521"
+              "title": "2024-10-24"
             }
           }
         ],
@@ -132,7 +132,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bucket List 0521.md",
+                "file": "daily notes/2024-10-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +160,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bucket List 0521"
+              "title": "Graph of 2024-10-24"
             }
           },
           {
@@ -277,14 +277,15 @@
   },
   "active": "b95ca5abc524dfc6",
   "lastOpenFiles": [
-    "daily notes/2024-10-24.md",
+    "random ahh movies.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-10-23.md",
+    "watchlist.md",
+    "daily notes/2024-10-24.md",
+    "Bucket List 0521.md",
     "daily notes/2024-10-19.md",
     "daily notes/2024-10-21.md",
     "trackers/study tracker.md",
-    "daily notes/2024-10-23.md",
-    "random ahh movies.md",
-    "watchlist.md",
     "Me.md",
     "daily notes/2024-10-22.md",
     "Templates/Daily note template.md",
@@ -302,7 +303,6 @@
     "trackers.md",
     "anime movies ig.md",
     "HSC/Rutherford's atomic model - 1911.md",
-    "HSC/kounik vorbeg - angular momentum shongkranto shikarjo.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
