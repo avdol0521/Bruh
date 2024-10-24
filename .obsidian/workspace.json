@@ -37,8 +37,7 @@
               "title": "2024-10-24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "daily notes/2024-10-24.md",
+                "file": "trackers/overall workout tracker.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +159,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2024-10-24"
+              "title": "Graph of overall workout tracker"
             }
           },
           {
@@ -275,13 +274,13 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "b95ca5abc524dfc6",
+  "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
-    "random ahh movies.md",
+    "daily notes/2024-10-24.md",
     "trackers/overall workout tracker.md",
+    "random ahh movies.md",
     "daily notes/2024-10-23.md",
     "watchlist.md",
-    "daily notes/2024-10-24.md",
     "Bucket List 0521.md",
     "daily notes/2024-10-19.md",
     "daily notes/2024-10-21.md",
