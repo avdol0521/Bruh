@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-23",
-      "path": "daily notes/2024-10-23.md"
+      "basename": "2024-10-24",
+      "path": "daily notes/2024-10-24.md"
     },
     {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "2024-10-19",
+      "path": "daily notes/2024-10-19.md"
+    },
+    {
+      "basename": "2024-10-21",
+      "path": "daily notes/2024-10-21.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
+    },
+    {
+      "basename": "2024-10-23",
+      "path": "daily notes/2024-10-23.md"
+    },
+    {
+      "basename": "random ahh movies",
+      "path": "random ahh movies.md"
+    },
+    {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
     },
     {
       "basename": "2024-10-22",
@@ -17,20 +45,8 @@
       "path": "Templates/Daily note template.md"
     },
     {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
-    },
-    {
       "basename": "daily notes",
       "path": "daily notes/daily notes.md"
-    },
-    {
-      "basename": "2024-10-19",
-      "path": "daily notes/2024-10-19.md"
-    },
-    {
-      "basename": "2024-10-21",
-      "path": "daily notes/2024-10-21.md"
     },
     {
       "basename": "2024-10-20",
@@ -73,16 +89,8 @@
       "path": "readlist.md"
     },
     {
-      "basename": "Me",
-      "path": "Me.md"
-    },
-    {
       "basename": "trackers",
       "path": "trackers.md"
-    },
-    {
-      "basename": "watchlist",
-      "path": "watchlist.md"
     },
     {
       "basename": "anime movies ig",
@@ -191,14 +199,6 @@
     {
       "basename": "Hacking",
       "path": "Hacking.md"
-    },
-    {
-      "basename": "AWS course",
-      "path": "aws/AWS course.md"
-    },
-    {
-      "basename": "aws resources",
-      "path": "aws/aws resources.md"
     }
   ],
   "omittedPaths": []
