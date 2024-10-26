@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "overall workout tracker",
+      "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "2024-10-26",
+      "path": "daily notes/2024-10-26.md"
+    },
+    {
+      "basename": "Games i wanna play one day",
+      "path": "Games i wanna play one day.md"
+    },
+    {
       "basename": "2024-10-25",
       "path": "daily notes/2024-10-25.md"
     },
     {
-      "basename": "overall workout tracker",
-      "path": "trackers/overall workout tracker.md"
+      "basename": "2024-10-27",
+      "path": "daily notes/2024-10-27.md"
     },
     {
       "basename": "2024-10-24",
@@ -187,18 +199,6 @@
     {
       "basename": "Class 10",
       "path": "SSC/Class 10.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Games.md"
-    },
-    {
-      "basename": "Games i wanna play one day",
-      "path": "Games i wanna play one day.md"
-    },
-    {
-      "basename": "Stuff I wanna learn",
-      "path": "Stuff I wanna learn.md"
     }
   ],
   "omittedPaths": []
