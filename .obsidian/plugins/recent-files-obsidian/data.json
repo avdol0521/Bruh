@@ -5,6 +5,14 @@
       "path": "daily notes/2024-10-27.md"
     },
     {
+      "basename": "overall workout tracker",
+      "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
       "basename": "2024-10-26",
       "path": "daily notes/2024-10-26.md"
     },
@@ -39,14 +47,6 @@
     {
       "basename": "2024-10-24",
       "path": "daily notes/2024-10-24.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
-    },
-    {
-      "basename": "overall workout tracker",
-      "path": "trackers/overall workout tracker.md"
     },
     {
       "basename": "study tracker",

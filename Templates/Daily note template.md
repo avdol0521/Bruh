@@ -12,7 +12,7 @@ squats amount: 0
 # tasks:
 - [ ] at least 2 sets of 25 curls 
 - [ ] at least 50 pushups
-- [ ] at least 2 sets of 35 squats
+- [ ] at least 2 sets of 35 squats with 10kg added
 - [ ] study
       **what i studied:**  
       

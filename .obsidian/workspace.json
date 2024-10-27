@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note template.md",
+                "file": "trackers/overall workout tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note template"
+              "title": "overall workout tracker"
             }
           }
         ]
@@ -276,6 +276,9 @@
   },
   "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
+    "trackers/overall workout tracker.md",
+    "Templates/Daily note template.md",
+    "daily notes/2024-10-27.md",
     "daily notes/2024-10-26.md",
     "daily notes/2024-10-25.md",
     "daily notes/2024-10-18.md",
@@ -285,9 +288,6 @@
     "daily notes/2024-10-22.md",
     "daily notes/2024-10-23.md",
     "daily notes/2024-10-24.md",
-    "daily notes/2024-10-27.md",
-    "Templates/Daily note template.md",
-    "trackers/overall workout tracker.md",
     "trackers/study tracker.md",
     "trackers.md",
     "random ahh movies.md",
