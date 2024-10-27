@@ -21,6 +21,21 @@
               "icon": "lucide-file",
               "title": "2024-10-27"
             }
+          },
+          {
+            "id": "fc013234bd5b1fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily note template.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Daily note template"
+            }
           }
         ]
       }
@@ -261,11 +276,14 @@
   },
   "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
+    "Templates/Daily note template.md",
+    "daily notes/2024-10-27.md",
+    "trackers/overall workout tracker.md",
+    "trackers/study tracker.md",
+    "trackers.md",
     "random ahh movies.md",
     "watchlist.md",
     "daily notes/2024-10-26.md",
-    "daily notes/2024-10-27.md",
-    "trackers/overall workout tracker.md",
     "Games i wanna play one day.md",
     "daily notes/2024-10-25.md",
     "daily notes/2024-10-24.md",
@@ -273,10 +291,8 @@
     "Bucket List 0521.md",
     "daily notes/2024-10-19.md",
     "daily notes/2024-10-21.md",
-    "trackers/study tracker.md",
     "Me.md",
     "daily notes/2024-10-22.md",
-    "Templates/Daily note template.md",
     "daily notes/daily notes.md",
     "daily notes/2024-10-20.md",
     "HSC/hsc tutor list.md",
@@ -286,7 +302,6 @@
     "HSC/Bohr's atomic model - quantum model - 1913.md",
     "HSC/Atomic models.md",
     "HSC/chem - chap 1 - Gungoto Roshayon.md",
-    "Z do not fucking open this if you're not me.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
