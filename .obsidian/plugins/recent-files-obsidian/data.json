@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-29",
+      "path": "daily notes/2024-10-29.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
     {
-      "basename": "study tracker",
-      "path": "trackers/study tracker.md"
+      "basename": "2024-10-28",
+      "path": "daily notes/2024-10-28.md"
     },
     {
       "basename": "2024-10-27",
       "path": "daily notes/2024-10-27.md"
+    },
+    {
+      "basename": "study tracker",
+      "path": "trackers/study tracker.md"
     },
     {
       "basename": "squats tracker",
@@ -23,10 +35,6 @@
     {
       "basename": "curls tracker",
       "path": "trackers/curls tracker.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
     },
     {
       "basename": "2024-10-26",
@@ -191,14 +199,6 @@
     {
       "basename": "Chemistry 1",
       "path": "HSC/Chemistry 1.md"
-    },
-    {
-      "basename": "Chemistry",
-      "path": "SSC/Chemistry.md"
-    },
-    {
-      "basename": "Class 10",
-      "path": "SSC/Class 10.md"
     }
   ],
   "omittedPaths": []

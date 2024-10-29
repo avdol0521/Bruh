@@ -13,32 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/study tracker.md",
+                "file": "daily notes/2024-10-29.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "study tracker"
+              "title": "2024-10-29"
             }
           },
           {
             "id": "fc013234bd5b1fc7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trackers/overall workout tracker.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +94,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -274,15 +269,18 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "fc013234bd5b1fc7",
+  "active": "e4291a37d5a9f173",
   "lastOpenFiles": [
-    "trackers/study tracker.md",
-    "daily notes/2024-10-27.md",
+    "Templates/Daily note template.md",
+    "daily notes/2024-10-29.md",
+    "daily notes/2024-10-30.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-10-28.md",
+    "daily notes/2024-10-27.md",
+    "trackers/study tracker.md",
     "trackers/squats tracker.md",
     "trackers/pushups tracker.md",
     "trackers/curls tracker.md",
-    "Templates/Daily note template.md",
     "daily notes/2024-10-26.md",
     "daily notes/2024-10-25.md",
     "daily notes/2024-10-18.md",
@@ -299,9 +297,6 @@
     "Bucket List 0521.md",
     "Me.md",
     "daily notes/daily notes.md",
-    "HSC/hsc tutor list.md",
-    "HSC/HSC Subs.md",
-    "electron velocity equation.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
