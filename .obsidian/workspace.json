@@ -32,7 +32,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,14 +270,15 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e4291a37d5a9f173",
+  "active": "fc013234bd5b1fc7",
   "lastOpenFiles": [
-    "Templates/Daily note template.md",
-    "daily notes/2024-10-29.md",
-    "daily notes/2024-10-30.md",
+    "daily notes/2024-10-31.md",
     "trackers/overall workout tracker.md",
-    "daily notes/2024-10-28.md",
+    "daily notes/2024-10-29.md",
+    "Templates/Daily note template.md",
     "daily notes/2024-10-27.md",
+    "daily notes/2024-10-28.md",
+    "daily notes/2024-10-30.md",
     "trackers/study tracker.md",
     "trackers/squats tracker.md",
     "trackers/pushups tracker.md",
@@ -296,7 +298,6 @@
     "Games i wanna play one day.md",
     "Bucket List 0521.md",
     "Me.md",
-    "daily notes/daily notes.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",

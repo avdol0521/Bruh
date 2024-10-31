@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-10-31",
+      "path": "daily notes/2024-10-31.md"
+    },
+    {
+      "basename": "overall workout tracker",
+      "path": "trackers/overall workout tracker.md"
+    },
+    {
       "basename": "2024-10-29",
       "path": "daily notes/2024-10-29.md"
     },
@@ -9,16 +17,12 @@
       "path": "Templates/Daily note template.md"
     },
     {
-      "basename": "overall workout tracker",
-      "path": "trackers/overall workout tracker.md"
+      "basename": "2024-10-27",
+      "path": "daily notes/2024-10-27.md"
     },
     {
       "basename": "2024-10-28",
       "path": "daily notes/2024-10-28.md"
-    },
-    {
-      "basename": "2024-10-27",
-      "path": "daily notes/2024-10-27.md"
     },
     {
       "basename": "study tracker",
@@ -195,10 +199,6 @@
     {
       "basename": "J.J. Thomson",
       "path": "HSC/J.J. Thomson.md"
-    },
-    {
-      "basename": "Chemistry 1",
-      "path": "HSC/Chemistry 1.md"
     }
   ],
   "omittedPaths": []
