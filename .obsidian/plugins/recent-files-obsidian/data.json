@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-10-31",
-      "path": "daily notes/2024-10-31.md"
-    },
-    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
     {
+      "basename": "2024-11-01",
+      "path": "daily notes/2024-11-01.md"
+    },
+    {
       "basename": "2024-10-29",
       "path": "daily notes/2024-10-29.md"
+    },
+    {
+      "basename": "2024-10-30",
+      "path": "daily notes/2024-10-30.md"
+    },
+    {
+      "basename": "2024-10-31",
+      "path": "daily notes/2024-10-31.md"
     },
     {
       "basename": "Daily note template",
@@ -191,14 +199,6 @@
     {
       "basename": "Alpha particle",
       "path": "HSC/Alpha particle.md"
-    },
-    {
-      "basename": "Thomson's atomic model - plum pudding model - 1898",
-      "path": "HSC/Thomson's atomic model - plum pudding model - 1898.md"
-    },
-    {
-      "basename": "J.J. Thomson",
-      "path": "HSC/J.J. Thomson.md"
     }
   ],
   "omittedPaths": []
