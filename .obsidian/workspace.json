@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "daily notes/2024-11-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "title": "2024-11-01"
             }
           },
           {
@@ -99,8 +99,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -274,10 +273,10 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "e4291a37d5a9f173",
+  "active": "f5cc52cab8564ec2",
   "lastOpenFiles": [
-    "daily notes/2024-11-01.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-11-01.md",
     "daily notes/2024-10-29.md",
     "daily notes/2024-10-30.md",
     "daily notes/2024-10-31.md",
