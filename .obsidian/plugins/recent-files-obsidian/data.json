@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Vuln Sites",
+      "path": "aws/Vuln Sites.md"
+    },
+    {
+      "basename": "acunetix",
+      "path": "acunetix.md"
+    },
+    {
+      "basename": "2024-11-02",
+      "path": "daily notes/2024-11-02.md"
+    },
+    {
+      "basename": "aws software",
+      "path": "aws/aws software.md"
+    },
+    {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "kounik vorbeg - Angular momentum equation",
       "path": "HSC/kounik vorbeg - Angular momentum equation.md"
-    },
-    {
-      "basename": "Planck's quantum theory - 1900",
-      "path": "HSC/Planck's quantum theory - 1900.md"
-    },
-    {
-      "basename": "Max Planck",
-      "path": "HSC/Max Planck.md"
-    },
-    {
-      "basename": "Quanta",
-      "path": "HSC/Quanta.md"
-    },
-    {
-      "basename": "Alpha particle",
-      "path": "HSC/Alpha particle.md"
     }
   ],
   "omittedPaths": []

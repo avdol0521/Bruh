@@ -8,37 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4291a37d5a9f173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2024-11-01.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-01"
-            }
-          },
-          {
             "id": "fc013234bd5b1fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trackers/overall workout tracker.md",
+                "file": "aws/Vuln Sites.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "overall workout tracker"
+              "title": "Vuln Sites"
+            }
+          },
+          {
+            "id": "c1a9a73741d77df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2024-11-02.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,15 +268,18 @@
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
       "obsidian-matrix:Obsidian Matrix": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
   "active": "fc013234bd5b1fc7",
   "lastOpenFiles": [
-    "daily notes/2024-11-01.md",
+    "acunetix.md",
+    "aws/Vuln Sites.md",
+    "daily notes/2024-11-02.md",
+    "aws/aws software.md",
     "trackers/overall workout tracker.md",
+    "daily notes/2024-11-01.md",
     "trackers/study tracker.md",
     "daily notes/2024-10-29.md",
     "daily notes/2024-10-30.md",
@@ -298,10 +300,6 @@
     "daily notes/2024-10-23.md",
     "daily notes/2024-10-24.md",
     "trackers.md",
-    "random ahh movies.md",
-    "watchlist.md",
-    "Games i wanna play one day.md",
-    "Bucket List 0521.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",
