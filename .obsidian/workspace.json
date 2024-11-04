@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8b497604ea2ab3c4",
+        "id": "9b142e230c71b607",
         "type": "tabs",
         "children": [
           {
-            "id": "fc013234bd5b1fc7",
+            "id": "4f353d01840d0460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/Vuln Sites.md",
+                "file": "Z do not fucking open this if you're not me.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vuln Sites"
-            }
-          },
-          {
-            "id": "c1a9a73741d77df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily notes/2024-11-02.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-02"
+              "title": "Z do not fucking open this if you're not me"
             }
           }
         ]
@@ -272,19 +257,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "fc013234bd5b1fc7",
+  "active": "4f353d01840d0460",
   "lastOpenFiles": [
-    "acunetix.md",
+    "Bucket List 0521.md",
+    "daily notes/2024-11-04.md",
+    "daily notes/2024-11-03.md",
+    "daily notes/2024-11-05.md",
+    "trackers/overall workout tracker.md",
+    "Templates/Daily note template.md",
     "aws/Vuln Sites.md",
     "daily notes/2024-11-02.md",
+    "acunetix.md",
     "aws/aws software.md",
-    "trackers/overall workout tracker.md",
     "daily notes/2024-11-01.md",
     "trackers/study tracker.md",
     "daily notes/2024-10-29.md",
     "daily notes/2024-10-30.md",
     "daily notes/2024-10-31.md",
-    "Templates/Daily note template.md",
     "daily notes/2024-10-27.md",
     "daily notes/2024-10-28.md",
     "trackers/squats tracker.md",
@@ -296,10 +285,6 @@
     "daily notes/2024-10-19.md",
     "daily notes/2024-10-20.md",
     "daily notes/2024-10-21.md",
-    "daily notes/2024-10-22.md",
-    "daily notes/2024-10-23.md",
-    "daily notes/2024-10-24.md",
-    "trackers.md",
     "attachments/Pasted image 20231024150855.png",
     "trackers",
     "attachments/Pasted image 20231123034351.png",

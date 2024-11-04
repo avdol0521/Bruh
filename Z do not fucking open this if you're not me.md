@@ -1,2 +1,3 @@
-- that longing wish that i had a father i could actually look upto and idolize. i need to learn to just accept it and stop breaking down whenever i see 
+- that longing. i need to stop breaking down whenever i 
 - 20-10-2024 - it seems like i've developed an issue. i got really fucking pissed and did shit without thinking when 
+- 4-11-2024 - i think i fear impermence. its probably why i dont take action? do i fear that ill lose what i have to gain eventually? ah idk 
