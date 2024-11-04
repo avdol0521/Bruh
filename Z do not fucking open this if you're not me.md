@@ -5,3 +5,4 @@
 		- "ah i fucked up my sleep cycle again" - maybe its not actually impermanence that i fear. 
 	maybe it was fucking up that i feared so much? i forgot what i realised in that moment 
 	its probably why i keep choosing inaction and try to build a safe space where i cant fuck up i think. ah tf am i even doing rn. im cringing at this. but oh well 
+- 5-11-2024 - i was wondering why that specific panel got to me for a few weeks now. and i think i finally realise why. im afraid of the what i dont know. its most likely why i surround myself with what i already do know and can do. and that leads to inaction. 
