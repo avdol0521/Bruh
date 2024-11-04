@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-11-05.md",
+                "file": "Games i wanna play one day.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-05"
+              "title": "Games i wanna play one day"
             }
           }
         ]
@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -257,11 +258,11 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f5cc52cab8564ec2",
+  "active": "bba273d64d5d8f80",
   "lastOpenFiles": [
+    "daily notes/2024-11-05.md",
     "Z do not fucking open this if you're not me.md",
     "daily notes/2024-11-04.md",
-    "daily notes/2024-11-05.md",
     "Bucket List 0521.md",
     "Games i wanna play one day.md",
     "daily notes/2024-11-03.md",
