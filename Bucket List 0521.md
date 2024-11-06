@@ -18,6 +18,7 @@
 - [ ] own a sword
 - [ ] a polaroid camera
 - [ ] a handycam vision CCD-TRV16 Video 8 XR
+- [ ] psp or a switch ig?
 - [ ] learn to swim 
 - [ ] learn to drive
 - [ ] remote controlled helicoptah
