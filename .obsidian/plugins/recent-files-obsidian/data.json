@@ -5,20 +5,16 @@
       "path": "daily notes/2024-11-06.md"
     },
     {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
       "basename": "2024-11-05",
       "path": "daily notes/2024-11-05.md"
     },
     {
-      "basename": "2024-11-07",
-      "path": "daily notes/2024-11-07.md"
-    },
-    {
       "basename": "Bucket List 0521",
       "path": "Bucket List 0521.md"
-    },
-    {
-      "basename": "Z do not fucking open this if you're not me",
-      "path": "Z do not fucking open this if you're not me.md"
     },
     {
       "basename": "Games i wanna play one day",
@@ -35,10 +31,6 @@
     {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
     },
     {
       "basename": "Vuln Sites",
