@@ -5,3 +5,13 @@
 	- [[periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু]]  
 	- exception: Helium (even tho its in [[periodic table - group - 18 - noble gases]])
 - mcq - ends in ns1 or ns2 
+- [[adorsho or protirupi moulo]]
+- [[colorless compound]] 
+- [[Flame test]] e colorful hoy (exception: Be and Mg)
+- [[chromates]], [[dichromates]] and [[manganates]] er shathe jukto hole nirdishto 
+- s block elements react with water and produce [[Hydroxide]] and [[H - Hidrogen]]
+- churi diye kata jay ebong tulonamulok ghonotto kom howay era panir upor vashe
+- [[low ionization energy]] howay shohoje electron chere dite chay
+- [[Strong Reducing agent or tibro bijarok]] 
+- [[Diamagnetic substance]] 
+- 

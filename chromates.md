@@ -1,0 +1,1 @@
+[[Na - sodium]] - $Na_2CrO_4$ - orange

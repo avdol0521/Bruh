@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "special moul classifications.md",
+                "file": "HSC/s block elements.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "special moul classifications"
+              "title": "s block elements"
             }
           }
         ]
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "special moul classifications.md",
+                "file": "HSC/s block elements.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of special moul classifications"
+              "title": "Graph of s block elements"
             }
           },
           {
@@ -269,8 +269,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "92846b47a036ef8e",
   "lastOpenFiles": [
+    "manganates.md",
+    "HSC/s block elements.md",
+    "chromates.md",
+    "dichromates.md",
+    "mouler srenibivag.md",
+    "HSC/p block elements.md",
     "HSC/Periodic table - hsc.md",
     "special moul classifications.md",
     "Lanthanide serease - birol mrittika dhatu.md",
@@ -283,21 +289,15 @@
     "mouler obosthan nirnoy from electron configuration.md",
     "prodhan quantum shongkha.md",
     "electron configuration or binnash ig - HSC.md",
-    "mouler srenibivag.md",
     "HSC/f block elements.md",
     "Actinide serease.md",
     "HSC/d block elements.md",
     "determining the groups of d block elements (shortcut).md",
     "attachments/determining the groups of d block elements (shortcut).png",
     "electron configuration of the last shoktistor of d block elements.md",
-    "HSC/p block elements.md",
     "electron configuration of the last shoktistor of p block elements.md",
     "periodic table - groups.md",
     "determining the atomic numbers of p block elements - exam importance.md",
-    "periodic table - group - 18 - noble gases.md",
-    "periodic table - group - 17 - Halogens.md",
-    "periodic table - group - 16 - chalcogens.md",
-    "periodic table - group - 15.md",
     "attachments/determining the atomic numbers of p block elements - exam importance.png",
     "attachments/Aufbau Principle shortcut.png",
     "attachments/Pasted image 20231024150855.png",

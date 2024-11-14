@@ -14,5 +14,4 @@ tags:
 	- periodic [[periodic table - group - 18 - noble gases]]  (excluding He - Helium)
 - [[determining the atomic numbers of p block elements - exam importance]] 
 - [[electron configuration of the last shoktistor of p block elements]] 
-## Links:
-- 
+- [[adorsho or protirupi moulo]]
