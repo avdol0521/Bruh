@@ -4,5 +4,6 @@
 	- https://drive.google.com/file/d/1kri2u0wKa0N2PXoY0jiWyW-RCYZPo4qk/view
 	- https://drive.google.com/file/d/1XNIBkVFlnQtI6tV42DIXjXtIPQlx922j/view
 - [[burp suite]]
-- [[wordpress plugins]] 
+- [[wordpress plugins - aws]] 
 - [[acunetix]] 
+- [[data recovery tools - aws]] 

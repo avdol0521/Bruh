@@ -1,0 +1,1 @@
+- akorik nishkashon e jeshob dhatu bebohar kora hoy take chalcogen bole

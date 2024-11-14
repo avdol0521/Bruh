@@ -1,0 +1,1 @@
+- shamudrik lobon prostut kari

@@ -1,0 +1,4 @@
+- amount - 6
+- how to remember the elements: 
+	- ji biyai shiggir ashen shabdhane tool-e boshen
+	- [[Ge - germanium]] - [[Bi - Bismuth]] - [[Si - Silicon]] - [[As - Arsenic]] - [[Sb - Antimony]] - [[Te - Tellurium]] - [[B - Boron]]

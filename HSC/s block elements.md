@@ -1,0 +1,7 @@
+- total amount - 14
+- just [[Dhatu - HSC]]
+- the elements in s block: 
+	- [[periodic table - group - 1 - Alkali metals or ক্ষার ধাতু]] 
+	- [[periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু]]  
+	- exception: Helium (even tho its in [[periodic table - group - 18 - noble gases]])
+- mcq - ends in ns1 or ns2 

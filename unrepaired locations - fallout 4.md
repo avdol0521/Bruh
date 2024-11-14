@@ -1,0 +1,5 @@
+- primm - bison steve hotel elavator - reapair 35 or higher required
+- primm - damaged duraframe eyebot
+	- 3 scrap metal
+	- 2 sensor modules
+	- 1 scrap electronics 

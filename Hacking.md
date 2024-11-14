@@ -1,2 +1,4 @@
 - [[AWS course]] 
+- [[list of vulnerabilities i wanna look into or learn]] 
+- [[other vuln lists to look into]] 
 - goofy ass subfile i made wayyyyy back: [[pen test]] 

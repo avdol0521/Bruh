@@ -1,0 +1,138 @@
+- [ ] OS Command Injection
+- [ ] SQL Injection (Second Order)
+- [ ] XML External Entity Injection
+- [ ] LDAP Injection
+- [ ] XPath Injection
+- [ ] XML Injection
+- [ ] ASP.NET Debugging Enabled
+- [ ] DoS Locking Customer Accounts
+- [ ] DoS Buffer Overflows
+- [ ] Storing too much data in session (DoS)
+- [ ] Writing user-provided data to disk (DoS)
+- [ ] HTTP Insecure methods available on Server
+- [ ] Out of band resource load (HTTP)
+- [ ] File path manipulation
+- [ ] Server-site JavaScript code injection
+- [ ] Perl code injection
+- [ ] Ruby code injection
+- [ ] Python code injection
+- [ ] Expression Language injection
+- [ ] Unidentified code injection
+- [ ] Client-side SQLi (Stored DOM-based)
+- [ ] Server-side template injection
+- [ ] SSL injection
+- [ ] Stored XSS
+- [ ] HTTP response header injection
+- [ ] Reflected XSS
+- [ ] Client-side template injection
+- [ ] DOM-based XSS
+- [ ] Reflected DOM-based XSS
+- [ ] Stored DOM-based XSS
+- [ ] DOM-based JavaScript Injection
+- [ ] Reflected DOM-based JavaScript Injection
+- [ ] Stored DOM-based JavaScript Injection
+- [ ] Path-relative style sheet import
+- [ ] Client-side SQLi (DOM-based)
+- [ ] Client-side SQLi (Reflected DOM-based)
+- [ ] WebSocket Hijacking (DOM-based)
+- [ ] WebSocket Hijacking (Reflected DOM-based)
+- [ ] WebSocket Hijacking (Stored DOM-based)
+- [ ] Local Path Manipulation (DOM-based)
+- [ ] Local Path Manipulation (Reflected DOM)
+- [ ] Local Path Manipulation (Stored DOM-based)
+- [ ] Client-side XPATH Injection (DOM-based)
+- [ ] Client-side XPATH Injection (Reflected DOM)
+- [ ] Client-side XPATH Injection (Stored DOM)
+- [ ] Client-side JSON Injection (DOM-based)
+- [ ] Client-side JSON Injection (Reflected DOM)
+- [ ] Client-side JSON Injection (Stored DOM-based)
+- [ ] Flash cross-domain policy
+- [ ] Cross-origin resource sharing
+- [ ] Cross-origin resource sharing (arbitrary)
+- [ ] Cross-origin resource sharing (encrypted)
+- [ ] Cross-origin resource sharing (all sub-domains)
+- [ ] Cross-site Request Forgery (CSRF)
+- [ ] SMTP header injection
+- [ ] Cleartext submission of password
+- [ ] External service interaction (DNS)
+- [ ] External service interaction (HTTP)
+- [ ] External service interaction (SMTP)
+- [ ] Referrer dependent response
+- [ ] Spoofable client IP address
+- [ ] User-agent dependent response
+- [ ] Password returned in a later response
+- [ ] Password submitted using GET method
+- [ ] Password returned in URL query string
+- [ ] SQL statement in request parameter
+- [ ] Cross-domain POST
+- [ ] ASP.NET ViewState without MAC Enabled
+- [ ] XML entity expansion
+- [ ] Long redirection response
+- [ ] Serialized object in HTTP message
+- [ ] Duplicate cookies set
+- [ ] Input returned in response (stored)
+- [ ] Input returned in response (reflected)
+- [ ] Suspicious input transformation (reflected)
+- [ ] Suspicious input transformation (stored)
+- [ ] Open redirection (stored)
+- [ ] Open redirection (reflected)
+- [ ] Open redirection (DOM-based)
+- [ ] Open redirection (Stored DOM-based)
+- [ ] Open redirection (Reflected DOM-based)
+- [ ] SSl cookie without secure flag set
+- [ ] Cookie scoped to parent domain
+- [ ] Cross-domain referrer leakage
+- [ ] Cross-domain script include
+- [ ] Cookie without HTTPOnly flag set
+- [ ] Session token in URL
+- [ ] Password field with autocomplete enabled
+- [ ] Password value set in cookie
+- [ ] Browser cross-site scripting disabled
+- [ ] HTTP TRACE method is enabled
+- [ ] Cookie manipulation (DOM-based)
+- [ ] Cookie manipulation (reflected DOM-based)
+- [ ] Cookie manipulation (DOM-based)
+- [ ] Ajax request header manipulation (DOM-based)
+- [ ] Ajax request header manipulation (reflected)
+- [ ] Ajax request header manipulation (stored DOM)
+- [ ] Denial of service (DOM-based)
+- [ ] Denial of service (reflected DOM-based)
+- [ ] Denial of service (stored DOM-based)
+- [ ] HTML5 web message manipulation DOM-based
+- [ ] HTML5 web message manipulation (reflected)
+- [ ] HTML5 web message manipulation (stored DOM)
+- [ ] HTML5 storage manipulation (DOM-based)
+- [ ] HTML5 storage manipulation (reflected DOM)
+- [ ] HTML5 storage manipulation (stored DOM)
+- [ ] Link manipulation (DOM-based)
+- [ ] Link manipulation (reflected DOM-based)
+- [ ] Link manipulation (stored DOM-based)
+- [ ] Link manipulation (reflected & stored)
+- [ ] Document domain manipulation (DOM-based)
+- [ ] Document domain manipulation reflected DOM
+- [ ] Document domain manipulation (stored DOM)
+- [ ] DOM data manipulation (DOM-based)
+- [ ] CSS Injection (reflected & stored)
+- [ ] Client-side HTTP parameter pollution (reflected)
+- [ ] Client-side HTTP parameter pollution (Stored)
+- [ ] Form action hijacking (reflected)
+- [ ] Form action hijacking (stored)
+- [ ] Database connection string disclosed
+- [ ] Source code disclosure
+- [ ] Directory listing
+- [ ] Email addresses disclosed
+- [ ] Private IP addresses disclosed
+- [ ] Social security numbers disclosed
+- [ ] Credit card numbers disclosed
+- [ ] Private key disclosed
+- [ ] Cacheable HTTPS response
+- [ ] Base64 encoded data in parameter
+- [ ] Multiple content types specified
+- [ ] HTML does not specify charset
+- [ ] HTML uses unrecognized charset
+- [ ] Content type incorrectly stated
+- [ ] Content type is not specified
+- [ ] SSL certificate
+- [ ] Unencrypted communications
+- [ ] Strict transport security not enforced
+- [ ] Mixed content

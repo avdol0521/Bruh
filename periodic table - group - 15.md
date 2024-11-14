@@ -1,0 +1,3 @@
+- how to remember:
+	- nafis ache auntyr bashay
+	- [[N - Nitrogen]] - [[P - Phosphorus]] - [[As - Arsenic]] - [[Sb - Antimony]] - [[Bi - Bismuth]] 

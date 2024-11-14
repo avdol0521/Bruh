@@ -1,0 +1,2 @@
+- [[unrepaired locations - fallout 4]] 
+- [[lockpick locations - fallout 4]] 

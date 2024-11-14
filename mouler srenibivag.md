@@ -1,0 +1,6 @@
+- [[electron configuration or binnash ig - HSC]] onujayi blocks - 4 ta
+	- names corrospond to which orbital the last electron ends up in
+	- [[s block elements]] 
+	- [[p block elements]] 
+	- [[d block elements]] 
+	- [[f block elements]] 
