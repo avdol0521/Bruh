@@ -1,0 +1,1 @@
+Fe, Co, Ni, Ru, Rn, Pd, Pt

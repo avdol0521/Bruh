@@ -1,0 +1,3 @@
+- moulo amount - 15
+- from [[La - Lanthanum]] (57) to [[Lu - Luthinium]] (71)
+- shob [[periodic table - group - 3]] and [[periodic table - period - 6]] er

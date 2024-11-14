@@ -1,0 +1,2 @@
+- basically quantum shongkha = kokkhopoth ba shoktistor 
+- [[prodhan quantum shongkha]] ke n dara prokash kore

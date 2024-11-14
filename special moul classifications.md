@@ -1,0 +1,8 @@
+- [[periodic table - group - 1 - Alkali metals or ক্ষার ধাতু]]
+- [[periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু]]
+- [[periodic table - group - 11 - coin metals]] 
+- [[Ferromagnets]] 
+- [[periodic table - group - 16 - chalcogens]]
+- [[periodic table - group - 17 - Halogens]]
+- [[periodic table - group - 18 - noble gases]]
+- [[Lanthanide serease - birol mrittika dhatu]] 

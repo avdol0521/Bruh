@@ -6,9 +6,3 @@ tags:
 - how to remember:
 	- bor ele gelam india thiland
 	- [[B - Boron]] - [[Al - Aluminum]] - [[Ga - Gallium]] - [[In - Indium]] - [[Tl - Thallium]] 
-## Some details:
-- 
-## Other notes:
-- 
-## Links:
-- 

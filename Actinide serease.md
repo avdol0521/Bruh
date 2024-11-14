@@ -1,0 +1,3 @@
+- moulo amount - 15
+- from [[Ac - Actenium]] (89) to [[Lr - Laurencium]] (103)
+- shob [[periodic table - group - 3]] and periodic [[periodic table - period - 7]] er 
