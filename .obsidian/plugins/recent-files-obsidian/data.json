@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-15",
+      "path": "daily notes/2024-11-15.md"
+    },
+    {
+      "basename": "Daily note template",
+      "path": "Templates/Daily note template.md"
+    },
+    {
+      "basename": "Study Template",
+      "path": "Templates/Study Template.md"
+    },
+    {
+      "basename": "2024-11-14",
+      "path": "daily notes/2024-11-14.md"
+    },
+    {
       "basename": "Van der Waals force",
       "path": "Van der Waals force.md"
     },
@@ -137,14 +153,6 @@
       "path": "HSC/Chemistry 1.md"
     },
     {
-      "basename": "2024-11-14",
-      "path": "daily notes/2024-11-14.md"
-    },
-    {
-      "basename": "2024-11-15",
-      "path": "daily notes/2024-11-15.md"
-    },
-    {
       "basename": "mouler obosthan nirnoy from electron configuration",
       "path": "mouler obosthan nirnoy from electron configuration.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "periodic table - group - 18 - noble gases",
       "path": "periodic table - group - 18 - noble gases.md"
-    },
-    {
-      "basename": "periodic table - group - 17 - Halogens",
-      "path": "periodic table - group - 17 - Halogens.md"
-    },
-    {
-      "basename": "periodic table - group - 16 - chalcogens",
-      "path": "periodic table - group - 16 - chalcogens.md"
     }
   ],
   "omittedPaths": []

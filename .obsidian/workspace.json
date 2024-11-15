@@ -13,26 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Van der Waals force.md",
+                "file": "Templates/Daily note template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Van der Waals force"
+              "title": "Daily note template"
             }
           },
           {
             "id": "78f2fbaba7566b08",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2024-11-15.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-15"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,13 +110,11 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -279,11 +283,16 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "92846b47a036ef8e",
+  "active": "78f2fbaba7566b08",
   "lastOpenFiles": [
+    "Templates/Daily note template.md",
+    "Templates/Study Template.md",
+    "daily notes/2024-11-15.md",
+    "daily notes/2024-11-14.md",
+    "daily notes/2024-11-16.md",
+    "Van der Waals force.md",
     "navigating the periodic table and other stuff - HSC.md",
     "melting and boiling points.md",
-    "Van der Waals force.md",
     "C - Carbon.md",
     "Electronegativity.md",
     "Ionization Energy.md",
@@ -302,12 +311,7 @@
     "opodhatu or Metalloids or Semimetals- HSC.md",
     "periodic table - group - 14.md",
     "HSC/s block elements.md",
-    "periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু.md",
-    "Hydration Enthalpy.md",
-    "Oxidative power or bijaron khomota.md",
-    "Oxidizing power or jaron khomota.md",
     "attachments/Oxidizing power or jaron khomota.png",
-    "Flame test.md",
     "attachments/determining the groups of d block elements (shortcut).png",
     "attachments/determining the atomic numbers of p block elements - exam importance.png",
     "attachments/Aufbau Principle shortcut.png",
