@@ -1,0 +1,1 @@
+[[opodhatu or Metalloids or Semimetals- HSC]] 

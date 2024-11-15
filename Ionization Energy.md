@@ -1,0 +1,3 @@
+# definition:
+**onization energy** (**IE**) is the minimum energy required to remove the most loosely bound [electron](https://en.wikipedia.org/wiki/Electron "Electron") of an isolated gaseous [atom](https://en.wikipedia.org/wiki/Atom "Atom"), [positive ion](https://en.wikipedia.org/wiki/Ion "Ion"), or [molecule](https://en.wikipedia.org/wiki/Molecule "Molecule").
+- same group e top to bottom : decrease

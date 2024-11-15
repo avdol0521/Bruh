@@ -1,0 +1,10 @@
+- Na - golden yellow 
+- K - purple
+- Ca - bricky red 
+- Sr - Crimson red 
+- Ba - kacha apple er moto slightly green 
+- Cr - blue 
+- Rb - reddish purple 
+- Li - Crimson red
+- Be - none / white 
+- Mg - white / none 

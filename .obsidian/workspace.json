@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSC/s block elements.md",
+                "file": "Periodic table - graph - exam importance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "s block elements"
+              "title": "Periodic table - graph - exam importance"
+            }
+          },
+          {
+            "id": "78f2fbaba7566b08",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -127,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "HSC/s block elements.md",
+                "file": "Periodic table - graph - exam importance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of s block elements"
+              "title": "Graph of Periodic table - graph - exam importance"
             }
           },
           {
@@ -269,35 +279,36 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "92846b47a036ef8e",
+  "active": "8f587450ead1abbe",
   "lastOpenFiles": [
-    "manganates.md",
+    "Ionization Energy.md",
+    "Periodic table - graph - exam importance.md",
+    "mouler porjayvittik dhormo.md",
+    "navigating the periodic table - HSC.md",
+    "HSC/chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম.md",
+    "HSC/Periodic table - hsc - did it by myself.md",
+    "block chemistry.md",
+    "HSC/p block elements.md",
+    "adorsho or protirupi moulo.md",
+    "periodic table - group - 13.md",
+    "B - Boron.md",
+    "opodhatu or Metalloids or Semimetals- HSC.md",
+    "periodic table - group - 14.md",
     "HSC/s block elements.md",
+    "periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু.md",
+    "Hydration Enthalpy.md",
+    "Oxidative power or bijaron khomota.md",
+    "Oxidizing power or jaron khomota.md",
+    "attachments/Oxidizing power or jaron khomota.png",
+    "Electronegativity.md",
+    "Flame test.md",
+    "manganates.md",
     "chromates.md",
     "dichromates.md",
-    "mouler srenibivag.md",
-    "HSC/p block elements.md",
-    "HSC/Periodic table - hsc.md",
     "special moul classifications.md",
     "Lanthanide serease - birol mrittika dhatu.md",
     "Ferromagnets.md",
-    "periodic table - group - 11 - coin metals.md",
-    "HSC/chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম.md",
-    "HSC/Chemistry 1.md",
-    "daily notes/2024-11-14.md",
-    "daily notes/2024-11-15.md",
-    "mouler obosthan nirnoy from electron configuration.md",
-    "prodhan quantum shongkha.md",
-    "electron configuration or binnash ig - HSC.md",
-    "HSC/f block elements.md",
-    "Actinide serease.md",
-    "HSC/d block elements.md",
-    "determining the groups of d block elements (shortcut).md",
     "attachments/determining the groups of d block elements (shortcut).png",
-    "electron configuration of the last shoktistor of d block elements.md",
-    "electron configuration of the last shoktistor of p block elements.md",
-    "periodic table - groups.md",
-    "determining the atomic numbers of p block elements - exam importance.md",
     "attachments/determining the atomic numbers of p block elements - exam importance.png",
     "attachments/Aufbau Principle shortcut.png",
     "attachments/Pasted image 20231024150855.png",
@@ -307,7 +318,6 @@
     "attachments/Pasted image 20231123030808.png",
     "attachments/Pasted image 20231123025723.png",
     "attachments/Pasted image 20231123024919.png",
-    "attachments/Pasted image 20231123024903.png",
     "daily notes",
     "attachments",
     "SSC",

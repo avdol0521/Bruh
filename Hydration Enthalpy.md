@@ -1,0 +1,1 @@
+panir shathe bikria kore ki poriman shokti utponno kore

@@ -4,7 +4,7 @@ tags:
 ---
 # Main:
 - total amount - 36
-- [[Dhatu - HSC]], [[Odhatu - HSC]], [[opodhatu or Metalloids - HSC]] 3 tai pawa jay
+- [[Dhatu - HSC]], [[Odhatu - HSC]], [[opodhatu or Metalloids or Semimetals- HSC]] 3 tai pawa jay
 - the elements in s block: 
 	- periodic [[periodic table - group - 13]] 
 	- periodic [[periodic table - group - 14]] 
@@ -14,4 +14,8 @@ tags:
 	- periodic [[periodic table - group - 18 - noble gases]]  (excluding He - Helium)
 - [[determining the atomic numbers of p block elements - exam importance]] 
 - [[electron configuration of the last shoktistor of p block elements]] 
-- [[adorsho or protirupi moulo]]
+- [[adorsho or protirupi moulo]] 
+- [[Oxidizing power or jaron khomota]] 
+- [[Oxidative power or bijaron khomota]] 
+- [[Electronegativity]] 
+- [[Ionization Energy]] 

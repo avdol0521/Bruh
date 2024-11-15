@@ -1,0 +1,1 @@
+eki porjaye bam to dan in p block : decrease
