@@ -8,7 +8,7 @@ Ques
 - this question mainly comes from 
 	- [[periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু]] and 
 	- [[periodic table - period - 3]] 
-## Other notes:
+## Other notes: 
 - 
-## Links:
+## Links: 
 - 

@@ -12,5 +12,5 @@ tags:
 - [[special moul classifications]] 
 - [[periodic table - periods]] 
 - [[periodic table - groups]] - 18
-- [[navigating the periodic table - HSC]] 
+- [[navigating the periodic table and other stuff - HSC]] 
 - [[electron configuration or binnash ig - HSC]] 

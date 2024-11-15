@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Periodic table - graph - exam importance.md",
+                "file": "Van der Waals force.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Periodic table - graph - exam importance"
+              "title": "Van der Waals force"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Periodic table - graph - exam importance.md",
+                "file": "Van der Waals force.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -165,7 +165,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periodic table - graph - exam importance"
+              "title": "Graph of Van der Waals force"
             }
           },
           {
@@ -279,12 +279,19 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "8f587450ead1abbe",
+  "active": "92846b47a036ef8e",
   "lastOpenFiles": [
+    "navigating the periodic table and other stuff - HSC.md",
+    "melting and boiling points.md",
+    "Van der Waals force.md",
+    "C - Carbon.md",
+    "Electronegativity.md",
     "Ionization Energy.md",
-    "Periodic table - graph - exam importance.md",
+    "Electron Affinity.md",
+    "Metallic character.md",
+    "Atomic radius.md",
     "mouler porjayvittik dhormo.md",
-    "navigating the periodic table - HSC.md",
+    "Periodic table - graph - exam importance.md",
     "HSC/chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম.md",
     "HSC/Periodic table - hsc - did it by myself.md",
     "block chemistry.md",
@@ -300,14 +307,7 @@
     "Oxidative power or bijaron khomota.md",
     "Oxidizing power or jaron khomota.md",
     "attachments/Oxidizing power or jaron khomota.png",
-    "Electronegativity.md",
     "Flame test.md",
-    "manganates.md",
-    "chromates.md",
-    "dichromates.md",
-    "special moul classifications.md",
-    "Lanthanide serease - birol mrittika dhatu.md",
-    "Ferromagnets.md",
     "attachments/determining the groups of d block elements (shortcut).png",
     "attachments/determining the atomic numbers of p block elements - exam importance.png",
     "attachments/Aufbau Principle shortcut.png",

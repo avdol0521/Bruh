@@ -4,7 +4,7 @@ tags:
 ---
 # Main topics:
 - [[Ionization Energy]] 
-- [[navigating the periodic table - HSC]] 
+- [[navigating the periodic table and other stuff - HSC]] 
 - [[Periodic table - graph - exam importance]] 
 ## Some details:
 - 
