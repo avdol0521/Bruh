@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Recon and stuff",
+      "path": "Recon and stuff.md"
+    },
+    {
+      "basename": "paramspider",
+      "path": "paramspider.md"
+    },
+    {
+      "basename": "gf-patterns",
+      "path": "gf-patterns.md"
+    },
+    {
+      "basename": "Katana",
+      "path": "Katana.md"
+    },
+    {
+      "basename": "waybackURL",
+      "path": "waybackURL.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "wireshark",
+      "path": "wireshark.md"
+    },
+    {
+      "basename": "2024-11-16",
+      "path": "daily notes/2024-11-16.md"
+    },
+    {
+      "basename": "aws topics",
+      "path": "aws/aws topics.md"
+    },
+    {
       "basename": "2024-11-15",
       "path": "daily notes/2024-11-15.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "electron configuration or binnash ig - HSC",
       "path": "electron configuration or binnash ig - HSC.md"
-    },
-    {
-      "basename": "f block elements",
-      "path": "HSC/f block elements.md"
-    },
-    {
-      "basename": "Actinide serease",
-      "path": "Actinide serease.md"
-    },
-    {
-      "basename": "d block elements",
-      "path": "HSC/d block elements.md"
-    },
-    {
-      "basename": "determining the groups of d block elements (shortcut)",
-      "path": "determining the groups of d block elements (shortcut).md"
-    },
-    {
-      "basename": "electron configuration of the last shoktistor of d block elements",
-      "path": "electron configuration of the last shoktistor of d block elements.md"
-    },
-    {
-      "basename": "electron configuration of the last shoktistor of p block elements",
-      "path": "electron configuration of the last shoktistor of p block elements.md"
-    },
-    {
-      "basename": "periodic table - groups",
-      "path": "periodic table - groups.md"
-    },
-    {
-      "basename": "determining the atomic numbers of p block elements - exam importance",
-      "path": "determining the atomic numbers of p block elements - exam importance.md"
-    },
-    {
-      "basename": "periodic table - group - 18 - noble gases",
-      "path": "periodic table - group - 18 - noble gases.md"
     }
   ],
   "omittedPaths": []

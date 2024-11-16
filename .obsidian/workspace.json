@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Daily note template.md",
+                "file": "Recon and stuff.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily note template"
+              "title": "Recon and stuff"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-11-15.md",
-                "mode": "preview",
+                "file": "daily notes/2024-11-16.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-15"
+              "title": "2024-11-16"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,13 +282,23 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "78f2fbaba7566b08",
+  "active": "92846b47a036ef8e",
   "lastOpenFiles": [
+    "paramspider.md",
+    "Recon and stuff.md",
+    "gf-patterns.md",
+    "Katana.md",
+    "attachments/Pasted image 20241116064957.png",
+    "waybackURL.md",
+    "nmap.md",
+    "wireshark.md",
+    "daily notes/2024-11-16.md",
+    "attachments/Pasted image 20241116063537.png",
+    "aws/aws topics.md",
+    "daily notes/2024-11-15.md",
     "Templates/Daily note template.md",
     "Templates/Study Template.md",
-    "daily notes/2024-11-15.md",
     "daily notes/2024-11-14.md",
-    "daily notes/2024-11-16.md",
     "Van der Waals force.md",
     "navigating the periodic table and other stuff - HSC.md",
     "melting and boiling points.md",
@@ -303,14 +312,6 @@
     "Periodic table - graph - exam importance.md",
     "HSC/chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম.md",
     "HSC/Periodic table - hsc - did it by myself.md",
-    "block chemistry.md",
-    "HSC/p block elements.md",
-    "adorsho or protirupi moulo.md",
-    "periodic table - group - 13.md",
-    "B - Boron.md",
-    "opodhatu or Metalloids or Semimetals- HSC.md",
-    "periodic table - group - 14.md",
-    "HSC/s block elements.md",
     "attachments/Oxidizing power or jaron khomota.png",
     "attachments/determining the groups of d block elements (shortcut).png",
     "attachments/determining the atomic numbers of p block elements - exam importance.png",
@@ -320,8 +321,6 @@
     "attachments/Pasted image 20231123034351.png",
     "attachments/Pasted image 20231123033556.png",
     "attachments/Pasted image 20231123030808.png",
-    "attachments/Pasted image 20231123025723.png",
-    "attachments/Pasted image 20231123024919.png",
     "daily notes",
     "attachments",
     "SSC",
