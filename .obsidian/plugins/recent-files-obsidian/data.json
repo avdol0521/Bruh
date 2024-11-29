@@ -1,8 +1,192 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-11-29",
+      "path": "daily notes/2024-11-29.md"
+    },
+    {
+      "basename": "tmod link",
+      "path": "tmod link.md"
+    },
+    {
+      "basename": "Games",
+      "path": "Games.md"
+    },
+    {
+      "basename": "unrepaired locations - fallout new vegas",
+      "path": "unrepaired locations - fallout new vegas.md"
+    },
+    {
+      "basename": "Fallout new vegas",
+      "path": "Fallout new vegas.md"
+    },
+    {
+      "basename": "lockpick locations - fallout new vegas",
+      "path": "lockpick locations - fallout new vegas.md"
+    },
+    {
+      "basename": "steganography",
+      "path": "steganography.md"
+    },
+    {
+      "basename": "stuff from tryhackme",
+      "path": "stuff from tryhackme.md"
+    },
+    {
+      "basename": "data carving",
+      "path": "data carving.md"
+    },
+    {
+      "basename": "2024-11-28",
+      "path": "daily notes/2024-11-28.md"
+    },
+    {
+      "basename": "overall workout tracker",
+      "path": "trackers/overall workout tracker.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "2024-11-27",
+      "path": "daily notes/2024-11-27.md"
+    },
+    {
+      "basename": "info i wanna keep track of",
+      "path": "info i wanna keep track of.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "2024-11-26",
+      "path": "daily notes/2024-11-26.md"
+    },
+    {
+      "basename": "RDP",
+      "path": "RDP.md"
+    },
+    {
+      "basename": "Protocols",
+      "path": "Protocols.md"
+    },
+    {
+      "basename": "career paths idk",
+      "path": "career paths idk.md"
+    },
+    {
+      "basename": "CyberSecurity",
+      "path": "CyberSecurity.md"
+    },
+    {
+      "basename": "SOC team",
+      "path": "SOC team.md"
+    },
+    {
+      "basename": "SIEM",
+      "path": "SIEM.md"
+    },
+    {
+      "basename": "logs",
+      "path": "logs.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
+      "basename": "2024-11-23",
+      "path": "daily notes/2024-11-23.md"
+    },
+    {
+      "basename": "2024-11-20",
+      "path": "daily notes/2024-11-20.md"
+    },
+    {
+      "basename": "2024-11-25",
+      "path": "daily notes/2024-11-25.md"
+    },
+    {
+      "basename": "2024-11-24",
+      "path": "daily notes/2024-11-24.md"
+    },
+    {
+      "basename": "Stuff I wanna learn",
+      "path": "Stuff I wanna learn.md"
+    },
+    {
+      "basename": "2024-11-18",
+      "path": "daily notes/2024-11-18.md"
+    },
+    {
+      "basename": "Vuln Sites",
+      "path": "aws/Vuln Sites.md"
+    },
+    {
+      "basename": "Burp",
+      "path": "aws/Burp.md"
+    },
+    {
+      "basename": "2024-11-19",
+      "path": "daily notes/2024-11-19.md"
+    },
+    {
+      "basename": "2024-11-21",
+      "path": "daily notes/2024-11-21.md"
+    },
+    {
+      "basename": "hsc tutor list",
+      "path": "HSC/hsc tutor list.md"
+    },
+    {
+      "basename": "2024-11-17",
+      "path": "daily notes/2024-11-17.md"
+    },
+    {
+      "basename": "Unfinished games",
+      "path": "Unfinished games.md"
+    },
+    {
+      "basename": "RCE",
+      "path": "RCE.md"
+    },
+    {
+      "basename": "LFI",
+      "path": "aws/LFI.md"
+    },
+    {
+      "basename": "2024-11-16",
+      "path": "daily notes/2024-11-16.md"
+    },
+    {
+      "basename": "payload links",
+      "path": "aws/payload links.md"
+    },
+    {
       "basename": "Recon and stuff",
       "path": "Recon and stuff.md"
+    },
+    {
+      "basename": "Subfinder",
+      "path": "Subfinder.md"
+    },
+    {
+      "basename": "Katana",
+      "path": "Katana.md"
+    },
+    {
+      "basename": "sqlmap",
+      "path": "sqlmap.md"
+    },
+    {
+      "basename": "nuclei",
+      "path": "nuclei.md"
+    },
+    {
+      "basename": "httpx",
+      "path": "httpx.md"
     },
     {
       "basename": "paramspider",
@@ -13,192 +197,8 @@
       "path": "gf-patterns.md"
     },
     {
-      "basename": "Katana",
-      "path": "Katana.md"
-    },
-    {
       "basename": "waybackURL",
       "path": "waybackURL.md"
-    },
-    {
-      "basename": "nmap",
-      "path": "nmap.md"
-    },
-    {
-      "basename": "wireshark",
-      "path": "wireshark.md"
-    },
-    {
-      "basename": "2024-11-16",
-      "path": "daily notes/2024-11-16.md"
-    },
-    {
-      "basename": "aws topics",
-      "path": "aws/aws topics.md"
-    },
-    {
-      "basename": "2024-11-15",
-      "path": "daily notes/2024-11-15.md"
-    },
-    {
-      "basename": "Daily note template",
-      "path": "Templates/Daily note template.md"
-    },
-    {
-      "basename": "Study Template",
-      "path": "Templates/Study Template.md"
-    },
-    {
-      "basename": "2024-11-14",
-      "path": "daily notes/2024-11-14.md"
-    },
-    {
-      "basename": "Van der Waals force",
-      "path": "Van der Waals force.md"
-    },
-    {
-      "basename": "navigating the periodic table and other stuff - HSC",
-      "path": "navigating the periodic table and other stuff - HSC.md"
-    },
-    {
-      "basename": "melting and boiling points",
-      "path": "melting and boiling points.md"
-    },
-    {
-      "basename": "C - Carbon",
-      "path": "C - Carbon.md"
-    },
-    {
-      "basename": "Electronegativity",
-      "path": "Electronegativity.md"
-    },
-    {
-      "basename": "Ionization Energy",
-      "path": "Ionization Energy.md"
-    },
-    {
-      "basename": "Electron Affinity",
-      "path": "Electron Affinity.md"
-    },
-    {
-      "basename": "Metallic character",
-      "path": "Metallic character.md"
-    },
-    {
-      "basename": "Atomic radius",
-      "path": "Atomic radius.md"
-    },
-    {
-      "basename": "mouler porjayvittik dhormo",
-      "path": "mouler porjayvittik dhormo.md"
-    },
-    {
-      "basename": "Periodic table - graph - exam importance",
-      "path": "Periodic table - graph - exam importance.md"
-    },
-    {
-      "basename": "chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম",
-      "path": "HSC/chem1 - chap 3 - মৌলের পর্যাবৃত্ত ধর্ম.md"
-    },
-    {
-      "basename": "Periodic table - hsc - did it by myself",
-      "path": "HSC/Periodic table - hsc - did it by myself.md"
-    },
-    {
-      "basename": "block chemistry",
-      "path": "block chemistry.md"
-    },
-    {
-      "basename": "p block elements",
-      "path": "HSC/p block elements.md"
-    },
-    {
-      "basename": "adorsho or protirupi moulo",
-      "path": "adorsho or protirupi moulo.md"
-    },
-    {
-      "basename": "periodic table - group - 13",
-      "path": "periodic table - group - 13.md"
-    },
-    {
-      "basename": "B - Boron",
-      "path": "B - Boron.md"
-    },
-    {
-      "basename": "opodhatu or Metalloids or Semimetals- HSC",
-      "path": "opodhatu or Metalloids or Semimetals- HSC.md"
-    },
-    {
-      "basename": "periodic table - group - 14",
-      "path": "periodic table - group - 14.md"
-    },
-    {
-      "basename": "s block elements",
-      "path": "HSC/s block elements.md"
-    },
-    {
-      "basename": "periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু",
-      "path": "periodic table - group - 2 - Pottery metal or মৃৎক্ষার ধাতু.md"
-    },
-    {
-      "basename": "Hydration Enthalpy",
-      "path": "Hydration Enthalpy.md"
-    },
-    {
-      "basename": "Oxidative power or bijaron khomota",
-      "path": "Oxidative power or bijaron khomota.md"
-    },
-    {
-      "basename": "Oxidizing power or jaron khomota",
-      "path": "Oxidizing power or jaron khomota.md"
-    },
-    {
-      "basename": "Flame test",
-      "path": "Flame test.md"
-    },
-    {
-      "basename": "manganates",
-      "path": "manganates.md"
-    },
-    {
-      "basename": "chromates",
-      "path": "chromates.md"
-    },
-    {
-      "basename": "dichromates",
-      "path": "dichromates.md"
-    },
-    {
-      "basename": "special moul classifications",
-      "path": "special moul classifications.md"
-    },
-    {
-      "basename": "Lanthanide serease - birol mrittika dhatu",
-      "path": "Lanthanide serease - birol mrittika dhatu.md"
-    },
-    {
-      "basename": "Ferromagnets",
-      "path": "Ferromagnets.md"
-    },
-    {
-      "basename": "periodic table - group - 11 - coin metals",
-      "path": "periodic table - group - 11 - coin metals.md"
-    },
-    {
-      "basename": "Chemistry 1",
-      "path": "HSC/Chemistry 1.md"
-    },
-    {
-      "basename": "mouler obosthan nirnoy from electron configuration",
-      "path": "mouler obosthan nirnoy from electron configuration.md"
-    },
-    {
-      "basename": "prodhan quantum shongkha",
-      "path": "prodhan quantum shongkha.md"
-    },
-    {
-      "basename": "electron configuration or binnash ig - HSC",
-      "path": "electron configuration or binnash ig - HSC.md"
     }
   ],
   "omittedPaths": []

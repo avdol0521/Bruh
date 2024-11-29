@@ -1,0 +1,5 @@
+- primm - bison steve hotel 
+	- safe - lockpick 75 required
+	- safe - lockpick 50 required
+- nipton:
+	- townhall - 50 required 

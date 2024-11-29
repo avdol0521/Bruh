@@ -1,3 +1,7 @@
 - [[Webdev]]
 - [[Hacking]] 
 - coding in general
+- certification topics of:
+	- eJPT
+	- OSCE 
+	- OSWE

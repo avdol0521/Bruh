@@ -13,4 +13,5 @@ tags:
 - [[daily notes]] 
 - [[trackers]] 
 - [[lessons]] 
-- 
+- [[career paths idk]] 
+- [[info i wanna keep track of]] 

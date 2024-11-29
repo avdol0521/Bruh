@@ -10,6 +10,9 @@
 - [[wireshark]] 
 - [[gf-patterns]]  
 - [[paramspider]] 
+- [[httpx]] 
+- [[nuclei]] 
+- [[sqlmap]] 
 ## nuggets:
 - settings up bbh2v2 and reconftw on a new system first covers most of the dependencies needed for other tools later on 
 - TCP 3 way handshake:
