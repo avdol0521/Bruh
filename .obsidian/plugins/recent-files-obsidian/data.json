@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "lockpick locations - fallout new vegas",
+      "path": "lockpick locations - fallout new vegas.md"
+    },
+    {
+      "basename": "Fallout new vegas",
+      "path": "Fallout new vegas.md"
+    },
+    {
+      "basename": "2024-11-30",
+      "path": "daily notes/2024-11-30.md"
+    },
+    {
       "basename": "2024-11-29",
       "path": "daily notes/2024-11-29.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "unrepaired locations - fallout new vegas",
       "path": "unrepaired locations - fallout new vegas.md"
-    },
-    {
-      "basename": "Fallout new vegas",
-      "path": "Fallout new vegas.md"
-    },
-    {
-      "basename": "lockpick locations - fallout new vegas",
-      "path": "lockpick locations - fallout new vegas.md"
     },
     {
       "basename": "steganography",
@@ -195,10 +199,6 @@
     {
       "basename": "gf-patterns",
       "path": "gf-patterns.md"
-    },
-    {
-      "basename": "waybackURL",
-      "path": "waybackURL.md"
     }
   ],
   "omittedPaths": []

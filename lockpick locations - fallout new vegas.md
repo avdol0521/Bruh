@@ -3,3 +3,4 @@
 	- safe - lockpick 50 required
 - nipton:
 	- townhall - 50 required 
+- solar collection tower - 50 required
