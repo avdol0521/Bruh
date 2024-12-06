@@ -73,13 +73,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a list of things i currently need or want to learn.md",
+                "file": "a list of things im currently learning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a list of things i currently need or want to learn"
+              "title": "a list of things im currently learning"
+            }
+          },
+          {
+            "id": "31e66fde9e91c318",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
