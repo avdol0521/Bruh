@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "stuff for specific learning paths ig",
+      "path": "stuff for specific learning paths ig.md"
+    },
+    {
+      "basename": "other hacking resouces i might wanna keep track of",
+      "path": "other hacking resouces i might wanna keep track of.md"
+    },
+    {
+      "basename": "wordlists",
+      "path": "wordlists.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
       "basename": "random questions and other shit",
       "path": "random questions and other shit.md"
     },
@@ -63,10 +79,6 @@
     {
       "basename": "random ahh aws stuff",
       "path": "random ahh aws stuff.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Hacking.md"
     },
     {
       "basename": "2024-12-04",
@@ -187,18 +199,6 @@
     {
       "basename": "Vuln Sites",
       "path": "aws/Vuln Sites.md"
-    },
-    {
-      "basename": "Burp",
-      "path": "aws/Burp.md"
-    },
-    {
-      "basename": "2024-11-19",
-      "path": "daily notes/2024-11-19.md"
-    },
-    {
-      "basename": "2024-11-21",
-      "path": "daily notes/2024-11-21.md"
     }
   ],
   "omittedPaths": []

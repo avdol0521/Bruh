@@ -58,17 +58,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "random questions and other shit.md",
+                "file": "stuff for specific learning paths ig.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "random questions and other shit"
+              "title": "stuff for specific learning paths ig"
+            }
+          },
+          {
+            "id": "bfa86cc3ea6d2bdc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fallout",
+                "query": "hacking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -314,10 +324,14 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "175bfe175bf60ee4",
+  "active": "bfa86cc3ea6d2bdc",
   "lastOpenFiles": [
-    "science locations - fallout new vegas.md",
+    "stuff for specific learning paths ig.md",
+    "other hacking resouces i might wanna keep track of.md",
+    "wordlists.md",
+    "Hacking.md",
     "random questions and other shit.md",
+    "science locations - fallout new vegas.md",
     "lockpick locations - fallout new vegas.md",
     "Fallout new vegas.md",
     "unrepaired locations - fallout new vegas.md",
@@ -332,16 +346,12 @@
     "stuff from tryhackme.md",
     "aws/AWS course.md",
     "random ahh aws stuff.md",
-    "Hacking.md",
     "daily notes/2024-12-04.md",
     "random ramblings =).md",
     "daily notes/2024-11-30.md",
     "daily notes/2024-12-03.md",
     "ashif vai class hqhq.md",
     "daily notes/2024-11-29.md",
-    "tmod link.md",
-    "Games.md",
-    "steganography.md",
     "attachments/Pasted image 20241116064957.png",
     "attachments/Pasted image 20241116063537.png",
     "attachments/Oxidizing power or jaron khomota.png",

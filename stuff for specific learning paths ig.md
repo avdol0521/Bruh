@@ -1,0 +1,4 @@
+- bug bounty:
+	- https://www.youtube.com/@InsiderPhD/videos
+	- https://www.computerfutures.com/en-jp/knowledge-hub/cyber-security/all-you-need-to-know-about-bug-bounty-hunting/
+	- 
