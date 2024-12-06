@@ -1,0 +1,5 @@
+- academic
+	- math differentiation 
+	- biology 
+- aws:
+	- catch up on bijoy vais classes already wtf is wrong with me

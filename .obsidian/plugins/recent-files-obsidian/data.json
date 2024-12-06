@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "a list of things i currently need or want to learn",
+      "path": "a list of things i currently need or want to learn.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "a list of things im currently learning",
+      "path": "a list of things im currently learning.md"
+    },
+    {
+      "basename": "career paths idk",
+      "path": "career paths idk.md"
+    },
+    {
+      "basename": "CyberSecurity",
+      "path": "CyberSecurity.md"
+    },
+    {
+      "basename": "SOC team",
+      "path": "SOC team.md"
+    },
+    {
+      "basename": "info i wanna keep track of",
+      "path": "info i wanna keep track of.md"
+    },
+    {
       "basename": "stuff for specific learning paths ig",
       "path": "stuff for specific learning paths ig.md"
     },
@@ -133,14 +161,6 @@
       "path": "daily notes/2024-11-27.md"
     },
     {
-      "basename": "info i wanna keep track of",
-      "path": "info i wanna keep track of.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
-    },
-    {
       "basename": "2024-11-26",
       "path": "daily notes/2024-11-26.md"
     },
@@ -151,18 +171,6 @@
     {
       "basename": "Protocols",
       "path": "Protocols.md"
-    },
-    {
-      "basename": "career paths idk",
-      "path": "career paths idk.md"
-    },
-    {
-      "basename": "CyberSecurity",
-      "path": "CyberSecurity.md"
-    },
-    {
-      "basename": "SOC team",
-      "path": "SOC team.md"
     },
     {
       "basename": "SIEM",
@@ -191,14 +199,6 @@
     {
       "basename": "Stuff I wanna learn",
       "path": "Stuff I wanna learn.md"
-    },
-    {
-      "basename": "2024-11-18",
-      "path": "daily notes/2024-11-18.md"
-    },
-    {
-      "basename": "Vuln Sites",
-      "path": "aws/Vuln Sites.md"
     }
   ],
   "omittedPaths": []
