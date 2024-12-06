@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "random questions and other shit",
+      "path": "random questions and other shit.md"
+    },
+    {
+      "basename": "science locations - fallout new vegas",
+      "path": "science locations - fallout new vegas.md"
+    },
+    {
       "basename": "lockpick locations - fallout new vegas",
       "path": "lockpick locations - fallout new vegas.md"
     },
@@ -9,8 +17,76 @@
       "path": "Fallout new vegas.md"
     },
     {
+      "basename": "unrepaired locations - fallout new vegas",
+      "path": "unrepaired locations - fallout new vegas.md"
+    },
+    {
+      "basename": "2024-12-06",
+      "path": "daily notes/2024-12-06.md"
+    },
+    {
+      "basename": "nessus",
+      "path": "nessus.md"
+    },
+    {
+      "basename": "nmap-aws",
+      "path": "nmap-aws.md"
+    },
+    {
+      "basename": "acunetix",
+      "path": "acunetix.md"
+    },
+    {
+      "basename": "2024-12-05",
+      "path": "daily notes/2024-12-05.md"
+    },
+    {
+      "basename": "The OSI Model",
+      "path": "The OSI Model.md"
+    },
+    {
+      "basename": "networking",
+      "path": "networking.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "stuff from tryhackme",
+      "path": "stuff from tryhackme.md"
+    },
+    {
+      "basename": "AWS course",
+      "path": "aws/AWS course.md"
+    },
+    {
+      "basename": "random ahh aws stuff",
+      "path": "random ahh aws stuff.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
+      "basename": "2024-12-04",
+      "path": "daily notes/2024-12-04.md"
+    },
+    {
+      "basename": "random ramblings =)",
+      "path": "random ramblings =).md"
+    },
+    {
       "basename": "2024-11-30",
       "path": "daily notes/2024-11-30.md"
+    },
+    {
+      "basename": "2024-12-03",
+      "path": "daily notes/2024-12-03.md"
+    },
+    {
+      "basename": "ashif vai class hqhq",
+      "path": "ashif vai class hqhq.md"
     },
     {
       "basename": "2024-11-29",
@@ -25,16 +101,8 @@
       "path": "Games.md"
     },
     {
-      "basename": "unrepaired locations - fallout new vegas",
-      "path": "unrepaired locations - fallout new vegas.md"
-    },
-    {
       "basename": "steganography",
       "path": "steganography.md"
-    },
-    {
-      "basename": "stuff from tryhackme",
-      "path": "stuff from tryhackme.md"
     },
     {
       "basename": "data carving",
@@ -47,10 +115,6 @@
     {
       "basename": "overall workout tracker",
       "path": "trackers/overall workout tracker.md"
-    },
-    {
-      "basename": "nmap",
-      "path": "nmap.md"
     },
     {
       "basename": "2024-11-27",
@@ -97,10 +161,6 @@
       "path": "logs.md"
     },
     {
-      "basename": "Hacking",
-      "path": "Hacking.md"
-    },
-    {
       "basename": "2024-11-23",
       "path": "daily notes/2024-11-23.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "2024-11-21",
       "path": "daily notes/2024-11-21.md"
-    },
-    {
-      "basename": "hsc tutor list",
-      "path": "HSC/hsc tutor list.md"
-    },
-    {
-      "basename": "2024-11-17",
-      "path": "daily notes/2024-11-17.md"
-    },
-    {
-      "basename": "Unfinished games",
-      "path": "Unfinished games.md"
-    },
-    {
-      "basename": "RCE",
-      "path": "RCE.md"
-    },
-    {
-      "basename": "LFI",
-      "path": "aws/LFI.md"
-    },
-    {
-      "basename": "2024-11-16",
-      "path": "daily notes/2024-11-16.md"
-    },
-    {
-      "basename": "payload links",
-      "path": "aws/payload links.md"
-    },
-    {
-      "basename": "Recon and stuff",
-      "path": "Recon and stuff.md"
-    },
-    {
-      "basename": "Subfinder",
-      "path": "Subfinder.md"
-    },
-    {
-      "basename": "Katana",
-      "path": "Katana.md"
-    },
-    {
-      "basename": "sqlmap",
-      "path": "sqlmap.md"
-    },
-    {
-      "basename": "nuclei",
-      "path": "nuclei.md"
-    },
-    {
-      "basename": "httpx",
-      "path": "httpx.md"
-    },
-    {
-      "basename": "paramspider",
-      "path": "paramspider.md"
-    },
-    {
-      "basename": "gf-patterns",
-      "path": "gf-patterns.md"
     }
   ],
   "omittedPaths": []

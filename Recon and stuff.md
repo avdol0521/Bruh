@@ -5,7 +5,7 @@
 - [[Hakrawler]] 
 - [[reconFTW]]
 - [[bbh2v2]] 
-- [[nmap]] 
+- [[nmap-aws]] 
 - [[metasploit]] 
 - [[wireshark]] 
 - [[gf-patterns]]  

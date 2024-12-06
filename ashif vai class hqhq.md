@@ -1,0 +1,85 @@
+red teaming:
+- c2 similar to rat 
+- OSCP dorkar nai too costly 
+- main bishoy active directory 
+- CRTP (offsec er offensive security er motoi ig. totally red teaming)
+- OSCP+ idk 
+- CART hardest 
+- CARTE, CRTP (OSWE, OSCP clear korte parleo eita shei hard, par kora jayna. hard as hell. offensive security er dorkar nai age ei stuff) 60 days lab access nibo 300 dollars not OSCP (CRTP)
+- offensive security dorkar. OSCP dudvat if we focused on the stuff above
+- SHOBAR AGE eJPT
+- hack the box active directory pentest path (share korbe ashif vai. theoretical stuff ase khubi effective)
+- SANS world er top (in terms of pdf and shit. not the vid,)
+	- 760 (shobcheye hard - advanced exploit dev), 610, 508, sans 660 (material updated nai ashif vai er kase), 560
+	- ei certificate tai dorkar (ja pamu na coz 8k dollars skull emoji)
+	- resources best in the entire world. machines provide kore. 
+	- infrastructure sans er leaked shit modify korei chalay polapan
+- ring 0
+	- in person training. 
+- offensivePON
+	- baseband exploitation training (ashif vai moriya chilo eitar jonno, in 2021)
+	- pegasus related research korte jaya dekhe baseband related 
+	- leaked shit deikha lav nai coz physically kora lage
+	- A+ quality. basically insane. 
+- black hat 
+	- ashif vai er vallagena
+- signal lab (beginner)
+- offensive tool dev 
+- signal lab
+- in future profession hishabe active directory
+- future e pivoting e pera khabo
+	- vms e NAT network use kori 
+	- normally outside network theke possible na
+	- age windows hack kore pivoting koe kali er nat e dhuka lagbe
+- in future e cloud e thakai lagbe 
+	- shikhte chaile direct pwned labs,  aws red teaming, lab khuja uchit. charao possible
+	- cyberwarfare labs valo but nai 
+	- hacktricks er tao shei (future e joss hobe)
+		- eita dorkar. dekhay disilo aws red teaming (cloud e jawar por eikhane move korte hobe, diye dibe)
+		- grte, arte 
+		- aws red team expert ta ase ashif vai er kase
+		- shobar age pwned labs tho 
+- TCM security 
+	- shob ache just ask away 
+blue teaming: 
+- level 1 cert + eJPT
+- 
+- bug hunting:
+	- future nai 
+	- but ashif vai ekhono kore 
+	- parbona coz ai + program selection and automation ei 2 ta prob face korbo 
+	- future e thakbena temon 
+	- personal pentester hire korbe 
+	- client side bug bounty korle fast pawa jay tbh 
+	- identification e focus kora uchit not exploitation 
+	- auth, business logic bugs
+	- offensive approach for hunting bugs best course chilo ek shomoy (arena te share kora hoisilo, ekbar holeo dekha uchit)
+	- target thakbe vdp and public programs (for ranking)
+	- ahmed halabi idk what he was yapping about 
+		- course launch korsilo 2021 e (share kore dibe ashif vai (for recon)) 
+	- identification er way onek unique hoy 
+	- burp er tool http mod (auth issue) (secret hqhqhqhq) (help korbe if i get to a place with these)
+	- always checklist dhore jaite hobe 
+	- obosshoi js request, response, DOM, php, eigula valovabe jana thaka lagbe 
+	- xss 
+		- html sanitization 
+		- 
+- others (ashif vai):
+	- sql injection 4600usd 
+		- time based e ache ekhon 
+	- ssrf
+	- auth bugs (scanner diye pawa jayna)
+	- arena er 3 ta project thakbe (including pen testing, student ra dhukte parbe if good enuf) (job vacancy in gov jobs as well (law enforcement))
+- vai ami tryhackme rooms e defensive niye dekhechi but red teaming career paths related rooms beshirvag e paywall er piche. and dhoren ami eJPT kore foundation build korlam but din sheshe earn korai target so jodi kichu idea diten ai and future consideration e niye amar red teaming e kon dike jete pari. 
+- freelancing e backend e onek lav ase. 4-5 years por chole jaite pare, but backend jabena, django and node js 
+- machine learning, (python lagbei)
+- red teaming puratai malware niye. 
+- port swigger recently llm er 
+- ML algorythm theory 
+- sustools
+- infrastructure er upor. windows malware. 
+- watch blackhat xD
+- malware dev:
+	- maldev academy resource diye dibe
+	- sektor7
+- 

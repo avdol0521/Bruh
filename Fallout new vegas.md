@@ -1,2 +1,3 @@
 - [[unrepaired locations - fallout new vegas]] 
 - [[lockpick locations - fallout new vegas]] 
+- [[science locations - fallout new vegas]] 

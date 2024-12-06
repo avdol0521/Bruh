@@ -1,0 +1,1 @@
+- i got lost chasing perfection. and forgot that it doesnt exist. went down a rabbit hole. started comparing myself and kind of wend down a downward spiral. forgot what really matters to me, happiness. forgot the whole point of that bucket list was happiness, and that it comes in all shapes and sizes. and mine doesnt have to be that massive :)

@@ -4,3 +4,8 @@
 - nipton:
 	- townhall - 50 required 
 - solar collection tower - 50 required
+- repconn main:
+	- 2nd floor - 75
+	- 3rd floor 75 required
+	- 1st floor (the storage in the museum section) - 75
+	- 1st floor - 100

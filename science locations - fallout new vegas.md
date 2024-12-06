@@ -1,0 +1,5 @@
+- repconn main
+	- 2nd floor - 100 required
+	- 2nd floor - 75 required {shitton of terminals with a dead mr handy} 
+	- 3rd floor - 100 required (i have all the security cards tho)
+	- 1st floor - 100 required (big ass door with terminal) edit: nvm i got it through a hole in the ceiling. had the q-95 matter fucker in it hqhqhq
