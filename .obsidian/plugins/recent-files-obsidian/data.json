@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "random ahh movies",
+      "path": "random ahh movies.md"
+    },
+    {
+      "basename": "watchlist",
+      "path": "watchlist.md"
+    },
+    {
+      "basename": "anime movies and sereases ig",
+      "path": "anime movies and sereases ig.md"
+    },
+    {
+      "basename": "2024-12-07",
+      "path": "daily notes/2024-12-07.md"
+    },
+    {
+      "basename": "2024-12-05",
+      "path": "daily notes/2024-12-05.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "science locations - fallout new vegas",
+      "path": "science locations - fallout new vegas.md"
+    },
+    {
+      "basename": "stuff for specific learning paths ig",
+      "path": "stuff for specific learning paths ig.md"
+    },
+    {
       "basename": "random ramblings =)",
       "path": "random ramblings =).md"
     },
@@ -41,10 +73,6 @@
       "path": "info i wanna keep track of.md"
     },
     {
-      "basename": "stuff for specific learning paths ig",
-      "path": "stuff for specific learning paths ig.md"
-    },
-    {
       "basename": "other hacking resouces i might wanna keep track of",
       "path": "other hacking resouces i might wanna keep track of.md"
     },
@@ -59,10 +87,6 @@
     {
       "basename": "random questions and other shit",
       "path": "random questions and other shit.md"
-    },
-    {
-      "basename": "science locations - fallout new vegas",
-      "path": "science locations - fallout new vegas.md"
     },
     {
       "basename": "lockpick locations - fallout new vegas",
@@ -93,20 +117,12 @@
       "path": "acunetix.md"
     },
     {
-      "basename": "2024-12-05",
-      "path": "daily notes/2024-12-05.md"
-    },
-    {
       "basename": "The OSI Model",
       "path": "The OSI Model.md"
     },
     {
       "basename": "networking",
       "path": "networking.md"
-    },
-    {
-      "basename": "nmap",
-      "path": "nmap.md"
     },
     {
       "basename": "stuff from tryhackme",
@@ -183,22 +199,6 @@
     {
       "basename": "SIEM",
       "path": "SIEM.md"
-    },
-    {
-      "basename": "logs",
-      "path": "logs.md"
-    },
-    {
-      "basename": "2024-11-23",
-      "path": "daily notes/2024-11-23.md"
-    },
-    {
-      "basename": "2024-11-20",
-      "path": "daily notes/2024-11-20.md"
-    },
-    {
-      "basename": "2024-11-25",
-      "path": "daily notes/2024-11-25.md"
     }
   ],
   "omittedPaths": []

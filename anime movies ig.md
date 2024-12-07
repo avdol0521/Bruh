@@ -1,1 +1,0 @@
-- Katsuhiro Otonomo's works

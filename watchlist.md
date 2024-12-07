@@ -1,4 +1,4 @@
 - [[horror movies]] 
 - [[nostalgiabait movies]] 
-- [[anime movies ig]]  
+- [[anime movies and sereases ig]]  
 - [[random ahh movies]] 
