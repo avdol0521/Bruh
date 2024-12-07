@@ -1,0 +1,3 @@
+- https://norse-mythology.org/gods-and-creatures/the-aesir-gods-and-goddesses/ 
+- https://norse-mythology.org/cosmology/yggdrasil-and-the-well-of-urd/
+- https://norse-mythology.org/cosmology/the-nine-worlds/

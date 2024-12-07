@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "a list of things im currently learning.md",
+                "file": "random ramblings =).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a list of things im currently learning"
+              "title": "random ramblings =)"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "me",
+                "query": "random",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d30260deb8b97ea9",
@@ -342,9 +341,11 @@
   },
   "active": "bfa86cc3ea6d2bdc",
   "lastOpenFiles": [
+    "norse mythology.md",
+    "random shit.md",
     "Me.md",
-    "a list of things i currently need or want to learn.md",
     "a list of things im currently learning.md",
+    "a list of things i currently need or want to learn.md",
     "career paths idk.md",
     "CyberSecurity.md",
     "SOC team.md",
@@ -366,8 +367,6 @@
     "The OSI Model.md",
     "networking.md",
     "nmap.md",
-    "stuff from tryhackme.md",
-    "aws/AWS course.md",
     "attachments/Pasted image 20241116064957.png",
     "attachments/Pasted image 20241116063537.png",
     "attachments/Oxidizing power or jaron khomota.png",

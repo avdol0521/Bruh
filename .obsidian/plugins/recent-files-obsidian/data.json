@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "a list of things im currently learning",
-      "path": "a list of things im currently learning.md"
+      "basename": "random ramblings =)",
+      "path": "random ramblings =).md"
+    },
+    {
+      "basename": "norse mythology",
+      "path": "norse mythology.md"
+    },
+    {
+      "basename": "random shit",
+      "path": "random shit.md"
     },
     {
       "basename": "Me",
       "path": "Me.md"
+    },
+    {
+      "basename": "a list of things im currently learning",
+      "path": "a list of things im currently learning.md"
     },
     {
       "basename": "a list of things i currently need or want to learn",
@@ -113,10 +125,6 @@
       "path": "daily notes/2024-12-04.md"
     },
     {
-      "basename": "random ramblings =)",
-      "path": "random ramblings =).md"
-    },
-    {
       "basename": "2024-11-30",
       "path": "daily notes/2024-11-30.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2024-11-25",
       "path": "daily notes/2024-11-25.md"
-    },
-    {
-      "basename": "2024-11-24",
-      "path": "daily notes/2024-11-24.md"
-    },
-    {
-      "basename": "Stuff I wanna learn",
-      "path": "Stuff I wanna learn.md"
     }
   ],
   "omittedPaths": []

@@ -18,3 +18,4 @@ tags:
 - [[random questions and other shit]] 
 - [[a list of things im currently learning]] 
 - [[a list of things i currently need or want to learn]] 
+- [[random shit]] 
