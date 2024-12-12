@@ -1,2 +1,3 @@
 - Katsuhiro Otonomo's works
 - scavengers reign
+- Jin-Roh: The Wolf Brigade

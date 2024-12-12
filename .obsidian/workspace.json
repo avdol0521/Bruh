@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ports and shit.md",
+                "file": "anime movies and sereases ig.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ports and shit"
+              "title": "anime movies and sereases ig"
             }
           },
           {
@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sqlmap workflow example.md",
+                "file": "daily notes/2024-12-12.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sqlmap workflow example"
+              "title": "2024-12-12"
             }
           },
           {
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hacking",
+                "query": "anim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sqlmap workflow example.md",
+                "file": "anime movies and sereases ig.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for sqlmap workflow example"
+              "title": "Backlinks for anime movies and sereases ig"
             }
           },
           {
@@ -313,10 +313,12 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "da6a0edfbcdb6bb9",
+  "active": "f2ee488c4c3ef34c",
   "lastOpenFiles": [
-    "other hacking resouces i might wanna keep track of.md",
+    "ports and shit.md",
+    "daily notes/2024-12-12.md",
     "sqlmap workflow example.md",
+    "other hacking resouces i might wanna keep track of.md",
     "Hacking.md",
     "URL extractor python script.md",
     "aws ip homework documentation.md",
@@ -324,8 +326,6 @@
     "aws/LFI dorks.md",
     "nmap.md",
     "random questions and other shit.md",
-    "daily notes/2024-12-12.md",
-    "ports and shit.md",
     "aws ip homework chapgpt response full log.md",
     "daily notes/2024-12-11.md",
     "github.md",
