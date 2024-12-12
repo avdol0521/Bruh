@@ -82,4 +82,16 @@ blue teaming:
 - malware dev:
 	- maldev academy resource diye dibe
 	- sektor7
-- 
+# another class:
+- radio frequency niye onek kisui ashtese 
+	- rtl sdr
+- esp32 interesting. walkie talkie lagbe 
+- windows internals 
+- electric pin diye shell newa jay (what????????)
+- https://drive.google.com/drive/u/0/folders/1RFmo4kMfsIuvCawoUoool7becNiF-i_9
+- scada system e focus kora lagbe - 0 touch sector
+- drive e CRTP dewa ase ar kisu temon lagena fr
+- md eklasur rahman interesting person
+- earn korte chaile cloud security/blue/red teaming 
+- https://voidstarsec.com/blog/pifex-config
+- rat tips: jekono c / c# programs kemne unpacking kore look into it. reverse engineering mega tip fr

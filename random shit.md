@@ -1,1 +1,2 @@
 - [[norse mythology]] 
+- [[cool AI stuff]] 

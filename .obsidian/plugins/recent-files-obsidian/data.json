@@ -1,6 +1,106 @@
 {
   "recentFiles": [
     {
+      "basename": "nmap list output splicer python script",
+      "path": "nmap list output splicer python script.md"
+    },
+    {
+      "basename": "aws ip homework documentation",
+      "path": "aws ip homework documentation.md"
+    },
+    {
+      "basename": "URL extractor python script",
+      "path": "URL extractor python script.md"
+    },
+    {
+      "basename": "LFI dorks",
+      "path": "aws/LFI dorks.md"
+    },
+    {
+      "basename": "nmap",
+      "path": "nmap.md"
+    },
+    {
+      "basename": "random questions and other shit",
+      "path": "random questions and other shit.md"
+    },
+    {
+      "basename": "2024-12-12",
+      "path": "daily notes/2024-12-12.md"
+    },
+    {
+      "basename": "ports and shit",
+      "path": "ports and shit.md"
+    },
+    {
+      "basename": "aws ip homework chapgpt response full log",
+      "path": "aws ip homework chapgpt response full log.md"
+    },
+    {
+      "basename": "other hacking resouces i might wanna keep track of",
+      "path": "other hacking resouces i might wanna keep track of.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
+      "basename": "2024-12-11",
+      "path": "daily notes/2024-12-11.md"
+    },
+    {
+      "basename": "github",
+      "path": "github.md"
+    },
+    {
+      "basename": "Git and github",
+      "path": "Git and github.md"
+    },
+    {
+      "basename": "git",
+      "path": "git.md"
+    },
+    {
+      "basename": "2024-12-08",
+      "path": "daily notes/2024-12-08.md"
+    },
+    {
+      "basename": "cool AI stuff",
+      "path": "cool AI stuff.md"
+    },
+    {
+      "basename": "random shit",
+      "path": "random shit.md"
+    },
+    {
+      "basename": "Me",
+      "path": "Me.md"
+    },
+    {
+      "basename": "info i wanna keep track of",
+      "path": "info i wanna keep track of.md"
+    },
+    {
+      "basename": "a list of things im currently learning",
+      "path": "a list of things im currently learning.md"
+    },
+    {
+      "basename": "a list of things i currently need or want to learn",
+      "path": "a list of things i currently need or want to learn.md"
+    },
+    {
+      "basename": "ashif vai class hqhq",
+      "path": "ashif vai class hqhq.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "2024-12-07",
+      "path": "daily notes/2024-12-07.md"
+    },
+    {
       "basename": "random ahh movies",
       "path": "random ahh movies.md"
     },
@@ -13,16 +113,8 @@
       "path": "anime movies and sereases ig.md"
     },
     {
-      "basename": "2024-12-07",
-      "path": "daily notes/2024-12-07.md"
-    },
-    {
       "basename": "2024-12-05",
       "path": "daily notes/2024-12-05.md"
-    },
-    {
-      "basename": "nmap",
-      "path": "nmap.md"
     },
     {
       "basename": "science locations - fallout new vegas",
@@ -41,22 +133,6 @@
       "path": "norse mythology.md"
     },
     {
-      "basename": "random shit",
-      "path": "random shit.md"
-    },
-    {
-      "basename": "Me",
-      "path": "Me.md"
-    },
-    {
-      "basename": "a list of things im currently learning",
-      "path": "a list of things im currently learning.md"
-    },
-    {
-      "basename": "a list of things i currently need or want to learn",
-      "path": "a list of things i currently need or want to learn.md"
-    },
-    {
       "basename": "career paths idk",
       "path": "career paths idk.md"
     },
@@ -69,24 +145,8 @@
       "path": "SOC team.md"
     },
     {
-      "basename": "info i wanna keep track of",
-      "path": "info i wanna keep track of.md"
-    },
-    {
-      "basename": "other hacking resouces i might wanna keep track of",
-      "path": "other hacking resouces i might wanna keep track of.md"
-    },
-    {
       "basename": "wordlists",
       "path": "wordlists.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Hacking.md"
-    },
-    {
-      "basename": "random questions and other shit",
-      "path": "random questions and other shit.md"
     },
     {
       "basename": "lockpick locations - fallout new vegas",
@@ -139,66 +199,6 @@
     {
       "basename": "2024-12-04",
       "path": "daily notes/2024-12-04.md"
-    },
-    {
-      "basename": "2024-11-30",
-      "path": "daily notes/2024-11-30.md"
-    },
-    {
-      "basename": "2024-12-03",
-      "path": "daily notes/2024-12-03.md"
-    },
-    {
-      "basename": "ashif vai class hqhq",
-      "path": "ashif vai class hqhq.md"
-    },
-    {
-      "basename": "2024-11-29",
-      "path": "daily notes/2024-11-29.md"
-    },
-    {
-      "basename": "tmod link",
-      "path": "tmod link.md"
-    },
-    {
-      "basename": "Games",
-      "path": "Games.md"
-    },
-    {
-      "basename": "steganography",
-      "path": "steganography.md"
-    },
-    {
-      "basename": "data carving",
-      "path": "data carving.md"
-    },
-    {
-      "basename": "2024-11-28",
-      "path": "daily notes/2024-11-28.md"
-    },
-    {
-      "basename": "overall workout tracker",
-      "path": "trackers/overall workout tracker.md"
-    },
-    {
-      "basename": "2024-11-27",
-      "path": "daily notes/2024-11-27.md"
-    },
-    {
-      "basename": "2024-11-26",
-      "path": "daily notes/2024-11-26.md"
-    },
-    {
-      "basename": "RDP",
-      "path": "RDP.md"
-    },
-    {
-      "basename": "Protocols",
-      "path": "Protocols.md"
-    },
-    {
-      "basename": "SIEM",
-      "path": "SIEM.md"
     }
   ],
   "omittedPaths": []

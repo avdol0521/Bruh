@@ -3,6 +3,7 @@
 - cyber security in general
 	- https://tryhackme.com/r/room/furthernmap or go to the dashboard ig idk
 	- https://academy.hackthebox.com/module/18/section/94
+	- https://ctflearn.com/lab/SQL-Injection-Part-1
 - pygame: 
 	- https://www.youtube.com/watch?v=DHgj5jhMJKg&list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv
 	- 3d donut: https://www.a1k0n.net/2011/07/20/donut-math.html
