@@ -1,3 +1,4 @@
+## script:
 ```
 def extract_urls_with_equal_sign(input_file, output_file=None):
     """
@@ -53,3 +54,29 @@ if __name__ == '__main__':
     # Optionally specify an output file as the second argument
     extract_urls_with_equal_sign('input.txt', 'output.txt')
 ```
+## modification guidelines:
+
+### what to modify:
+##### The key parts you might want to change are
+1. The filtering condition inside the function
+2. The input and output processing
+
+##### For example, if you wanted to filter lines:
+- Containing a specific word: `if 'keyword' in line:`
+- Starting with a certain prefix: `if line.startswith('http'):`
+- Matching a specific pattern: `if re.search(pattern, line):`
+- Lines longer than a certain length: `if len(line) > 100:`
+- Lines containing numbers: `if any(char.isdigit() for char in line):`
+### where to modify:
+```
+# This is the key line to change
+if '=' in url:  # Replace this condition with whatever you want to filter by
+    urls_with_equal.append(url)
+```
+You can replace `'=' in url` with any condition that returns `True` or `False`. For example:
+
+- `line.startswith('http')` to filter URLs starting with 'http'
+- `len(line) > 10` to filter lines longer than 10 characters
+- `'keyword' in line` to filter lines containing a specific word
+
+The beauty is in its simplicity - just swap out that condition, and you've got a flexible list filter.

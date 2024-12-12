@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "nmap list output splicer python script",
-      "path": "nmap list output splicer python script.md"
+      "basename": "sqlmap workflow example",
+      "path": "sqlmap workflow example.md"
+    },
+    {
+      "basename": "other hacking resouces i might wanna keep track of",
+      "path": "other hacking resouces i might wanna keep track of.md"
+    },
+    {
+      "basename": "Hacking",
+      "path": "Hacking.md"
+    },
+    {
+      "basename": "URL extractor python script",
+      "path": "URL extractor python script.md"
     },
     {
       "basename": "aws ip homework documentation",
       "path": "aws ip homework documentation.md"
     },
     {
-      "basename": "URL extractor python script",
-      "path": "URL extractor python script.md"
+      "basename": "nmap list output splicer python script",
+      "path": "nmap list output splicer python script.md"
     },
     {
       "basename": "LFI dorks",
@@ -35,14 +47,6 @@
     {
       "basename": "aws ip homework chapgpt response full log",
       "path": "aws ip homework chapgpt response full log.md"
-    },
-    {
-      "basename": "other hacking resouces i might wanna keep track of",
-      "path": "other hacking resouces i might wanna keep track of.md"
-    },
-    {
-      "basename": "Hacking",
-      "path": "Hacking.md"
     },
     {
       "basename": "2024-12-11",
@@ -195,10 +199,6 @@
     {
       "basename": "random ahh aws stuff",
       "path": "random ahh aws stuff.md"
-    },
-    {
-      "basename": "2024-12-04",
-      "path": "daily notes/2024-12-04.md"
     }
   ],
   "omittedPaths": []

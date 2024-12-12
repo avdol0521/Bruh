@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nmap list output splicer python script.md",
+                "file": "sqlmap workflow example.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmap list output splicer python script"
+              "title": "sqlmap workflow example"
             }
           },
           {
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lfi",
+                "query": "hacking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -255,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nmap list output splicer python script.md",
+                "file": "sqlmap workflow example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +265,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for nmap list output splicer python script"
+              "title": "Backlinks for sqlmap workflow example"
             }
           },
           {
@@ -315,17 +315,18 @@
   },
   "active": "da6a0edfbcdb6bb9",
   "lastOpenFiles": [
+    "other hacking resouces i might wanna keep track of.md",
+    "sqlmap workflow example.md",
+    "Hacking.md",
+    "URL extractor python script.md",
     "aws ip homework documentation.md",
     "nmap list output splicer python script.md",
-    "URL extractor python script.md",
     "aws/LFI dorks.md",
     "nmap.md",
     "random questions and other shit.md",
     "daily notes/2024-12-12.md",
     "ports and shit.md",
     "aws ip homework chapgpt response full log.md",
-    "other hacking resouces i might wanna keep track of.md",
-    "Hacking.md",
     "daily notes/2024-12-11.md",
     "github.md",
     "Git and github.md",
@@ -340,7 +341,6 @@
     "ashif vai class hqhq.md",
     "Untitled.md",
     "daily notes/2024-12-07.md",
-    "random ahh movies.md",
     "attachments/Pasted image 20241116064957.png",
     "attachments/Pasted image 20241116063537.png",
     "attachments/Oxidizing power or jaron khomota.png",
