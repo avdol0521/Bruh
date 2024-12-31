@@ -1,0 +1,1 @@
+- one of those mindless mobile games. start off as caveman. gather shit. go to upgrade spot and upgrade. random shit happens. keep improving through the ages. top down view at first. until reaches galactic level ig. simple low poly 3d models. 

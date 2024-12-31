@@ -7,6 +7,9 @@
 - pygame: 
 	- https://www.youtube.com/watch?v=DHgj5jhMJKg&list=PLjcN1EyupaQm20hlUE11y9y8EY2aXLpnv
 	- 3d donut: https://www.a1k0n.net/2011/07/20/donut-math.html
+- looping animations with python:
+	- https://www.instructables.com/Creating-Perfectly-Looping-Animations-With-Python/
+	- https://matplotlib.org/stable/users/getting_started/
 - academic: 
 	- chem chap 3: https://www.youtube.com/watch?v=HYOYxNeW0eE&list=PLuTExhEg439nRShoL5qtvGZv__kY5gWRe&index=38
 	- chem chap 2: https://www.youtube.com/watch?v=FCT4oVEEaps&list=PLuTExhEg439lAn5hWBJEytPxQHMNx-icM&index=91

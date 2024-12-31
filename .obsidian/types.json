@@ -32,6 +32,7 @@
     "curl amount": "number",
     "pushup amount": "number",
     "squat amount": "number",
-    "rows amount": "number"
+    "rows amount": "number",
+    "crunches amount": "number"
   }
 }

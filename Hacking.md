@@ -4,3 +4,4 @@
 - [[other vuln lists to look into]] 
 - goofy ass subfile i made wayyyyy back: [[pen test]] 
 - [[other hacking resouces i might wanna keep track of]] 
+- [[IoT haxxer shit i wanna make]] 

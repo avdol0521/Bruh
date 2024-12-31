@@ -43,13 +43,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily notes/2024-12-12.md",
+                "file": "daily notes/2024-12-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-12"
+              "title": "2024-12-21"
+            }
+          },
+          {
+            "id": "bedb4f147aa382d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily notes/2024-12-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-26"
+            }
+          },
+          {
+            "id": "7f44c54295c86f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "trackers/overall workout tracker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "overall workout tracker"
             }
           },
           {
@@ -58,17 +88,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aws/LFI dorks.md",
-                "mode": "preview",
+                "file": "CVE-2001-0537.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LFI dorks"
+              "title": "CVE-2001-0537"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anim",
+                "query": "sites",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,8 +170,7 @@
               "title": "Trash explorer"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -255,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anime movies and sereases ig.md",
+                "file": "trackers/overall workout tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +294,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for anime movies and sereases ig"
+              "title": "Backlinks for overall workout tracker"
             }
           },
           {
@@ -274,12 +303,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily notes/2024-10-19.md",
+                "file": "limit maths - hsc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-10-19"
+              "title": "Outgoing links from limit maths - hsc"
             }
           },
           {
@@ -292,7 +321,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -313,34 +343,34 @@
       "obsidian-trash-explorer:Open trash explorer": false
     }
   },
-  "active": "f2ee488c4c3ef34c",
+  "active": "7f44c54295c86f38",
   "lastOpenFiles": [
-    "ports and shit.md",
-    "daily notes/2024-12-12.md",
-    "sqlmap workflow example.md",
-    "other hacking resouces i might wanna keep track of.md",
+    "daily notes/2025-01-01.md",
+    "Templates/Daily note template.md",
+    "Templates/Study Template.md",
+    "trackers/overall workout tracker.md",
+    "daily notes/2024-12-31.md",
+    "daily notes/2024-12-26.md",
+    "daily notes/2024-12-27.md",
+    "daily notes/2024-12-28.md",
+    "daily notes/2024-12-29.md",
+    "daily notes/2024-12-30.md",
+    "IoT haxxer shit i wanna make.md",
     "Hacking.md",
-    "URL extractor python script.md",
-    "aws ip homework documentation.md",
-    "nmap list output splicer python script.md",
-    "aws/LFI dorks.md",
-    "nmap.md",
-    "random questions and other shit.md",
-    "aws ip homework chapgpt response full log.md",
-    "daily notes/2024-12-11.md",
-    "github.md",
-    "Git and github.md",
-    "git.md",
-    "daily notes/2024-12-08.md",
-    "cool AI stuff.md",
-    "random shit.md",
-    "Me.md",
+    "esp32 display wiring modification documentation.md",
+    "rough game idea.md",
+    "daily notes/2024-12-21.md",
+    "daily notes/2024-12-20.md",
+    "daily notes/2024-12-19.md",
+    "haxxer search engines and sites fr.md",
+    "daily notes/2024-12-18.md",
+    "other hacking resouces i might wanna keep track of.md",
     "info i wanna keep track of.md",
+    "random questions and other shit.md",
+    "random ramblings =).md",
+    "random shit.md",
     "a list of things im currently learning.md",
-    "a list of things i currently need or want to learn.md",
-    "ashif vai class hqhq.md",
-    "Untitled.md",
-    "daily notes/2024-12-07.md",
+    "reddit piracy post draft.md",
     "attachments/Pasted image 20241116064957.png",
     "attachments/Pasted image 20241116063537.png",
     "attachments/Oxidizing power or jaron khomota.png",
